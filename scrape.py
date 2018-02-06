@@ -2,50 +2,41 @@ from requests.exceptions import ConnectionError
 from time import time, localtime, strftime
 from datetime import timedelta, datetime
 from pytz import timezone
-import codecs
 
 from bs4 import BeautifulSoup
 import requests
-# from requests.exceptions import Timeout
-from requests.packages.urllib3.util.retry import Retry
-from requests.adapters import HTTPAdapter
+import codecs
 
 import textwrap as tw
 
-import sqlite3
-from sqlite3 import Error
-
-# import sqlalchemy
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 
 from sqlalchemy import Column, Integer, String, Boolean, ForeignKey, DateTime  # , func
-from sqlalchemy.orm import relationship
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import relationship, sessionmaker
+
+from utils import (convert_size,
+                   requests_retry_session,
+                   unescape,
+                   create_connection)
 
 
-BASE = 1
-LOGFILE = 'logfile_0.txt'
+BASE = 12
+LOGFILE = 'logfile_test.txt'
+SEPARATOR = '-------------------------------------------------------------------------------------------\n'
 
 
-def requests_retry_session(
-    retries=3,
-    backoff_factor=0.3,
-    status_forcelist=(500, 502, 504),
-    session=None,
-):
-    session = session or requests.Session()
-    retry = Retry(
-        total=retries,
-        read=retries,
-        connect=retries,
-        backoff_factor=backoff_factor,
-        status_forcelist=status_forcelist,
-    )
-    adapter = HTTPAdapter(max_retries=retry)
-    session.mount('http://', adapter)
-    session.mount('https://', adapter)
-    return session
+def datetime_berlin():
+    return datetime.now(timezone('Europe/Berlin'))
+
+
+def write_to_log(messages):
+    for message in messages:
+        print(message[:-1])
+    file = codecs.open(LOGFILE, 'a', 'utf-8')
+    for message in messages:
+        file.writelines(message)
+    file.close()
 
 
 url = 'http://tut-audio.su'
@@ -61,10 +52,7 @@ for i in range(2):
 url_letter = url + letter_links[0]
 
 page = requests.get(url_letter)
-
 soup = BeautifulSoup(page.content, 'html.parser')
-# print(soup.prettify())
-# print(url_letter)
 
 categories = []
 while True:
@@ -81,48 +69,11 @@ while True:
     else:
         break
 
-# cats = categories[:2]
-cats = categories
-
-
-def write_to_log(messages):
-    for message in messages:
-        print(message[:-1])
-    file = codecs.open(LOGFILE, 'a', 'utf-8')
-    for message in messages:
-        file.writelines(message)
-    file.close()
-
-
-SEPARATOR = '-------------------------------------------------------------------------------------------\n'
-
-
-def unescape(s):
-    s = s.replace("&lt;", "<")
-    s = s.replace("&gt;", ">")
-    s = s.replace("&quot;", '"')
-    s = s.replace("&apos;", "'")
-    s = s.replace("&#39;", "'")
-    s = s.replace("&amp;", "&")
-    return s
-
-
-def create_connection(db_file):
-    """ create a database connection to a SQLite database """
-    try:
-        conn = sqlite3.connect(db_file)
-        print(sqlite3.version)
-    except Error as e:
-        print(e)
-    finally:
-        conn.close()
-
 
 database = 'mp3database{}.db'.format(BASE)
 
 create_connection(
     "C:/Users/val31/Desktop/Projects/mp3scrape/{}".format(database))
-
 
 Base = declarative_base()
 
@@ -132,8 +83,8 @@ class Artist(Base):
 
     id = Column(Integer, primary_key=True)
     name = Column(String(250), nullable=False)
-    created_date = Column(
-        DateTime, default=datetime.now(timezone('Europe/Berlin')))
+    created_date = Column(DateTime, default=datetime_berlin)
+    updated_date = Column(DateTime, default=datetime_berlin)
     albums = relationship('Album', back_populates="artist")
 #     tracks = relationship('Track', back_populates="artist")
 
@@ -145,21 +96,20 @@ class Album(Base):
     __tablename__ = 'album'
 
     id = Column(Integer, primary_key=True)
-    name = Column(String(250))
+    name = Column(String(250), nullable=False)
     year = Column(Integer)
     url = Column(String)
     cover_url = Column(String)
     number_of_tracks = Column(Integer)
     live_tracks = Column(Integer)
     genre = Column(String)
-    created_date = Column(
-        DateTime, default=datetime.now(timezone('Europe/Berlin')))
+    created_date = Column(DateTime, default=datetime_berlin)
+    updated_date = Column(DateTime, default=datetime_berlin)
 
     artist_id = Column(Integer, ForeignKey('artist.id'))
     artist = relationship("Artist", back_populates="albums",
                           foreign_keys=[artist_id])
 
-    # , foreign_keys=[track.id])
     tracks = relationship('Track', back_populates="album")
 
     def verbose(self):
@@ -173,6 +123,7 @@ class Album(Base):
         print('Cover URL: {}'.format(self.cover_url))
         print('ID: {}'.format(self.id))
         print('Created: {}'.format(self.created_date))
+        print('Last Update: {}'.format(self.updated_date))
 
     def __repr__(self):
         if self.year:
@@ -185,19 +136,19 @@ class Track(Base):
     __tablename__ = 'track'
 
     id = Column(Integer, primary_key=True)
-    name = Column(String)
+    name = Column(String, nullable=False)
     year = Column(Integer)
     url = Column(String)
     number = Column(Integer)
     live = Column(Boolean)
-    created_date = Column(
-        DateTime, default=datetime.now(timezone('Europe/Berlin')))
+    size = Column(Integer)
+    created_date = Column(DateTime, default=datetime_berlin)
+    updated_date = Column(DateTime, default=datetime_berlin)
 
 #     artist_id = Column(Integer, ForeignKey('artist.id'))
 #     artist = relationship("Artist", back_populates="tracks", foreign_keys=[artist_id])
 
     album_id = Column(Integer, ForeignKey('album.id'))
-    # , foreign_keys=[album_id])
     album = relationship("Album", back_populates="tracks")
 
     def verbose(self):
@@ -207,8 +158,10 @@ class Track(Base):
         print('Number: {} / {}'.format(self.number, self.album.number_of_tracks))
         print('URL: {}'.format(self.url))
         print('ID: {}'.format(self.id))
+        print('Size: {}'.format(convert_size(self.size)))
         print('Created: {}'.format(self.created_date))
-        if live:
+        print('Last Update: {}'.format(self.updated_date))
+        if self.live:
             status = 'Live'
         else:
             status = 'Missing'
@@ -256,63 +209,19 @@ def create_album(album_dict):
 
 def get_tracks(album, links):
     track_num = 1
-    missing_tracks_from_album = 0
-    live_tracks = 0
-    total_tracks = len(links)
-#     missing_tracks = []
-    timeouts = []
-#     artist = session.query(Artist).filter_by(name=album.artist).first()
     for link in links:
         track = {}
         _, track['name'] = link['data-title'].split(' — ')
-#         track['artist'] = unescape(track['artist'])
         track['year'] = album.year
         track['album'] = album
-#         track['artist'] = artist
         track['name'] = unescape(track['name'])
         track['number'] = track_num
-        log_track_num = '{}/{}'.format(track_num, total_tracks)
-        track['url'] = ''
-        write_to_log(
-            [tw.indent('{} {}\n'.format(log_track_num, track['name']), '        ')])
-        tr_page = ''
-
-        t0 = time()
-        try:
-            tr_page = requests_retry_session().head(
-                url + link['data-mp3url'],
-            )
-        except Exception as x:
-            message = 'Exception: {}'.format(x.__class__.__name__)
-            track['live'] = False
-        else:
-            message = 'Status code: {}'.format(tr_page.status_code)
-            if tr_page.status_code is 524:
-                timeouts.append(url + link['data-mp3url'])
-                write_to_log([tw.indent('Timeout!\n', '        ')])
-            if tr_page.status_code not in [200, 524]:
-                missing_tracks_from_album += 1
-                write_to_log([tw.indent('Track is missing!\n', '        ')])
-            track['live'] = False
-        finally:
-            t1 = time()
-            elapsed = timedelta(seconds=t1 - t0)
-            write_to_log(
-                [tw.indent('{} and took {}'.format(message, elapsed), '        ')])
-
-        if tr_page and tr_page.status_code == 200:
-            track['url'] = url + link['data-mp3url']
-            track['live'] = True
-            live_tracks += 1
+        track['url'] = url + link['data-mp3url']
         new_track = Track(**track)
         session.add(new_track)
-        session.commit()
-        write_to_log(
-            [tw.indent('{}\n'.format(url + link['data-mp3url']), '        ')])
-
         track_num += 1
-    write_to_log([SEPARATOR])
-    return missing_tracks_from_album, live_tracks, timeouts
+    session.commit()
+    return track_num
 
 
 def retrieve_or_create(artist_name):
@@ -336,17 +245,18 @@ file.close()
 start = time()
 write_to_log([('Started at: {}\n'.format(
     strftime("%a, %d %b %Y %H:%M:%S +0000", localtime(start))))])
+cats = categories
 # cats = [{'name': '0800', 'url': '/music-file/0800'}, ]
 # cats = [{'name': '007-man', 'url': '/music-file/007-man'}, ]
 # cats = [{'name': '08001', 'url': '/music-file/08001'}, ]
-# cats = [{'name': '007-band', 'url': '/music-file/007-band'}, ]
+cats = [{'name': '007-band', 'url': '/music-file/007-band'}, ]
 alben = []
 artists_added = 0
 albums_added = 0
 tracks_added = 0
-missing_tracks = 0
+# missing_tracks = 0
 connection_errors = 0
-timeouts = []
+# timeouts = []
 for category in cats:
     page = requests.get(url + category['url'])
     if page.status_code == 404:
@@ -398,16 +308,21 @@ for category in cats:
                                     album_num -= 1
                                 else:
                                     album = create_album(album_dict)
-                                    missing, live, timeouts_alb = get_tracks(
+                                    # missing, live, timeouts_alb = get_tracks(
+                                    #     album, links_to_tracks)
+                                    track_num = get_tracks(
                                         album, links_to_tracks)
-                                    print('Missing: {}, Live: {}, Timeouts: {}\n'.format(
-                                        missing, live, timeouts_alb))
-                                    album.live_tracks = live
-                                    album.number_of_tracks = live + missing
+                                    # print('Missing: {}, Live: {}, Timeouts: {}\n'.format(
+                                    #     missing, live, timeouts_alb))
+                                    # album.live_tracks = live
+                                    # album.number_of_tracks = live + missing
+                                    album.number_of_tracks = track_num
                                     session.commit()
-                                    missing_tracks += missing
-                                    tracks_added += live
-                                    timeouts += timeouts_alb
+                                    # missing_tracks += missing
+                                    # tracks_added += live
+                                    tracks_added += track_num
+                                    write_to_log([SEPARATOR])
+                                    # timeouts += timeouts_alb
                     except AttributeError as e:
                         print(e)
                         print(track)
@@ -433,7 +348,7 @@ write_to_log(['Ended at {}, so needed {}\n'.format(endtime, elapsed)])
 write_to_log(['Artists added to data base: {}\n'.format(artists_added)])
 write_to_log(['Albums added to data base: {}\n'.format(albums_added)])
 write_to_log(['Tracks added to data base: {}\n'.format(tracks_added)])
-write_to_log(['Missing tracks: {}\n'.format(missing_tracks)])
+# write_to_log(['Missing tracks: {}\n'.format(missing_tracks)])
 write_to_log(['Connection errors: {}\n'.format(connection_errors)])
-write_to_log(['Timeouts: {}\n'.format(len(timeouts))])
-write_to_log(['{}\n'.format(timeout_link) for timeout_link in timeouts])
+# write_to_log(['Timeouts: {}\n'.format(len(timeouts))])
+# write_to_log(['{}\n'.format(timeout_link) for timeout_link in timeouts])

@@ -1,0 +1,220 @@
+Started at: Tue, 06 Feb 2018 15:33:29 +0000
+Category 007-band has music!
+ Try No. 1
+  Found: http://tut-audio.su/mp3-album-james-bond-007-ultimate-collection-vol-2-download-5422557.html (1) 
+   New Artist High School Music Band added to data base!
+   This album has been added to the data base:
+     Artist: High School Music Band
+     Album name: James Bond 007 Ultimate Collection, Vol. 2
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5422557-460x460/james-bond-007-ultimate-collection-vol-2.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-box-office-hits-vol-7-download-5178580.html (2) 
+   New Artist The Hollywood Band added to data base!
+   This album has been added to the data base:
+     Artist: The Hollywood Band
+     Album name: Box Office Hits Vol. 7
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5178580-460x460/box-office-hits-vol-7.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-james-bond-007-ultimate-collection-vol-1-download-5387450.html (3) 
+   Artist High School Music Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: High School Music Band
+     Album name: James Bond 007 Ultimate Collection, Vol. 1
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5387450-460x460/james-bond-007-ultimate-collection-vol-1.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-banda-sonora-las-101-mejores-canciones-de-peliculas-download-6425832.html (4) 
+   New Artist Fantasy Dream Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: Fantasy Dream Orchestra
+     Album name: Banda Sonora - Las 101 Mejores Canciones de Películas
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/6425832-460x460/banda-sonora-las-101-mejores-canciones-de-peliculas.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-cine-de-accion-download-5275505.html (5) 
+   New Artist The Film Band added to data base!
+   This album has been added to the data base:
+     Artist: The Film Band
+     Album name: Cine de Acción
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5275505-460x460/cine-de-accion.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-soundline-presents-military-band-music-kneller-hall-live-vol-4-salute-the-services-download-6557750.html (6) 
+   New Artist Massed Bands Of The Coldstream Guards, Prince Of Wales' Division (Lucknow), Royal Military School Of Music & Royal Air Force added to data base!
+   This album has been added to the data base:
+     Artist: Massed Bands Of The Coldstream Guards, Prince Of Wales' Division (Lucknow), Royal Military School Of Music & Royal Air Force
+     Album name: Soundline Presents Military Band Music - Kneller Hall Live Vol. 4 "Salute the Services"
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/6557750-460x460/soundline-presents-military-band-music-kneller-hall-live-vol-4-salute-the-services.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-james-bond-50-years-download-5443165.html (7) 
+   New Artist London Symphony Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: London Symphony Orchestra
+     Album name: 007 James Bond 50 Years
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5443165-460x460/007-james-bond-50-years.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-peliculas-de-cine-vol-5-download-5160959.html (8) 
+   Artist The Film Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Film Band
+     Album name: Peliculas De Cine Vol.5
+     Year: 2009
+     Cover: http://tut-audio.su/alb-mus/5160959-460x460/peliculas-de-cine-vol-5.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-the-best-of-big-band-download-6400363.html (9) 
+   New Artist Coccinell'Band added to data base!
+   This album has been added to the data base:
+     Artist: Coccinell'Band
+     Album name: The Best of Big Band
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/6400363-460x460/the-best-of-big-band.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-box-office-hits-vol-9-download-5161743.html (10) 
+   Artist The Hollywood Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Hollywood Band
+     Album name: Box Office Hits Vol. 9
+     Year: 2009
+     Cover: http://tut-audio.su/alb-mus/5161743-460x460/box-office-hits-vol-9.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-banda-sonora-de-peliculas-101-hits-de-cine-download-6425835.html (11) 
+   New Artist Movie Box Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: Movie Box Orchestra
+     Album name: Banda Sonora de Películas - 101 Hits de Cine
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/6425835-460x460/banda-sonora-de-peliculas-101-hits-de-cine.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-1-all-instrumental-tv-movie-hits-download-5591712.html (12) 
+   New Artist Dr. Cover Band added to data base!
+   This album has been added to the data base:
+     Artist: Dr. Cover Band
+     Album name: #1 All Instrumental: TV & Movie Hits
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5591712-460x460/1-all-instrumental-tv-movie-hits.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-box-office-hits-vol-11-download-5176899.html (13) 
+   Artist The Hollywood Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Hollywood Band
+     Album name: Box Office Hits Vol. 11
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5176899-460x460/box-office-hits-vol-11.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-1-all-instrumental-sports-time-download-6171259.html (14) 
+   Artist Dr. Cover Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: Dr. Cover Band
+     Album name: #1 All Instrumental: Sports Time
+     Year: 2013
+     Cover: http://tut-audio.su/alb-mus/6171259-460x460/1-all-instrumental-sports-time.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-sour-cream-for-the-soul-download-5561418.html (15) 
+   New Artist The Bikini Beach Band added to data base!
+   This album has been added to the data base:
+     Artist: The Bikini Beach Band
+     Album name: Sour Cream for the Soul
+     Year: 2008
+     Cover: http://tut-audio.su/alb-mus/5561418-460x460/sour-cream-for-the-soul.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-love-you-stronger-download-5852179.html (16) 
+   New Artist Band With No iMage added to data base!
+   This album has been added to the data base:
+     Artist: Band With No iMage
+     Album name: Love You Stronger
+     Year: 2008
+     Cover: http://tut-audio.su/alb-mus/5852179-460x460/love-you-stronger.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-musica-de-pelicula-101-canciones-de-cine-download-6425833.html (17) 
+   New Artist Blue Track Band added to data base!
+   This album has been added to the data base:
+     Artist: Blue Track Band
+     Album name: Música de Película - 101 Canciones de Cine
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/6425833-460x460/musica-de-pelicula-101-canciones-de-cine.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/007-band/1
+  Found: http://tut-audio.su/mp3-album-musica-de-peliculas-anos-80-s-download-5434108.html (18) 
+   New Artist Maxdown added to data base!
+   This album has been added to the data base:
+     Artist: Maxdown
+     Album name: Música de Películas Años 80's
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5434108-460x460/musica-de-peliculas-anos-80-s.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-box-office-hits-vol-4-download-5182018.html (19) 
+   Artist The Hollywood Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Hollywood Band
+     Album name: Box Office Hits Vol. 4
+     Year: 2009
+     Cover: http://tut-audio.su/alb-mus/5182018-460x460/box-office-hits-vol-4.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-smb-2007-explosive-halftime-hits-download-6006074.html (20) 
+   New Artist Michigan State University Spartan Marching Band added to data base!
+   This album has been added to the data base:
+     Artist: Michigan State University Spartan Marching Band
+     Album name: Smb 2007: Explosive Halftime Hits
+     Year: 2007
+     Cover: http://tut-audio.su/alb-mus/6006074-460x460/smb-2007-explosive-halftime-hits.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-oscar-movies-vol-2-download-5366322.html (21) 
+   Artist High School Music Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: High School Music Band
+     Album name: Oscar Movies, Vol. 2
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5366322-460x460/oscar-movies-vol-2.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-peliculas-de-cine-vol-6-download-5161028.html (22) 
+   Artist The Film Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Film Band
+     Album name: Peliculas De Cine Vol.6
+     Year: 2009
+     Cover: http://tut-audio.su/alb-mus/5161028-460x460/peliculas-de-cine-vol-6.jpg
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-peliculas-de-cine-vol-1-download-5177698.html (23) 
+   Artist The Film Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: The Film Band
+     Album name: Peliculas De Cine Vol.1
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5177698-460x460/peliculas-de-cine-vol-1.jpg
+-------------------------------------------------------------------------------------------
+ Try No. 2
+  /music-file/007-band/1
+  Found: http://tut-audio.su/mp3-album-film-collection-cover-version-download-5358427.html (24) 
+   New Artist Fear Band added to data base!
+   This album has been added to the data base:
+     Artist: Fear Band
+     Album name: Film Collection Cover Version
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5358427-460x460/film-collection-cover-version.jpg
+-------------------------------------------------------------------------------------------
+ Try No. 3
+  /music-file/007-band/1
+ Try No. 4
+  /music-file/007-band/1
+ Try No. 5
+  /music-file/007-band/1
+ Try No. 6
+  /music-file/007-band/1
+ Try No. 7
+  /music-file/007-band/1
+ Try No. 8
+  /music-file/007-band/1
+ Try No. 9
+  /music-file/007-band/1
+-------------------------------------------------------------------------------------------
+Added 24 Albums to the database of 007-band
+-------------------------------------------------------------------------------------------
+Ended at Tue, 06 Feb 2018 15:33:48 +0000, so needed 0:00:19.446679
+Artists added to data base: 15
+Albums added to data base: 24
+Tracks added to data base: 792
+Connection errors: 0
