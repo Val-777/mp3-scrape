@@ -1,0 +1,922 @@
+Started at: Mon, 05 Feb 2018 22:02:25 +0000
+Category 007-man has music!
+ Try No. 1
+  Found: http://tut-audio.su/mp3-album-bond-007-tribute-ringtones-download-6263755.html (1) 
+   New Artist DJ MixMasters added to data base!
+   This album has been added to the data base:
+     Artist: DJ MixMasters
+     Album name: Bond 007 Tribute Ringtones
+     Year: 2013
+     Cover: http://tut-audio.su/alb-mus/6263755-460x460/bond-007-tribute-ringtones.jpg
+        1/22 Thunderball (Tribute in the Style of Tom Jones)
+        Status code: 200 and took 0:00:00.406287        http://tut-audio.su/download-music/18020706/dj-mixmasters-thunderball-tribute-in-the-style-of-tom-jones.mp3
+        2/22 Skyfall (Tribute in the Style of Adele)
+        Track is missing!
+        Status code: 404 and took 0:00:00.383278        http://tut-audio.su/download-music/18020707/dj-mixmasters-skyfall-tribute-in-the-style-of-adele.mp3
+        3/22 We Have All the Time in the World (Tribute in the Style of Louis Armstrong)
+        Status code: 200 and took 0:00:00.504357        http://tut-audio.su/download-music/18020708/dj-mixmasters-we-have-all-the-time-in-the-world-tribute-in-the-style-of-louis-armstrong.mp3
+        4/22 Nobody Does It Better (Tribute in the Style of Carly Simon)
+        Status code: 200 and took 0:00:00.402286        http://tut-audio.su/download-music/18020709/dj-mixmasters-nobody-does-it-better-tribute-in-the-style-of-carly-simon.mp3
+        5/22 You Only Live Twice (Tribute in the Style of Nancy Sinatra)
+        Status code: 200 and took 0:00:00.336238        http://tut-audio.su/download-music/18020710/dj-mixmasters-you-only-live-twice-tribute-in-the-style-of-nancy-sinatra.mp3
+        6/22 Die Another Day (Tribute in the Style of Madonna)
+        Track is missing!
+        Status code: 404 and took 0:00:00.449318        http://tut-audio.su/download-music/18020711/dj-mixmasters-die-another-day-tribute-in-the-style-of-madonna.mp3
+        7/22 The Living Daylights (Tribute in the Style of a-Ha)
+        Track is missing!
+        Status code: 404 and took 0:00:00.441444        http://tut-audio.su/download-music/18020712/dj-mixmasters-the-living-daylights-tribute-in-the-style-of-a-ha.mp3
+        8/22 From Russia With Love (Tribute in the Style of Matt Monro)
+        Status code: 200 and took 0:00:00.365259        http://tut-audio.su/download-music/18020713/dj-mixmasters-from-russia-with-love-tribute-in-the-style-of-matt-monro.mp3
+        9/22 You Know My Name (Tribute in the Style of Chris Cornell)
+        Status code: 200 and took 0:00:00.493349        http://tut-audio.su/download-music/18020714/dj-mixmasters-you-know-my-name-tribute-in-the-style-of-chris-cornell.mp3
+        10/22 For Your Eyes Only (Tribute in the Style of Sheena Easton)
+        Status code: 200 and took 0:00:00.502357        http://tut-audio.su/download-music/18020715/dj-mixmasters-for-your-eyes-only-tribute-in-the-style-of-sheena-easton.mp3
+        11/22 All Time High (Tribute in the Style of Rita Coolidge)
+        Status code: 200 and took 0:00:00.418296        http://tut-audio.su/download-music/18020716/dj-mixmasters-all-time-high-tribute-in-the-style-of-rita-coolidge.mp3
+        12/22 The World Is Not Enough (Tribute in the Style of Garbage)
+        Status code: 200 and took 0:00:00.339249        http://tut-audio.su/download-music/18020717/dj-mixmasters-the-world-is-not-enough-tribute-in-the-style-of-garbage.mp3
+        13/22 Tomorrow Never Dies (Tribute in the Style of Sheryl Crow)
+        Status code: 200 and took 0:00:00.329237        http://tut-audio.su/download-music/18020718/dj-mixmasters-tomorrow-never-dies-tribute-in-the-style-of-sheryl-crow.mp3
+        14/22 Moonraker (Tribute in the Style of Shirley Bassey)
+        Status code: 200 and took 0:00:00.686488        http://tut-audio.su/download-music/18020719/dj-mixmasters-moonraker-tribute-in-the-style-of-shirley-bassey.mp3
+        15/22 Diamonds Are Forever (Tribute in the Style of Shirley Bassey)
+        Status code: 200 and took 0:00:00.353251        http://tut-audio.su/download-music/18020720/dj-mixmasters-diamonds-are-forever-tribute-in-the-style-of-shirley-bassey.mp3
+        16/22 The Man With the Golden Gun (Tribute in the Style of Lulu)
+        Status code: 200 and took 0:00:00.436310        http://tut-audio.su/download-music/18020721/dj-mixmasters-the-man-with-the-golden-gun-tribute-in-the-style-of-lulu.mp3
+        17/22 A View to Kill (Tribute in the Style of Duran Duran)
+        Track is missing!
+        Status code: 404 and took 0:00:00.367318        http://tut-audio.su/download-music/18020722/dj-mixmasters-a-view-to-kill-tribute-in-the-style-of-duran-duran.mp3
+        18/22 Goldfinger (Tribute in the Style of Shirley Bassey)
+        Status code: 200 and took 0:00:00.280197        http://tut-audio.su/download-music/18020723/dj-mixmasters-goldfinger-tribute-in-the-style-of-shirley-bassey.mp3
+        19/22 Live and Let Die (Tribute in the Style of Paul McCartney)
+        Status code: 200 and took 0:00:00.305218        http://tut-audio.su/download-music/18020724/dj-mixmasters-live-and-let-die-tribute-in-the-style-of-paul-mccartney.mp3
+        20/22 Goldeneye (Tribute in the Style of Tina Turner)
+        Status code: 200 and took 0:00:00.319229        http://tut-audio.su/download-music/18020725/dj-mixmasters-goldeneye-tribute-in-the-style-of-tina-turner.mp3
+        21/22 Licence to Kill (Tribute in the Style of Gladys Knight)
+        Track is missing!
+        Status code: 404 and took 0:00:00.324203        http://tut-audio.su/download-music/18020726/dj-mixmasters-licence-to-kill-tribute-in-the-style-of-gladys-knight.mp3
+        22/22 Another Way to Die (Tribute in the Style of Jack White & Alicia Keys)
+        Status code: 200 and took 0:00:00.363258        http://tut-audio.su/download-music/18020727/dj-mixmasters-another-way-to-die-tribute-in-the-style-of-jack-white-alicia-keys.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-landscapes-download-5524387.html (2) 
+   New Artist The Scene added to data base!
+   This album has been added to the data base:
+     Artist: The Scene
+     Album name: Landscapes
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5524387-460x460/landscapes.jpg
+        1/18 Is She In Love With Love?
+        Status code: 200 and took 0:00:00.605431        http://tut-audio.su/download-music/11222668/the-scene-is-she-in-love-with-love.mp3
+        2/18 Times Up
+        Status code: 200 and took 0:00:00.645457        http://tut-audio.su/download-music/11222669/007-times-up.mp3
+        3/18 Can You See Me
+        Status code: 200 and took 0:00:00.665471        http://tut-audio.su/download-music/11222670/007-can-you-see-me.mp3
+        4/18 Day That I Met You
+        Status code: 200 and took 0:00:00.572406        http://tut-audio.su/download-music/11222671/the-scene-day-that-i-met-you.mp3
+        5/18 Something That You Said
+        Status code: 200 and took 0:00:00.339240        http://tut-audio.su/download-music/11222672/the-scene-something-that-you-said.mp3
+        6/18 Show My Love
+        Status code: 200 and took 0:00:00.366263        http://tut-audio.su/download-music/11222673/the-scene-show-my-love.mp3
+        7/18 The Realisation
+        Status code: 200 and took 0:00:00.385273        http://tut-audio.su/download-music/11222674/the-scene-the-realisation.mp3
+        8/18 Gimme Some Lovin'
+        Status code: 200 and took 0:00:00.357734        http://tut-audio.su/download-music/11222675/007-gimme-some-lovin.mp3
+        9/18 Nearly Man
+        Status code: 200 and took 0:00:00.657108        http://tut-audio.su/download-music/11222676/007-nearly-man.mp3
+        10/18 Now I Know
+        Status code: 200 and took 0:00:00.564084        http://tut-audio.su/download-music/11222677/007-now-i-know.mp3
+        11/18 Cover Girl
+        Status code: 200 and took 0:00:00.657468        http://tut-audio.su/download-music/11222678/007-cover-girl.mp3
+        12/18 Good Lovin'
+        Status code: 200 and took 0:00:00.398015        http://tut-audio.su/download-music/11222679/the-scene-good-lovin.mp3
+        13/18 Looking For Love
+        Status code: 200 and took 0:00:00.405287        http://tut-audio.su/download-music/11222680/the-scene-looking-for-love.mp3
+        14/18 Bitter About Love
+        Status code: 200 and took 0:00:00.733521        http://tut-audio.su/download-music/11222681/007-bitter-about-love.mp3
+        15/18 She'll Come My Way
+        Status code: 200 and took 0:00:00.436311        http://tut-audio.su/download-music/11222682/007-she-ll-come-my-way.mp3
+        16/18 Shake On Down
+        Status code: 200 and took 0:00:00.631448        http://tut-audio.su/download-music/11222683/the-scene-shake-on-down.mp3
+        17/18 Stop Go
+        Status code: 200 and took 0:00:00.352252        http://tut-audio.su/download-music/11222684/the-scene-stop-go.mp3
+        18/18 Tin Cans
+        Status code: 200 and took 0:00:00.532378        http://tut-audio.su/download-music/11222685/the-scene-tin-cans.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-reggaeton-freestyle-mix-tape-vol-007-download-5323164.html (3) 
+   New Artist DJ Mango Man added to data base!
+   This album has been added to the data base:
+     Artist: DJ Mango Man
+     Album name: Reggaeton Freestyle Mix Tape (Vol. 007)
+     Year: 2007
+     Cover: http://tut-audio.su/alb-mus/5323164-460x460/reggaeton-freestyle-mix-tape-vol-007.jpg
+        1/13 Rhythm Is Dancer
+        Status code: 200 and took 0:00:01.085771        http://tut-audio.su/download-music/9179076/dj-mango-man-rhythm-is-dancer.mp3
+        2/13 Living On Video
+        Status code: 200 and took 0:00:01.182839        http://tut-audio.su/download-music/9179077/dj-mango-man-living-on-video.mp3
+        3/13 Diamond Girl
+        Status code: 200 and took 0:00:00.805573        http://tut-audio.su/download-music/9179078/dj-mango-man-diamond-girl.mp3
+        4/13 Funky Town
+        Status code: 200 and took 0:00:00.367261        http://tut-audio.su/download-music/9179079/dj-mango-man-funky-town.mp3
+        5/13 All Night
+        Status code: 200 and took 0:00:00.299211        http://tut-audio.su/download-music/9179080/dj-mango-man-all-night.mp3
+        6/13 Sweet Dreams
+        Status code: 200 and took 0:00:00.368262        http://tut-audio.su/download-music/9179081/dj-mango-man-sweet-dreams.mp3
+        7/13 Dreaming
+        Status code: 200 and took 0:00:03.558525        http://tut-audio.su/download-music/9179082/dj-mango-man-dreaming.mp3
+        8/13 La Chica Especial
+        Status code: 200 and took 0:00:01.940377        http://tut-audio.su/download-music/9179084/dj-mango-man-la-chica-especial.mp3
+        9/13 Chica Diamante
+        Status code: 200 and took 0:00:00.746530        http://tut-audio.su/download-music/9179085/dj-mango-man-chica-diamante.mp3
+        10/13 When I Hear Music
+        Status code: 200 and took 0:00:00.910647        http://tut-audio.su/download-music/9179086/dj-mango-man-when-i-hear-music.mp3
+        11/13 Spring Love
+        Status code: 200 and took 0:00:00.342243        http://tut-audio.su/download-music/9179087/dj-mango-man-spring-love.mp3
+        12/13 Show Me
+        Status code: 200 and took 0:00:00.579411        http://tut-audio.su/download-music/9179088/dj-mango-man-show-me.mp3
+        13/13 Dreaming of Love
+        Status code: 200 and took 0:00:00.321228        http://tut-audio.su/download-music/9179089/dj-mango-man-dreaming-of-love.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-riding-a-cannibal-horse-from-here-to-download-5657380.html (4) 
+   New Artist The Orange Man Theory added to data base!
+   This album has been added to the data base:
+     Artist: The Orange Man Theory
+     Album name: Riding A Cannibal Horse From Here To...
+     Year: 2005
+     Cover: http://tut-audio.su/alb-mus/5657380-460x460/riding-a-cannibal-horse-from-here-to.jpg
+        1/9 Vortex Of Cows Into The Sweet Tornado
+        Status code: 200 and took 0:00:00.666471        http://tut-audio.su/download-music/12747355/the-orange-man-theory-vortex-of-cows-into-the-sweet-tornado.mp3
+        2/9 007 (CE FA NA PIPPA)
+        Status code: 200 and took 0:00:00.391276        http://tut-audio.su/download-music/12747356/the-orange-man-theory-007-ce-fa-na-pippa.mp3
+        3/9 Merendina Will Have His Revenge On Capeside
+        Status code: 200 and took 0:00:00.405289        http://tut-audio.su/download-music/12747357/the-orange-man-theory-merendina-will-have-his-revenge-on-capeside.mp3
+        4/9 Where We're Going We Don't Need Roads!
+        Status code: 200 and took 0:00:00.447317        http://tut-audio.su/download-music/12747358/the-orange-man-theory-where-we-re-going-we-don-t-need-roads.mp3
+        5/9 Biollante's Dawn
+        Status code: 200 and took 0:00:00.346246        http://tut-audio.su/download-music/12747359/the-orange-man-theory-biollante-s-dawn.mp3
+        6/9 Riding A Cannibal Horse From Here To Clinton, MA
+        Status code: 200 and took 0:00:00.433308        http://tut-audio.su/download-music/12747360/the-orange-man-theory-riding-a-cannibal-horse-from-here-to-clinton-ma.mp3
+        7/9 Introduicing Ourselves To The Masses
+        Status code: 200 and took 0:00:00.440313        http://tut-audio.su/download-music/12747361/the-orange-man-theory-introduicing-ourselves-to-the-masses.mp3
+        8/9 Vampires In The Sun (Surfin' Transylvania)
+        Status code: 200 and took 0:00:00.365259        http://tut-audio.su/download-music/12747362/the-orange-man-theory-vampires-in-the-sun-surfin-transylvania.mp3
+        9/9 The Way To Rock
+        Status code: 200 and took 0:00:00.499355        http://tut-audio.su/download-music/12747363/the-orange-man-theory-the-way-to-rock.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-james-bond-50-years-download-5443165.html (5) 
+   New Artist London Symphony Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: London Symphony Orchestra
+     Album name: 007 James Bond 50 Years
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5443165-460x460/007-james-bond-50-years.jpg
+        1/39 Thunderball
+        Status code: 200 and took 0:00:00.394279        http://tut-audio.su/download-music/6184972/london-symphony-orchestra-thunderball.mp3
+        2/39 Goldfinger
+        Status code: 200 and took 0:00:00.341291        http://tut-audio.su/download-music/6184973/london-symphony-orchestra-goldfinger.mp3
+        3/39 You Only Live Twice
+        Status code: 200 and took 0:00:00.812634        http://tut-audio.su/download-music/6184974/london-symphony-orchestra-you-only-live-twice.mp3
+        4/39 The Man With The Golden Gun
+        Status code: 200 and took 0:00:00.354151        http://tut-audio.su/download-music/6184975/london-symphony-orchestra-the-man-with-the-golden-gun.mp3
+        5/39 Live And Let Die
+        Status code: 200 and took 0:00:00.672888        http://tut-audio.su/download-music/6184976/london-symphony-orchestra-live-and-let-die.mp3
+        6/39 For Your Eyes Only
+        Status code: 200 and took 0:00:00.367259        http://tut-audio.su/download-music/6184977/london-symphony-orchestra-for-your-eyes-only.mp3
+        7/39 From Russia With Love
+        Status code: 200 and took 0:00:00.479339        http://tut-audio.su/download-music/6184978/london-symphony-orchestra-from-russia-with-love.mp3
+        8/39 Nobody Does It Better (The Spy Who Loved Me)
+        Status code: 200 and took 0:00:00.416220        http://tut-audio.su/download-music/6184979/london-symphony-orchestra-nobody-does-it-better-the-spy-who-loved-me.mp3
+        9/39 On Her Majesty's Secret Service
+        Status code: 200 and took 0:00:01.724642        http://tut-audio.su/download-music/6184981/london-symphony-orchestra-on-her-majesty-s-secret-service.mp3
+        10/39 Moonraker
+        Status code: 200 and took 0:00:00.350792        http://tut-audio.su/download-music/6184982/london-symphony-orchestra-moonraker.mp3
+        11/39 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.703127        http://tut-audio.su/download-music/6184983/london-symphony-orchestra-diamonds-are-forever.mp3
+        12/39 James Bond Theme (Reprise)
+        Status code: 200 and took 0:00:00.626902        http://tut-audio.su/download-music/6184985/london-symphony-orchestra-james-bond-theme-reprise.mp3
+        13/39 All Time High (Octopussy)
+        Status code: 200 and took 0:00:00.354665        http://tut-audio.su/download-music/6184986/london-symphony-orchestra-all-time-high-octopussy.mp3
+        14/39 Die Another Day
+        Status code: 200 and took 0:00:00.385335        http://tut-audio.su/download-music/7631929/the-popstar-band-die-another-day.mp3
+        15/39 Goldfinger "Cocktail Mix 2"
+        Status code: 200 and took 0:00:00.863019        http://tut-audio.su/download-music/7962213/the-popcorn-orchestra-goldfinger-cocktail-mix-2.mp3
+        16/39 Goldfinger "Cocktail Mix 1"
+        Status code: 200 and took 0:00:00.862227        http://tut-audio.su/download-music/7972501/the-popcorn-orchestra-goldfinger-cocktail-mix-1.mp3
+        17/39 The World Is Not Enough (007, James Bond, The World Is Not Enough)
+        Status code: 200 and took 0:00:00.577408        http://tut-audio.su/download-music/8174843/the-popstar-band-the-world-is-not-enough-007-james-bond-the-world-is-not-enough.mp3
+        18/39 Live And Let Die
+        Status code: 200 and took 0:00:00.686022        http://tut-audio.su/download-music/8215725/the-popstar-band-live-and-let-die.mp3
+        19/39 Licence To Kill (Licence To Kill 1989)
+        Status code: 200 and took 0:00:06.529332        http://tut-audio.su/download-music/8215726/the-popstar-band-licence-to-kill-licence-to-kill-1989.mp3
+        20/39 Moonraker Main Title (Moonraker 1979)
+        Status code: 200 and took 0:00:00.526544        http://tut-audio.su/download-music/8215727/the-popstar-band-moonraker-main-title-moonraker-1979.mp3
+        21/39 For Your Eyes Only (For Your Eyes Only 1981)
+        Status code: 200 and took 0:00:00.588419        http://tut-audio.su/download-music/8215728/the-popstar-band-for-your-eyes-only-for-your-eyes-only-1981.mp3
+        22/39 The Living Daylights (The Living Daylights 1987)
+        Status code: 200 and took 0:00:00.731196        http://tut-audio.su/download-music/8215729/the-popstar-band-the-living-daylights-the-living-daylights-1987.mp3
+        23/39 All Time High (Octopussy 1983)
+        Status code: 200 and took 0:00:00.541664        http://tut-audio.su/download-music/8215730/the-popstar-band-all-time-high-octopussy-1983.mp3
+        24/39 James Bond Theme
+        Status code: 200 and took 0:00:00.366260        http://tut-audio.su/download-music/10410653/the-hollywood-strings-james-bond-theme.mp3
+        25/39 Tomorrow Never Dies (From "Tomorrow Never Dies")
+        Status code: 200 and took 0:00:00.534376        http://tut-audio.su/download-music/10410796/the-popstar-band-tomorrow-never-dies-from-tomorrow-never-dies.mp3
+        26/39 You Only Live Twice
+        Status code: 200 and took 0:00:00.983961        http://tut-audio.su/download-music/10410797/the-popstar-band-you-only-live-twice.mp3
+        27/39 Belle of Chicago (From "Octopussy")
+        Status code: 200 and took 0:00:00.328232        http://tut-audio.su/download-music/10410798/usa-patriots-band-belle-of-chicago-from-octopussy.mp3
+        28/39 Diamonds Are Forever (From "Diamonds Are Forever")
+        Status code: 200 and took 0:00:00.315087        http://tut-audio.su/download-music/10410799/the-popstar-band-diamonds-are-forever-from-diamonds-are-forever.mp3
+        29/39 The Liberty Bell (From "Octopussy")
+        Status code: 200 and took 0:00:00.465781        http://tut-audio.su/download-music/10410800/usa-patriots-band-the-liberty-bell-from-octopussy.mp3
+        30/39 Live and Let Die
+        Status code: 200 and took 0:00:00.437951        http://tut-audio.su/download-music/10410801/the-new-synthesizer-experience-live-and-let-die.mp3
+        31/39 From Russia With Love (From "From Russia With Love")
+        Status code: 200 and took 0:00:01.499147        http://tut-audio.su/download-music/10410802/the-popstar-band-from-russia-with-love-from-from-russia-with-love.mp3
+        32/39 Goldfinger (From "Goldfinger")
+        Status code: 200 and took 0:00:00.645325        http://tut-audio.su/download-music/10410804/the-hollywood-strings-goldfinger-from-goldfinger.mp3
+        33/39 Another Way to Die (From "Quantum of Solace")
+        Status code: 200 and took 0:00:00.320474        http://tut-audio.su/download-music/10410805/the-popstar-band-another-way-to-die-from-quantum-of-solace.mp3
+        34/39 Goldfinger (From "Goldfinger")
+        Status code: 200 and took 0:00:00.366093        http://tut-audio.su/download-music/10410806/the-popstar-band-goldfinger-from-goldfinger.mp3
+        35/39 A View to a Kill (From "A View to a Kill")
+        Status code: 200 and took 0:00:01.006679        http://tut-audio.su/download-music/10410807/the-popstar-band-a-view-to-a-kill-from-a-view-to-a-kill.mp3
+        36/39 The Living Daylights (From "The Living Daylights")
+        Status code: 200 and took 0:00:00.467453        http://tut-audio.su/download-music/10410808/the-new-synthesizer-experience-the-living-daylights-from-the-living-daylights.mp3
+        37/39 Thunderball (From "Thunderball")
+        Status code: 200 and took 0:00:00.550698        http://tut-audio.su/download-music/10410809/the-popstar-band-thunderball-from-thunderball.mp3
+        38/39 It Had to Be You (From "Tomorrow Never Dies")
+        Status code: 200 and took 0:00:00.580889        http://tut-audio.su/download-music/10410810/the-popstar-band-it-had-to-be-you-from-tomorrow-never-dies.mp3
+        39/39 You Only Live Twice
+        Status code: 200 and took 0:00:00.401053        http://tut-audio.su/download-music/10410811/the-new-synthesizer-experience-you-only-live-twice.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-james-bond-007-ultimate-collection-vol-2-download-5422557.html (6) 
+   New Artist High School Music Band added to data base!
+   This album has been added to the data base:
+     Artist: High School Music Band
+     Album name: James Bond 007 Ultimate Collection, Vol. 2
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5422557-460x460/james-bond-007-ultimate-collection-vol-2.jpg
+        1/20 Live & Let Die
+        Status code: 200 and took 0:00:00.917734        http://tut-audio.su/download-music/10220379/high-school-music-band-live-let-die.mp3
+        2/20 A View to a Kill
+        Status code: 200 and took 0:00:00.609143        http://tut-audio.su/download-music/10220380/high-school-music-band-a-view-to-a-kill.mp3
+        3/20 The Man With the Golden Gun
+        Status code: 200 and took 0:00:01.405684        http://tut-audio.su/download-music/10220381/high-school-music-band-the-man-with-the-golden-gun.mp3
+        4/20 You Only Live Twice
+        Status code: 200 and took 0:00:00.339170        http://tut-audio.su/download-music/10220382/high-school-music-band-you-only-live-twice.mp3
+        5/20 Licence to Kill
+        Status code: 200 and took 0:00:02.077231        http://tut-audio.su/download-music/10220383/high-school-music-band-licence-to-kill.mp3
+        6/20 Never Say Never Again
+        Status code: 200 and took 0:00:01.022386        http://tut-audio.su/download-music/10220384/high-school-music-band-never-say-never-again.mp3
+        7/20 Casino Royale
+        Status code: 200 and took 0:00:00.397667        http://tut-audio.su/download-music/10220385/high-school-music-band-casino-royale.mp3
+        8/20 The Living Daylights
+        Status code: 200 and took 0:00:00.484163        http://tut-audio.su/download-music/10220386/high-school-music-band-the-living-daylights.mp3
+        9/20 All Time High (Octopussy)
+        Status code: 200 and took 0:00:00.372992        http://tut-audio.su/download-music/10220387/high-school-music-band-all-time-high-octopussy.mp3
+        10/20 Moonraker
+        Status code: 200 and took 0:00:01.330444        http://tut-audio.su/download-music/10220388/high-school-music-band-moonraker.mp3
+        11/20 Ohmss
+        Status code: 200 and took 0:00:00.381322        http://tut-audio.su/download-music/10220389/high-school-music-band-ohmss.mp3
+        12/20 Thunderball
+        Status code: 200 and took 0:00:00.446567        http://tut-audio.su/download-music/10220390/high-school-music-band-thunderball.mp3
+        13/20 For Your Eyes Only
+        Status code: 200 and took 0:00:01.780910        http://tut-audio.su/download-music/10220391/high-school-music-band-for-your-eyes-only.mp3
+        14/20 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.546695        http://tut-audio.su/download-music/10220392/high-school-music-band-diamonds-are-forever.mp3
+        15/20 Mr. Kiss Kiss Bang Bang
+        Status code: 200 and took 0:00:00.385272        http://tut-audio.su/download-music/10220393/high-school-music-band-mr-kiss-kiss-bang-bang.mp3
+        16/20 Nobody Does It Better
+        Status code: 200 and took 0:00:00.524372        http://tut-audio.su/download-music/10220394/high-school-music-band-nobody-does-it-better.mp3
+        17/20 Goldfinger
+        Status code: 200 and took 0:00:00.570405        http://tut-audio.su/download-music/10220395/high-school-music-band-goldfinger.mp3
+        18/20 Goldeneye
+        Status code: 200 and took 0:00:00.604379        http://tut-audio.su/download-music/10220396/high-school-music-band-goldeneye.mp3
+        19/20 Theme from Dr. No
+        Status code: 200 and took 0:00:00.369263        http://tut-audio.su/download-music/10220397/high-school-music-band-theme-from-dr-no.mp3
+        20/20 From Russia With Love
+        Status code: 200 and took 0:00:00.397924        http://tut-audio.su/download-music/10220398/high-school-music-band-from-russia-with-love.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-jackito-007-one-mic-one-man-download-6690986.html (7) 
+   New Artist Jackito added to data base!
+   This album has been added to the data base:
+     Artist: Jackito
+     Album name: Jackito 007 (One mic, one man)
+     Year: 2014
+     Cover: http://tut-audio.su/alb-mus/6690986-460x460/jackito-007-one-mic-one-man.jpg
+        1/7 Pesevere
+        Status code: 200 and took 0:00:00.464844        http://tut-audio.su/download-music/21779842/jackito-pesevere.mp3
+        2/7 Mission accomplie
+        Status code: 200 and took 0:00:00.472335        http://tut-audio.su/download-music/21779843/jackito-mission-accomplie.mp3
+        3/7 Lanmou doudou
+        Status code: 200 and took 0:00:01.028437        http://tut-audio.su/download-music/21779844/jackito-lanmou-doudou.mp3
+        4/7 K rément
+        Status code: 200 and took 0:00:00.634865        http://tut-audio.su/download-music/21779845/jackito-k-rement.mp3
+        5/7 Biznis pam
+        Status code: 200 and took 0:00:00.473336        http://tut-audio.su/download-music/21779846/jackito-biznis-pam.mp3
+        6/7 5 sens + 1
+        Status code: 200 and took 0:00:00.394279        http://tut-audio.su/download-music/21779847/jackito-5-sens-1.mp3
+        7/7 Myan myan
+        Status code: 200 and took 0:00:00.501358        http://tut-audio.su/download-music/21779848/jackito-myan-myan.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-james-bond-classics-skyfall-50-years-edition-download-5451728.html (8) 
+   New Artist 007 Collective added to data base!
+   This album has been added to the data base:
+     Artist: 007 Collective
+     Album name: 007 - James Bond Classics - Skyfall ' 50 years Edition '
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5451728-460x460/007-james-bond-classics-skyfall-50-years-edition.jpg
+        1/25 The Living Daylights ( From 'The Living Daylights' )
+        Status code: 200 and took 0:00:01.749254        http://tut-audio.su/download-music/10498879/007-collective-the-living-daylights-from-the-living-daylights.mp3
+        2/25 Diamonds Are Forever ( From 'Diamonds Are Forever' )
+        Status code: 200 and took 0:00:00.327376        http://tut-audio.su/download-music/10498880/007-collective-diamonds-are-forever-from-diamonds-are-forever.mp3
+        3/25 A View To A Kill ( From 'A View To A Kill' )
+        Track is missing!
+        Status code: 404 and took 0:00:00.481106        http://tut-audio.su/download-music/10498881/007-collective-a-view-to-a-kill-from-a-view-to-a-kill.mp3
+        4/25 The World Is Not Enough ( From 'The World Is Not Enough' )
+        Status code: 200 and took 0:00:00.368619        http://tut-audio.su/download-music/10498882/007-collective-the-world-is-not-enough-from-the-world-is-not-enough.mp3
+        5/25 Never Say Never Again ( From 'Never Say Never Again' )
+        Status code: 200 and took 0:00:00.579627        http://tut-audio.su/download-music/10498883/007-collective-never-say-never-again-from-never-say-never-again.mp3
+        6/25 Goldfinger ( From 'Goldfinger' )
+        Status code: 200 and took 0:00:00.346907        http://tut-audio.su/download-music/10498884/007-collective-goldfinger-from-goldfinger.mp3
+        7/25 You Only Live Twice
+        Status code: 200 and took 0:00:00.467382        http://tut-audio.su/download-music/10498885/007-collective-you-only-live-twice.mp3
+        8/25 The Man With The Golden Gun ( From 'The Man With The Golden Gun' )
+        Status code: 200 and took 0:00:00.959918        http://tut-audio.su/download-music/10498886/007-collective-the-man-with-the-golden-gun-from-the-man-with-the-golden-gun.mp3
+        9/25 On Her Majestys Secret Service ( From 'On Her Majestys Secret Service' )
+        Status code: 200 and took 0:00:00.405319        http://tut-audio.su/download-music/10498887/007-collective-on-her-majestys-secret-service-from-on-her-majestys-secret-service.mp3
+        10/25 Another Way To Die ( From 'Quantum of Solace' )
+        Status code: 200 and took 0:00:00.615440        http://tut-audio.su/download-music/10498888/007-collective-another-way-to-die-from-quantum-of-solace.mp3
+        11/25 Skyfall ( From 'Skyfall' )
+        Status code: 200 and took 0:00:00.352247        http://tut-audio.su/download-music/10498889/007-collective-skyfall-from-skyfall.mp3
+        12/25 All Time High ( From 'Octopussy' )
+        Status code: 200 and took 0:00:00.368261        http://tut-audio.su/download-music/10498890/007-collective-all-time-high-from-octopussy.mp3
+        13/25 Tomorrow Never Dies ( From 'Tomorrow Never Dies' )
+        Status code: 200 and took 0:00:00.378876        http://tut-audio.su/download-music/10498891/007-collective-tomorrow-never-dies-from-tomorrow-never-dies.mp3
+        14/25 Die Another Day ( From 'Die Another Day' )
+        Status code: 200 and took 0:00:00.335417        http://tut-audio.su/download-music/10498892/007-collective-die-another-day-from-die-another-day.mp3
+        15/25 From Russia With Love ( From 'Russia With Love' )
+        Status code: 200 and took 0:00:00.380002        http://tut-audio.su/download-music/10498893/007-collective-from-russia-with-love-from-russia-with-love.mp3
+        16/25 For Your Eyes Only ( From 'For Your Eyes Only' )
+        Status code: 200 and took 0:00:00.400283        http://tut-audio.su/download-music/10498894/007-collective-for-your-eyes-only-from-for-your-eyes-only.mp3
+        17/25 Licence To Kill ( From 'Licence To Kill' )
+        Status code: 200 and took 0:00:00.690492        http://tut-audio.su/download-music/10498895/007-collective-licence-to-kill-from-licence-to-kill.mp3
+        18/25 Moonraker ( From 'Moonraker' )
+        Status code: 200 and took 0:00:00.856742        http://tut-audio.su/download-music/10498896/007-collective-moonraker-from-moonraker.mp3
+        19/25 Casino Royale ( From 'Casino Royale' )
+        Status code: 200 and took 0:00:00.469670        http://tut-audio.su/download-music/10498897/007-collective-casino-royale-from-casino-royale.mp3
+        20/25 Nobody Does It Better ( From 'Spy Who Loved Me' )
+        Status code: 200 and took 0:00:00.379419        http://tut-audio.su/download-music/10498898/007-collective-nobody-does-it-better-from-spy-who-loved-me.mp3
+        21/25 Doctor No ( From 'Doctor No' )
+        Status code: 200 and took 0:00:00.499353        http://tut-audio.su/download-music/10498899/007-collective-doctor-no-from-doctor-no.mp3
+        22/25 Live And Let Die
+        Status code: 200 and took 0:00:01.603529        http://tut-audio.su/download-music/10498900/007-collective-live-and-let-die.mp3
+        23/25 You Know My Name ( From 'Casino Royale' )
+        Status code: 200 and took 0:00:00.418952        http://tut-audio.su/download-music/10498901/007-collective-you-know-my-name-from-casino-royale.mp3
+        24/25 Thunderball ( From 'Thunderball' )
+        Status code: 200 and took 0:00:00.331234        http://tut-audio.su/download-music/10498902/007-collective-thunderball-from-thunderball.mp3
+        25/25 Goldeneye ( From 'Goldeneye' )
+        Status code: 200 and took 0:00:00.325142        http://tut-audio.su/download-music/10498903/007-collective-goldeneye-from-goldeneye.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-james-bond-007-ultimate-collection-vol-1-download-5387450.html (9) 
+   Artist High School Music Band retrieved from data base!
+   This album has been added to the data base:
+     Artist: High School Music Band
+     Album name: James Bond 007 Ultimate Collection, Vol. 1
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5387450-460x460/james-bond-007-ultimate-collection-vol-1.jpg
+        1/22 Goldeneye
+        Status code: 200 and took 0:00:00.376268        http://tut-audio.su/download-music/9889076/high-school-music-band-goldeneye.mp3
+        2/22 You Only Live Twice
+        Status code: 200 and took 0:00:00.557849        http://tut-audio.su/download-music/9889077/high-school-music-band-you-only-live-twice.mp3
+        3/22 The Man With the Golden Gun
+        Status code: 200 and took 0:00:00.992287        http://tut-audio.su/download-music/9889078/high-school-music-band-the-man-with-the-golden-gun.mp3
+        4/22 A View to a Kill
+        Status code: 200 and took 0:00:00.668404        http://tut-audio.su/download-music/9889079/high-school-music-band-a-view-to-a-kill.mp3
+        5/22 The World Is Not Enough
+        Status code: 200 and took 0:00:00.607366        http://tut-audio.su/download-music/9889080/high-school-music-band-the-world-is-not-enough.mp3
+        6/22 Never Say Never Again
+        Status code: 200 and took 0:00:00.406077        http://tut-audio.su/download-music/9889081/high-school-music-band-never-say-never-again.mp3
+        7/22 The Living Daylights
+        Status code: 200 and took 0:00:00.737362        http://tut-audio.su/download-music/9889082/high-school-music-band-the-living-daylights.mp3
+        8/22 Mr. Kiss Kiss Bang Bang
+        Status code: 200 and took 0:00:00.314701        http://tut-audio.su/download-music/9889083/high-school-music-band-mr-kiss-kiss-bang-bang.mp3
+        9/22 All Time High (Octopussy)
+        Status code: 200 and took 0:00:00.931939        http://tut-audio.su/download-music/9889084/high-school-music-band-all-time-high-octopussy.mp3
+        10/22 Thunderball
+        Status code: 200 and took 0:00:00.334489        http://tut-audio.su/download-music/9889085/high-school-music-band-thunderball.mp3
+        11/22 Goldfinger
+        Status code: 200 and took 0:00:00.379492        http://tut-audio.su/download-music/9889086/high-school-music-band-goldfinger.mp3
+        12/22 Moonraker
+        Status code: 200 and took 0:00:00.670117        http://tut-audio.su/download-music/9889087/high-school-music-band-moonraker.mp3
+        13/22 Theme from Dr. No
+        Status code: 200 and took 0:00:00.334236        http://tut-audio.su/download-music/9889088/high-school-music-band-theme-from-dr-no.mp3
+        14/22 Live & Let Die
+        Status code: 200 and took 0:00:00.561489        http://tut-audio.su/download-music/9889089/high-school-music-band-live-let-die.mp3
+        15/22 Licence to Kill
+        Status code: 200 and took 0:00:00.452040        http://tut-audio.su/download-music/9889090/high-school-music-band-licence-to-kill.mp3
+        16/22 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.604271        http://tut-audio.su/download-music/9889091/high-school-music-band-diamonds-are-forever.mp3
+        17/22 Ohmss
+        Status code: 200 and took 0:00:00.335236        http://tut-audio.su/download-music/9889092/high-school-music-band-ohmss.mp3
+        18/22 Casino Royale
+        Status code: 200 and took 0:00:00.422354        http://tut-audio.su/download-music/9889093/high-school-music-band-casino-royale.mp3
+        19/22 Nobody Does It Better
+        Status code: 200 and took 0:00:00.603727        http://tut-audio.su/download-music/9889094/high-school-music-band-nobody-does-it-better.mp3
+        20/22 From Russia With Love
+        Status code: 200 and took 0:00:00.570282        http://tut-audio.su/download-music/9889095/high-school-music-band-from-russia-with-love.mp3
+        21/22 For Your Eyes Only
+        Status code: 200 and took 0:00:00.472952        http://tut-audio.su/download-music/9889096/high-school-music-band-for-your-eyes-only.mp3
+        22/22 Tomorrow Never Dies
+        Status code: 200 and took 0:00:00.741328        http://tut-audio.su/download-music/9889097/high-school-music-band-tomorrow-never-dies.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-le-piu-belle-colonne-sonore-download-5356334.html (10) 
+   New Artist Magic Film Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: Magic Film Orchestra
+     Album name: 007: Le più belle colonne sonore
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5356334-460x460/007-le-piu-belle-colonne-sonore.jpg
+        1/14 Moonraker
+        Status code: 200 and took 0:00:00.313863        http://tut-audio.su/download-music/9539064/magic-film-orchestra-moonraker.mp3
+        2/14 Live & Let Die
+        Status code: 200 and took 0:00:00.624984        http://tut-audio.su/download-music/9539065/magic-film-orchestra-live-let-die.mp3
+        3/14 Thunderball
+        Status code: 200 and took 0:00:00.418376        http://tut-audio.su/download-music/9539066/magic-film-orchestra-thunderball.mp3
+        4/14 All Time High
+        Status code: 200 and took 0:00:00.523299        http://tut-audio.su/download-music/9539067/magic-film-orchestra-all-time-high.mp3
+        5/14 Never Say Never Again
+        Status code: 200 and took 0:00:00.437312        http://tut-audio.su/download-music/9539068/magic-film-orchestra-never-say-never-again.mp3
+        6/14 Goldeneye
+        Status code: 200 and took 0:00:00.652014        http://tut-audio.su/download-music/9539069/magic-film-orchestra-goldeneye.mp3
+        7/14 From Russia With Love
+        Status code: 200 and took 0:00:00.641456        http://tut-audio.su/download-music/9539070/magic-film-orchestra-from-russia-with-love.mp3
+        8/14 Tomorrow Never Dies
+        Status code: 200 and took 0:00:00.697637        http://tut-audio.su/download-music/9539071/magic-film-orchestra-tomorrow-never-dies.mp3
+        9/14 A View to Kill
+        Status code: 200 and took 0:00:00.777668        http://tut-audio.su/download-music/9539072/magic-film-orchestra-a-view-to-kill.mp3
+        10/14 Casinò Royale
+        Status code: 200 and took 0:00:00.602476        http://tut-audio.su/download-music/9539073/magic-film-orchestra-casino-royale.mp3
+        11/14 Nobody Does It Better
+        Status code: 200 and took 0:00:00.321759        http://tut-audio.su/download-music/9539074/magic-film-orchestra-nobody-does-it-better.mp3
+        12/14 Goldfinger
+        Status code: 200 and took 0:00:00.761786        http://tut-audio.su/download-music/9539075/magic-film-orchestra-goldfinger.mp3
+        13/14 Licence to Kill
+        Status code: 200 and took 0:00:00.339180        http://tut-audio.su/download-music/9539076/magic-film-orchestra-licence-to-kill.mp3
+        14/14 The Man With the Golden Gun
+        Status code: 200 and took 0:00:00.518239        http://tut-audio.su/download-music/9539077/magic-film-orchestra-the-man-with-the-golden-gun.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-a-man-and-his-music-the-essential-ray-barretto-download-4961368.html (11) 
+   New Artist Ray Barretto added to data base!
+   This album has been added to the data base:
+     Artist: Ray Barretto
+     Album name: A Man And His Music: The Essential Ray Barretto
+     Year: 2010
+     Cover: http://tut-audio.su/alb-mus/4961368-460x460/a-man-and-his-music-the-essential-ray-barretto.jpg
+        1/18 Soul Drummers
+        Status code: 200 and took 0:00:00.342044        http://tut-audio.su/download-music/6008754/ray-barretto-soul-drummers.mp3
+        2/18 Ya Vez
+        Status code: 200 and took 0:00:00.453908        http://tut-audio.su/download-music/6012103/ray-barretto-ya-vez.mp3
+        3/18 La Pelota
+        Status code: 200 and took 0:00:00.406582        http://tut-audio.su/download-music/6019817/ray-barretto-la-pelota.mp3
+        4/18 Vale Mas Un Guaguanco
+        Status code: 200 and took 0:00:01.332193        http://tut-audio.su/download-music/6028307/ray-barretto-vale-mas-un-guaguanco.mp3
+        5/18 Right On
+        Status code: 200 and took 0:00:00.573223        http://tut-audio.su/download-music/6043758/ray-barretto-right-on.mp3
+        6/18 Senor 007
+        Status code: 200 and took 0:00:00.324076        http://tut-audio.su/download-music/6043759/ray-barretto-senor-007.mp3
+        7/18 Do You Dig It
+        Status code: 200 and took 0:00:00.631360        http://tut-audio.su/download-music/6043765/ray-barretto-do-you-dig-it.mp3
+        8/18 El Bantú
+        Status code: 200 and took 0:00:00.387608        http://tut-audio.su/download-music/6043767/ray-barretto-el-bantu.mp3
+        9/18 Que Viva La Musica
+        Status code: 200 and took 0:00:00.553334        http://tut-audio.su/download-music/6052629/ray-barretto-que-viva-la-musica.mp3
+        10/18 Arrepiéntete
+        Status code: 200 and took 0:00:00.370263        http://tut-audio.su/download-music/6052632/ray-barretto-arrepientete.mp3
+        11/18 Tu Propio Dolor
+        Status code: 200 and took 0:00:00.617702        http://tut-audio.su/download-music/6053728/ray-barretto-tu-propio-dolor.mp3
+        12/18 Manos Duras
+        Status code: 200 and took 0:00:00.413788        http://tut-audio.su/download-music/6057094/ray-barretto-manos-duras.mp3
+        13/18 The Other Road
+        Status code: 200 and took 0:00:00.435996        http://tut-audio.su/download-music/6057096/ray-barretto-the-other-road.mp3
+        14/18 Fuerza Gigante (Giant Force)
+        Status code: 200 and took 0:00:00.779659        http://tut-audio.su/download-music/6057097/ray-barretto-fuerza-gigante-giant-force.mp3
+        15/18 Aguadilla
+        Status code: 200 and took 0:00:01.282942        http://tut-audio.su/download-music/6057098/ray-barretto-aguadilla.mp3
+        16/18 Rhythm Of Life
+        Status code: 200 and took 0:00:00.450227        http://tut-audio.su/download-music/6057099/ray-barretto-rhythm-of-life.mp3
+        17/18 Lucretia The Cat
+        Status code: 200 and took 0:00:00.518419        http://tut-audio.su/download-music/6057100/ray-barretto-lucretia-the-cat.mp3
+        18/18 Cocinando
+        Status code: 200 and took 0:00:00.421013        http://tut-audio.su/download-music/6057101/ray-barretto-cocinando.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-tribute-to-the-greatest-theme-songs-of-james-bond-007-download-5451524.html (12) 
+   New Artist The Hollywood Symphony Orchestra & Guests added to data base!
+   This album has been added to the data base:
+     Artist: The Hollywood Symphony Orchestra & Guests
+     Album name: Tribute to the Greatest Theme Songs of JAMES BOND 007......
+     Year: 2012
+     Cover: http://tut-audio.su/alb-mus/5451524-460x460/tribute-to-the-greatest-theme-songs-of-james-bond-007.jpg
+        1/15 All Time High (Octopussy)
+        Status code: 200 and took 0:00:00.558625        http://tut-audio.su/download-music/10495775/the-hollywood-symphony-orchestra-guests-all-time-high-octopussy.mp3
+        2/15 Goldeneye
+        Status code: 200 and took 0:00:00.618196        http://tut-audio.su/download-music/10495776/the-hollywood-symphony-orchestra-guests-goldeneye.mp3
+        3/15 Live and Let Die
+        Status code: 200 and took 0:00:00.608879        http://tut-audio.su/download-music/10495777/the-hollywood-symphony-orchestra-guests-live-and-let-die.mp3
+        4/15 Tomorrow Never Dies
+        Status code: 200 and took 0:00:01.165122        http://tut-audio.su/download-music/10495778/the-hollywood-symphony-orchestra-guests-tomorrow-never-dies.mp3
+        5/15 For Your Eyes Only
+        Status code: 200 and took 0:00:00.625437        http://tut-audio.su/download-music/10495779/the-hollywood-symphony-orchestra-guests-for-your-eyes-only.mp3
+        6/15 Moonraker
+        Status code: 200 and took 0:00:00.899936        http://tut-audio.su/download-music/10495780/the-hollywood-symphony-orchestra-guests-moonraker.mp3
+        7/15 You Only Live Twice
+        Status code: 200 and took 0:00:00.482206        http://tut-audio.su/download-music/10495781/the-hollywood-symphony-orchestra-guests-you-only-live-twice.mp3
+        8/15 The Man With The Golden Gun
+        Status code: 200 and took 0:00:00.419183        http://tut-audio.su/download-music/10495782/the-hollywood-symphony-orchestra-guests-the-man-with-the-golden-gun.mp3
+        9/15 Nobody Does It Better (The Spy who loved me)
+        Status code: 200 and took 0:00:00.639574        http://tut-audio.su/download-music/10495783/the-hollywood-symphony-orchestra-guests-nobody-does-it-better-the-spy-who-loved-me.mp3
+        10/15 The World Is Not Enough
+        Status code: 200 and took 0:00:00.373565        http://tut-audio.su/download-music/10495784/the-hollywood-symphony-orchestra-guests-the-world-is-not-enough.mp3
+        11/15 Skyfall
+        Status code: 200 and took 0:00:01.704380        http://tut-audio.su/download-music/10495785/katie-berry-skyfall.mp3
+        12/15 Goldfinger
+        Status code: 200 and took 0:00:00.772837        http://tut-audio.su/download-music/10495786/the-hollywood-symphony-orchestra-guests-goldfinger.mp3
+        13/15 A View To A Kill
+        Track is missing!
+        Status code: 404 and took 0:00:00.376249        http://tut-audio.su/download-music/10495787/the-hollywood-symphony-orchestra-guests-a-view-to-a-kill.mp3
+        14/15 The Living Daylights
+        Status code: 200 and took 0:00:01.521829        http://tut-audio.su/download-music/10495788/the-hollywood-symphony-orchestra-guests-the-living-daylights.mp3
+        15/15 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.581919        http://tut-audio.su/download-music/10495789/the-hollywood-symphony-orchestra-guests-diamonds-are-forever.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-c-i-discoteque-vol-1-download-5138130.html (13) 
+   New Artist Gilbert added to data base!
+   This album has been added to the data base:
+     Artist: Gilbert
+     Album name: C.I.Discoteque Vol 1
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5138130-460x460/c-i-discoteque-vol-1.jpg
+        1/10 Mani In Alto
+        Status code: 200 and took 0:00:00.948560        http://tut-audio.su/download-music/7698546/gilbert-mani-in-alto.mp3
+        2/10 Revolution
+        Status code: 200 and took 0:00:00.388422        http://tut-audio.su/download-music/7698547/007-man-revolution.mp3
+        3/10 Start
+        Status code: 200 and took 0:00:00.392278        http://tut-audio.su/download-music/7698548/fabio-santi-start.mp3
+        4/10 Tecnomagro
+        Status code: 200 and took 0:00:01.079521        http://tut-audio.su/download-music/7698549/leo-magro-tecnomagro.mp3
+        5/10 Smoke
+        Status code: 200 and took 0:00:00.366185        http://tut-audio.su/download-music/7698550/luca-guerrieri-smoke.mp3
+        6/10 Dederica Ale
+        Status code: 200 and took 0:00:00.632417        http://tut-audio.su/download-music/7698551/ale-dederica-ale.mp3
+        7/10 Tribantella
+        Status code: 200 and took 0:00:00.308219        http://tut-audio.su/download-music/7698552/alessio-giannelli-tribantella.mp3
+        8/10 Sofia
+        Status code: 200 and took 0:00:00.821809        http://tut-audio.su/download-music/7698553/cicco-d-j-sofia.mp3
+        9/10 Black Out
+        Status code: 200 and took 0:00:00.540296        http://tut-audio.su/download-music/7698554/riccardino-black-out.mp3
+        10/10 Latin Day
+        Status code: 200 and took 0:00:00.490048        http://tut-audio.su/download-music/7698555/lorenzo-c-latin-day.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-cinemagic-27-download-5868980.html (14) 
+   New Artist Marc Reift added to data base!
+   This album has been added to the data base:
+     Artist: Marc Reift
+     Album name: Cinemagic 27
+     Year: 2013
+     Cover: http://tut-audio.su/alb-mus/5868980-460x460/cinemagic-27.jpg
+        1/9 Moulin Rouge (From "Moulin Rougue")
+        Status code: 200 and took 0:00:00.347544        http://tut-audio.su/download-music/14590149/marc-reift-moulin-rouge-from-moulin-rougue.mp3
+        2/9 MacGyver Theme
+        Status code: 200 and took 0:00:00.316461        http://tut-audio.su/download-music/14590152/marc-reift-macgyver-theme.mp3
+        3/9 Le Casse: The Burglars / Der Coup (From "The Burglars / De Coup)
+        Status code: 200 and took 0:00:00.350020        http://tut-audio.su/download-music/14590154/marc-reift-le-casse-the-burglars-der-coup-from-the-burglars-de-coup.mp3
+        4/9 Edelweiss (From "The Sound of Music")
+        Status code: 200 and took 0:00:00.321227        http://tut-audio.su/download-music/14590155/marc-reift-edelweiss-from-the-sound-of-music.mp3
+        5/9 Moonraker (From "James Bond 007: Moonraker")
+        Status code: 200 and took 0:00:00.375451        http://tut-audio.su/download-music/14590157/marc-reift-moonraker-from-james-bond-007-moonraker.mp3
+        6/9 Murder in the First (From "Meurtre à Alcatraz)
+        Status code: 200 and took 0:00:00.680482        http://tut-audio.su/download-music/14590159/marc-reift-murder-in-the-first-from-meurtre-a-alcatraz.mp3
+        7/9 The Man With the Golden Gun (From "James Bond 007: The Man With the Golden Gun")
+        Status code: 200 and took 0:00:00.366540        http://tut-audio.su/download-music/14590161/marc-reift-the-man-with-the-golden-gun-from-james-bond-007-the-man-with-the-golden-gun.mp3
+        8/9 Little Tom Thumb (From " Le Petit Poucet")
+        Status code: 200 and took 0:00:00.537143        http://tut-audio.su/download-music/14590163/marc-reift-little-tom-thumb-from-le-petit-poucet.mp3
+        9/9 Da Vinci Code (From " The Da Vinci Code")
+        Status code: 200 and took 0:00:00.495091        http://tut-audio.su/download-music/14590165/marc-reift-da-vinci-code-from-the-da-vinci-code.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-the-music-of-james-bond-download-5184697.html (15) 
+   New Artist The Original Movies Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: The Original Movies Orchestra
+     Album name: 007 The Music Of James Bond
+     Year: 2007
+     Cover: http://tut-audio.su/alb-mus/5184697-460x460/007-the-music-of-james-bond.jpg
+        1/9 The Man With The Golden Gun Main Title (Tha Man With Golden Gun 1974)
+        Status code: 200 and took 0:00:00.419218        http://tut-audio.su/download-music/7769249/the-original-movies-orchestra-the-man-with-the-golden-gun-main-title-tha-man-with-golden-gun-1974.mp3
+        2/9 A View To A Kill Main Title (A View To A Kill 1985)
+        Status code: 200 and took 0:00:00.504686        http://tut-audio.su/download-music/7769254/the-original-movies-orchestra-a-view-to-a-kill-main-title-a-view-to-a-kill-1985.mp3
+        3/9 Thunderball Main Title (Thunderball 1965)
+        Status code: 200 and took 0:00:00.642951        http://tut-audio.su/download-music/7769255/the-original-movies-orchestra-thunderball-main-title-thunderball-1965.mp3
+        4/9 Diamonds Are Forever Main Title (Diamonds Are Forever 1971)
+        Status code: 200 and took 0:00:00.517881        http://tut-audio.su/download-music/7769260/the-original-movies-orchestra-diamonds-are-forever-main-title-diamonds-are-forever-1971.mp3
+        5/9 Never Say Never Again
+        Status code: 200 and took 0:00:01.005851        http://tut-audio.su/download-music/8206459/the-original-movies-orchestra-never-say-never-again.mp3
+        6/9 Goldeneye
+        Status code: 200 and took 0:00:00.330329        http://tut-audio.su/download-music/8206461/the-original-movies-orchestra-goldeneye.mp3
+        7/9 Dr. No
+        Status code: 200 and took 0:00:00.404160        http://tut-audio.su/download-music/8206464/the-original-movies-orchestra-dr-no.mp3
+        8/9 Licence To Kill
+        Status code: 200 and took 0:00:00.623027        http://tut-audio.su/download-music/8206466/the-original-movies-orchestra-licence-to-kill.mp3
+        9/9 Nobody Does It Better
+        Status code: 200 and took 0:00:00.557723        http://tut-audio.su/download-music/8206467/the-original-movies-orchestra-nobody-does-it-better.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-blockbuster-music-download-5935517.html (16) 
+   New Artist The Magic Movie Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: The Magic Movie Orchestra
+     Album name: Blockbuster Music
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5935517-460x460/blockbuster-music.jpg
+        1/19 Main Title from James Bond: You Only Live Twice
+        Status code: 200 and took 0:00:00.392248        http://tut-audio.su/download-music/10738607/the-magic-movie-orchestra-main-title-from-james-bond-you-only-live-twice.mp3
+        2/19 No Matter What Happens (From "Yentl")
+        Status code: 200 and took 0:00:00.715311        http://tut-audio.su/download-music/15063726/movie-sounds-unlimited-no-matter-what-happens-from-yentl.mp3
+        3/19 Black Rain Suite (From "Black Rain")
+        Status code: 200 and took 0:00:00.354392        http://tut-audio.su/download-music/15063727/movie-sounds-unlimited-black-rain-suite-from-black-rain.mp3
+        4/19 Star Trek - (Music Inspired By the TV-Series)
+        Status code: 200 and took 0:00:00.396006        http://tut-audio.su/download-music/15063729/movie-sounds-unlimited-star-trek-music-inspired-by-the-tv-series.mp3
+        5/19 Sledge Hammer (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.311134        http://tut-audio.su/download-music/15063730/movie-sounds-unlimited-sledge-hammer-music-inspired-by-the-film.mp3
+        6/19 Across the Stars (Love Theme from "Star Wars Episode II: Attack of the Clones")
+        Status code: 200 and took 0:00:00.490034        http://tut-audio.su/download-music/15063731/movie-sounds-unlimited-across-the-stars-love-theme-from-star-wars-episode-ii-attack-of-the-clones.mp3
+        7/19 Wives and Lovers (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.431608        http://tut-audio.su/download-music/15063732/movie-sounds-unlimited-wives-and-lovers-music-inspired-by-the-film.mp3
+        8/19 Papa Can You Hear Me (From "Yentl")
+        Status code: 200 and took 0:00:00.477423        http://tut-audio.su/download-music/15063733/movie-sounds-unlimited-papa-can-you-hear-me-from-yentl.mp3
+        9/19 The Black Hole (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.339003        http://tut-audio.su/download-music/15063734/movie-sounds-unlimited-the-black-hole-music-inspired-by-the-film.mp3
+        10/19 Persuaders Theme (From "the Persuaders")
+        Status code: 200 and took 0:00:00.323275        http://tut-audio.su/download-music/15063735/movie-sounds-unlimited-persuaders-theme-from-the-persuaders.mp3
+        11/19 Baby Elephant Walk (From "Hatari")
+        Status code: 200 and took 0:00:00.398385        http://tut-audio.su/download-music/15063736/movie-sounds-unlimited-baby-elephant-walk-from-hatari.mp3
+        12/19 The Man With the Golden Gun (From "James Bond 007 - Der Mann Mit Dem Goldenen Colt")
+        Status code: 200 and took 0:00:00.525664        http://tut-audio.su/download-music/15063737/movie-sounds-unlimited-the-man-with-the-golden-gun-from-james-bond-007-der-mann-mit-dem-goldenen-colt.mp3
+        13/19 Remington Steel (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.420289        http://tut-audio.su/download-music/15063738/movie-sounds-unlimited-remington-steel-music-inspired-by-the-film.mp3
+        14/19 Hotel (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.430905        http://tut-audio.su/download-music/15063739/movie-sounds-unlimited-hotel-music-inspired-by-the-film.mp3
+        15/19 Love Theme (From "Ben Hur")
+        Status code: 200 and took 0:00:00.411494        http://tut-audio.su/download-music/15063740/movie-sounds-unlimited-love-theme-from-ben-hur.mp3
+        16/19 La Dolce Vita (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.501205        http://tut-audio.su/download-music/15063741/movie-sounds-unlimited-la-dolce-vita-music-inspired-by-the-film.mp3
+        17/19 Moon River (From "Breakfast At Tiffany's")
+        Status code: 200 and took 0:00:00.465271        http://tut-audio.su/download-music/15063742/movie-sounds-unlimited-moon-river-from-breakfast-at-tiffany-s.mp3
+        18/19 What's New Pussycat? (Music Inspired By the Film)
+        Status code: 200 and took 0:00:00.383736        http://tut-audio.su/download-music/15063743/movie-sounds-unlimited-what-s-new-pussycat-music-inspired-by-the-film.mp3
+        19/19 From Russia With Love (From "Liebesgrüße Aus Moskau")
+        Status code: 200 and took 0:00:00.483435        http://tut-audio.su/download-music/15063744/movie-sounds-unlimited-from-russia-with-love-from-liebesgrusse-aus-moskau.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-james-bond-themes-download-5855600.html (17) 
+   New Artist Highlight Orchestra and Singers added to data base!
+   This album has been added to the data base:
+     Artist: Highlight Orchestra and Singers
+     Album name: 007 James Bond Themes
+     Year: 2013
+     Cover: http://tut-audio.su/alb-mus/5855600-460x460/007-james-bond-themes.jpg
+        1/19 Casino Royale
+        Status code: 200 and took 0:00:00.572877        http://tut-audio.su/download-music/14474034/highlight-orchestra-and-singers-casino-royale.mp3
+        2/19 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.380106        http://tut-audio.su/download-music/14474035/highlight-orchestra-and-singers-diamonds-are-forever.mp3
+        3/19 Goldeneye
+        Status code: 200 and took 0:00:00.438240        http://tut-audio.su/download-music/14474036/highlight-orchestra-and-singers-goldeneye.mp3
+        4/19 The Living Daylights
+        Status code: 200 and took 0:00:00.388276        http://tut-audio.su/download-music/14474037/highlight-orchestra-and-singers-the-living-daylights.mp3
+        5/19 Moonraker
+        Status code: 200 and took 0:00:00.424085        http://tut-audio.su/download-music/14474038/highlight-orchestra-and-singers-moonraker.mp3
+        6/19 The Man With the Golden Gun
+        Status code: 200 and took 0:00:00.466222        http://tut-audio.su/download-music/14474039/highlight-orchestra-and-singers-the-man-with-the-golden-gun.mp3
+        7/19 All Time High
+        Status code: 200 and took 0:00:00.539267        http://tut-audio.su/download-music/14474040/highlight-orchestra-and-singers-all-time-high.mp3
+        8/19 Goldfinger
+        Status code: 200 and took 0:00:00.827445        http://tut-audio.su/download-music/14474041/highlight-orchestra-and-singers-goldfinger.mp3
+        9/19 Mr. Kiss Kss Bang Bang
+        Status code: 200 and took 0:00:00.394422        http://tut-audio.su/download-music/14474042/highlight-orchestra-and-singers-mr-kiss-kss-bang-bang.mp3
+        10/19 Thunderball
+        Status code: 200 and took 0:00:00.557736        http://tut-audio.su/download-music/14474043/highlight-orchestra-and-singers-thunderball.mp3
+        11/19 For Your Eyes Only
+        Status code: 200 and took 0:00:00.455204        http://tut-audio.su/download-music/14474044/highlight-orchestra-and-singers-for-your-eyes-only.mp3
+        12/19 You Only Live Twice
+        Status code: 200 and took 0:00:00.549860        http://tut-audio.su/download-music/14474045/highlight-orchestra-and-singers-you-only-live-twice.mp3
+        13/19 From Russia With Love
+        Status code: 200 and took 0:00:01.502415        http://tut-audio.su/download-music/14474046/highlight-orchestra-and-singers-from-russia-with-love.mp3
+        14/19 Live and Let Die
+        Status code: 200 and took 0:00:00.911606        http://tut-audio.su/download-music/14474047/highlight-orchestra-and-singers-live-and-let-die.mp3
+        15/19 Nobody Does It Better
+        Status code: 200 and took 0:00:00.676401        http://tut-audio.su/download-music/14474048/highlight-orchestra-and-singers-nobody-does-it-better.mp3
+        16/19 Never Say Never Again
+        Status code: 200 and took 0:00:00.384888        http://tut-audio.su/download-music/14474049/highlight-orchestra-and-singers-never-say-never-again.mp3
+        17/19 James Bond Theme
+        Status code: 200 and took 0:00:00.446615        http://tut-audio.su/download-music/14474050/highlight-orchestra-and-singers-james-bond-theme.mp3
+        18/19 Licence to Kill
+        Status code: 200 and took 0:00:00.424558        http://tut-audio.su/download-music/14474051/highlight-orchestra-and-singers-licence-to-kill.mp3
+        19/19 A View to a Kill
+        Status code: 200 and took 0:00:00.587225        http://tut-audio.su/download-music/14474052/highlight-orchestra-and-singers-a-view-to-a-kill.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-wanted-the-ventures-download-5348748.html (18) 
+   New Artist The Ventures added to data base!
+   This album has been added to the data base:
+     Artist: The Ventures
+     Album name: Wanted The Ventures
+     Year: 2011
+     Cover: http://tut-audio.su/alb-mus/5348748-460x460/wanted-the-ventures.jpg
+        1/26 Wipe Out
+        Status code: 200 and took 0:00:00.339110        http://tut-audio.su/download-music/9450432/the-ventures-wipe-out.mp3
+        2/26 Hawaii Five'O
+        Status code: 200 and took 0:00:00.588283        http://tut-audio.su/download-music/9450433/the-ventures-hawaii-five-o.mp3
+        3/26 Driving Guitars
+        Status code: 200 and took 0:00:00.307931        http://tut-audio.su/download-music/9450434/the-ventures-driving-guitars.mp3
+        4/26 Memphis Tennessee
+        Status code: 200 and took 0:00:00.409652        http://tut-audio.su/download-music/9450435/the-ventures-memphis-tennessee.mp3
+        5/26 Bulldog
+        Status code: 200 and took 0:00:00.758248        http://tut-audio.su/download-music/9450436/the-ventures-bulldog.mp3
+        6/26 Secret Agent Man - James Bond 007
+        Status code: 200 and took 0:00:00.353308        http://tut-audio.su/download-music/9450437/the-ventures-secret-agent-man-james-bond-007.mp3
+        7/26 Wheels
+        Status code: 200 and took 0:00:00.395373        http://tut-audio.su/download-music/9450438/the-ventures-wheels.mp3
+        8/26 Let's Go
+        Status code: 200 and took 0:00:00.350766        http://tut-audio.su/download-music/9450439/the-ventures-let-s-go.mp3
+        9/26 Perfidia
+        Status code: 200 and took 0:00:00.409629        http://tut-audio.su/download-music/9450440/the-ventures-perfidia.mp3
+        10/26 Slaughter On Tenth Avenue
+        Status code: 200 and took 0:00:00.552924        http://tut-audio.su/download-music/9450441/the-ventures-slaughter-on-tenth-avenue.mp3
+        11/26 Caravan
+        Track is missing!
+        Status code: 404 and took 0:00:00.309950        http://tut-audio.su/download-music/9450442/the-ventures-caravan.mp3
+        12/26 Pipeline
+        Status code: 200 and took 0:00:00.393023        http://tut-audio.su/download-music/9450443/the-ventures-pipeline.mp3
+        13/26 Apache
+        Status code: 200 and took 0:00:00.460810        http://tut-audio.su/download-music/9450444/the-ventures-apache.mp3
+        14/26 Guitar Boogie Shuffle
+        Status code: 200 and took 0:00:00.833200        http://tut-audio.su/download-music/9450445/the-ventures-guitar-boogie-shuffle.mp3
+        15/26 Bumble Bee Rock
+        Status code: 200 and took 0:00:00.792166        http://tut-audio.su/download-music/9450446/the-ventures-bumble-bee-rock.mp3
+        16/26 Telstar
+        Status code: 200 and took 0:00:00.464912        http://tut-audio.su/download-music/9450447/the-ventures-telstar.mp3
+        17/26 Green Onions
+        Status code: 200 and took 0:00:00.375743        http://tut-audio.su/download-music/9450448/the-ventures-green-onions.mp3
+        18/26 Ghost Riders in the Sky
+        Status code: 200 and took 0:00:00.662884        http://tut-audio.su/download-music/9450449/the-ventures-ghost-riders-in-the-sky.mp3
+        19/26 Rebel Rouser
+        Status code: 200 and took 0:00:00.342189        http://tut-audio.su/download-music/9450450/the-ventures-rebel-rouser.mp3
+        20/26 Raunchy
+        Track is missing!
+        Status code: 404 and took 0:00:00.318816        http://tut-audio.su/download-music/9450451/the-ventures-raunchy.mp3
+        21/26 Diamond Head
+        Status code: 200 and took 0:00:00.350280        http://tut-audio.su/download-music/9450452/the-ventures-diamond-head.mp3
+        22/26 Tequila
+        Status code: 200 and took 0:00:01.061985        http://tut-audio.su/download-music/9450453/the-ventures-tequila.mp3
+        23/26 Rock Nuts
+        Status code: 200 and took 0:00:00.375152        http://tut-audio.su/download-music/9450454/the-ventures-rock-nuts.mp3
+        24/26 House of the Rising Sun
+        Status code: 200 and took 0:00:00.389595        http://tut-audio.su/download-music/9450455/the-ventures-house-of-the-rising-sun.mp3
+        25/26 Walk Don't Run
+        Status code: 200 and took 0:00:00.608640        http://tut-audio.su/download-music/9450456/the-ventures-walk-don-t-run.mp3
+        26/26 Sleepwalk
+        Status code: 200 and took 0:00:00.383271        http://tut-audio.su/download-music/9450457/the-ventures-sleepwalk.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-james-bond-themes-download-5267007.html (19) 
+   New Artist Peppino di Capri added to data base!
+   This album has been added to the data base:
+     Artist: Peppino di Capri
+     Album name: James Bond Themes
+     Year: 
+     Cover: http://tut-audio.su/alb-mus/5267007-460x460/james-bond-themes.jpg
+        1/10 Live and Let Die
+        Status code: 200 and took 0:00:00.482064        http://tut-audio.su/download-music/8726537/peppino-di-capri-live-and-let-die.mp3
+        2/10 The Living Daylights
+        Status code: 200 and took 0:00:00.349786        http://tut-audio.su/download-music/8726538/renato-carosone-the-living-daylights.mp3
+        3/10 James Bond Theme
+        Status code: 200 and took 0:00:00.410604        http://tut-audio.su/download-music/8726542/peppino-di-capri-james-bond-theme.mp3
+        4/10 License to Kill
+        Status code: 200 and took 0:00:00.358253        http://tut-audio.su/download-music/8726543/claudio-villa-license-to-kill.mp3
+        5/10 The Man With the Golden Gun
+        Status code: 200 and took 0:00:00.901942        http://tut-audio.su/download-music/8726544/the-007-orchestra-the-man-with-the-golden-gun.mp3
+        6/10 A View to a Kill
+        Status code: 200 and took 0:00:00.356595        http://tut-audio.su/download-music/8726546/adriano-celentano-a-view-to-a-kill.mp3
+        7/10 Casino Royale
+        Status code: 200 and took 0:00:00.316273        http://tut-audio.su/download-music/8726547/claudio-villa-casino-royale.mp3
+        8/10 For Your Eyes Only
+        Status code: 200 and took 0:00:00.456512        http://tut-audio.su/download-music/8726548/renato-carosone-for-your-eyes-only.mp3
+        9/10 Never Say Never Again
+        Status code: 200 and took 0:00:00.505315        http://tut-audio.su/download-music/8726549/giorgio-gaber-never-say-never-again.mp3
+        10/10 All Time High
+        Status code: 200 and took 0:00:00.313869        http://tut-audio.su/download-music/8726550/milva-all-time-high.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-007-best-songs-le-piu-belle-colonne-sonore-download-5343963.html (20) 
+   New Artist Soundtrack Orchestra added to data base!
+   This album has been added to the data base:
+     Artist: Soundtrack Orchestra
+     Album name: 007 Best Songs : Le più belle colonne sonore
+     Year: 2011
+     Cover: http://tut-audio.su/alb-mus/5343963-460x460/007-best-songs-le-piu-belle-colonne-sonore.jpg
+        1/16 Goldfinger
+        Status code: 200 and took 0:00:00.557396        http://tut-audio.su/download-music/9400001/soundtrack-orchestra-goldfinger.mp3
+        2/16 Nobody Does It Better
+        Status code: 200 and took 0:00:00.594518        http://tut-audio.su/download-music/9400002/soundtrack-orchestra-nobody-does-it-better.mp3
+        3/16 The Man With the Golden Gun
+        Status code: 200 and took 0:00:00.534145        http://tut-audio.su/download-music/9400003/soundtrack-orchestra-the-man-with-the-golden-gun.mp3
+        4/16 Thunderball
+        Status code: 200 and took 0:00:00.601047        http://tut-audio.su/download-music/9400004/soundtrack-orchestra-thunderball.mp3
+        5/16 Tomorrow Never Dies
+        Status code: 200 and took 0:00:00.458007        http://tut-audio.su/download-music/9400005/soundtrack-orchestra-tomorrow-never-dies.mp3
+        6/16 Casinò Royale
+        Status code: 200 and took 0:00:00.375542        http://tut-audio.su/download-music/9400006/soundtrack-orchestra-casino-royale.mp3
+        7/16 Never Say Never Again
+        Status code: 200 and took 0:00:00.565795        http://tut-audio.su/download-music/9400007/soundtrack-orchestra-never-say-never-again.mp3
+        8/16 All Time High
+        Status code: 200 and took 0:00:00.696937        http://tut-audio.su/download-music/9400008/soundtrack-orchestra-all-time-high.mp3
+        9/16 Live & Let Die
+        Status code: 200 and took 0:00:00.563677        http://tut-audio.su/download-music/9400009/soundtrack-orchestra-live-let-die.mp3
+        10/16 The World Is Not Enough
+        Status code: 200 and took 0:00:00.750710        http://tut-audio.su/download-music/9400010/soundtrack-orchestra-the-world-is-not-enough.mp3
+        11/16 A View to a Kill
+        Status code: 200 and took 0:00:00.599658        http://tut-audio.su/download-music/9400011/soundtrack-orchestra-a-view-to-a-kill.mp3
+        12/16 Moonraker
+        Status code: 200 and took 0:00:00.414293        http://tut-audio.su/download-music/9400012/soundtrack-orchestra-moonraker.mp3
+        13/16 From Russia With Love
+        Status code: 200 and took 0:00:00.570773        http://tut-audio.su/download-music/9400013/soundtrack-orchestra-from-russia-with-love.mp3
+        14/16 Goldeneye
+        Status code: 200 and took 0:00:00.446770        http://tut-audio.su/download-music/9400014/soundtrack-orchestra-goldeneye.mp3
+        15/16 Licence to Kill
+        Status code: 200 and took 0:00:01.282588        http://tut-audio.su/download-music/9400015/soundtrack-orchestra-licence-to-kill.mp3
+        16/16 For Your Eyes Only
+        Status code: 200 and took 0:00:00.540823        http://tut-audio.su/download-music/9400016/soundtrack-orchestra-for-your-eyes-only.mp3
+-------------------------------------------------------------------------------------------
+  Found: http://tut-audio.su/mp3-album-best-soundtrack-james-bond-007-download-7995489.html (21) 
+   New Artist Hanny Williams added to data base!
+   This album has been added to the data base:
+     Artist: Hanny Williams
+     Album name: Best Soundtrack James Bond 007
+     Year: 2015
+     Cover: http://tut-audio.su/alb-mus/7995489-460x460/best-soundtrack-james-bond-007.jpg
+        1/22 Theme from DR. No
+        Status code: 200 and took 0:00:00.427347        http://tut-audio.su/download-music/31418001/hanny-williams-theme-from-dr-no.mp3
+        2/22 Moonraker
+        Status code: 200 and took 0:00:00.507586        http://tut-audio.su/download-music/31418002/hanny-williams-moonraker.mp3
+        3/22 The Living Daylights
+        Status code: 200 and took 0:00:00.911653        http://tut-audio.su/download-music/31418003/hanny-williams-the-living-daylights.mp3
+        4/22 Nobody Does It Better
+        Status code: 200 and took 0:00:00.456591        http://tut-audio.su/download-music/31418004/hanny-williams-nobody-does-it-better.mp3
+        5/22 Never Say Never Again
+        Status code: 200 and took 0:00:00.400549        http://tut-audio.su/download-music/31418005/hanny-williams-never-say-never-again.mp3
+        6/22 A View to a Kill
+        Status code: 200 and took 0:00:00.387800        http://tut-audio.su/download-music/31418006/hanny-williams-a-view-to-a-kill.mp3
+        7/22 For Your Eyes Only
+        Status code: 200 and took 0:00:00.562399        http://tut-audio.su/download-music/31418007/hanny-williams-for-your-eyes-only.mp3
+        8/22 All Time High
+        Status code: 200 and took 0:00:00.468653        http://tut-audio.su/download-music/31418008/hanny-williams-all-time-high.mp3
+        9/22 Casino Royale Main Theme
+        Status code: 200 and took 0:00:00.393246        http://tut-audio.su/download-music/31418009/hanny-williams-casino-royale-main-theme.mp3
+        10/22 From Russia with Love
+        Status code: 200 and took 0:00:00.801832        http://tut-audio.su/download-music/31418010/hanny-williams-from-russia-with-love.mp3
+        11/22 Thunderball
+        Status code: 200 and took 0:00:00.325494        http://tut-audio.su/download-music/31418011/hanny-williams-thunderball.mp3
+        12/22 Licence to Kill
+        Status code: 200 and took 0:00:00.503191        http://tut-audio.su/download-music/31418012/hanny-williams-licence-to-kill.mp3
+        13/22 The Man with the Golden Gun
+        Status code: 200 and took 0:00:00.455368        http://tut-audio.su/download-music/31418013/hanny-williams-the-man-with-the-golden-gun.mp3
+        14/22 Goldfinger
+        Status code: 200 and took 0:00:00.954713        http://tut-audio.su/download-music/31418014/hanny-williams-goldfinger.mp3
+        15/22 You Only Live Twice
+        Status code: 200 and took 0:00:00.958221        http://tut-audio.su/download-music/31418015/hanny-williams-you-only-live-twice.mp3
+        16/22 Diamonds Are Forever
+        Status code: 200 and took 0:00:00.327344        http://tut-audio.su/download-music/31418016/hanny-williams-diamonds-are-forever.mp3
+        17/22 Live & Let Die
+        Status code: 200 and took 0:00:00.807345        http://tut-audio.su/download-music/31418017/hanny-williams-live-let-die.mp3
+        18/22 Goldeneye
+        Status code: 200 and took 0:00:00.662927        http://tut-audio.su/download-music/31418018/hanny-williams-goldeneye.mp3
+        19/22 Ohmss
+        Status code: 200 and took 0:00:00.372114        http://tut-audio.su/download-music/31418019/hanny-williams-ohmss.mp3
+        20/22 Mr. Kiss Kiss Bang Bang
+        Status code: 200 and took 0:00:00.342310        http://tut-audio.su/download-music/31418020/hanny-williams-mr-kiss-kiss-bang-bang.mp3
+        21/22 The World Is Not Enough
+        Status code: 200 and took 0:00:00.536498        http://tut-audio.su/download-music/31418021/hanny-williams-the-world-is-not-enough.mp3
+        22/22 Tomorrow Never Dies
+        Status code: 200 and took 0:00:00.453137        http://tut-audio.su/download-music/31418022/hanny-williams-tomorrow-never-dies.mp3
+-------------------------------------------------------------------------------------------
+ Try No. 2
+ Try No. 3
+ Try No. 4
+ Try No. 5
+ Try No. 6
+ Try No. 7
+ Try No. 8
+ Try No. 9
+-------------------------------------------------------------------------------------------
+Added 21 Albums to the database of 007-man
+-------------------------------------------------------------------------------------------
+Ended at Mon, 05 Feb 2018 22:07:35 +0000, so needed 0:05:10.339978
+Artists added to data base: 20
+Albums added to data base: 21
+Tracks added to data base: 353
+Missing tracks: 9
+Connection errors: 0
+Timeouts: 0

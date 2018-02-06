@@ -1,0 +1,181 @@
+Started at: Sat, 03 Feb 2018 00:27:38 +0000/nCategory 007-man has music!
+ Try No. 1
+	Found: /mp3-album-reggaeton-freestyle-mix-tape-vol-007-download-5323164.html, (1) 
+	New Artist DJ Mango Man added to data base!
+	This album has been added to the data base:
+	  Artist: DJ Mango Man
+	  Album name: Reggaeton Freestyle Mix Tape (Vol. 007)
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5323164-460x460/reggaeton-freestyle-mix-tape-vol-007.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-riding-a-cannibal-horse-from-here-to-download-5657380.html, (2) 
+	New Artist The Orange Man Theory added to data base!
+	This album has been added to the data base:
+	  Artist: The Orange Man Theory
+	  Album name: Riding A Cannibal Horse From Here To...
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5657380-460x460/riding-a-cannibal-horse-from-here-to.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-james-bond-007-ultimate-collection-vol-1-download-5387450.html, (3) 
+	New Artist High School Music Band added to data base!
+	This album has been added to the data base:
+	  Artist: High School Music Band
+	  Album name: James Bond 007 Ultimate Collection, Vol. 1
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5387450-460x460/james-bond-007-ultimate-collection-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-c-i-discoteque-vol-1-download-5138130.html, (4) 
+	New Artist Gilbert added to data base!
+	This album has been added to the data base:
+	  Artist: Gilbert
+	  Album name: C.I.Discoteque Vol 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5138130-460x460/c-i-discoteque-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-jackito-007-one-mic-one-man-download-6690986.html, (5) 
+	New Artist Jackito added to data base!
+	This album has been added to the data base:
+	  Artist: Jackito
+	  Album name: Jackito 007 (One mic, one man)
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6690986-460x460/jackito-007-one-mic-one-man.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-landscapes-download-5524387.html, (6) 
+	New Artist The Scene added to data base!
+	This album has been added to the data base:
+	  Artist: The Scene
+	  Album name: Landscapes
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5524387-460x460/landscapes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bond-007-tribute-ringtones-download-6263755.html, (7) 
+	New Artist DJ MixMasters added to data base!
+	This album has been added to the data base:
+	  Artist: DJ MixMasters
+	  Album name: Bond 007 Tribute Ringtones
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6263755-460x460/bond-007-tribute-ringtones.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-james-bond-themes-download-5267007.html, (8) 
+	New Artist Peppino di Capri added to data base!
+	This album has been added to the data base:
+	  Artist: Peppino di Capri
+	  Album name: James Bond Themes
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5267007-460x460/james-bond-themes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-wanted-the-ventures-download-5348748.html, (9) 
+	New Artist The Ventures added to data base!
+	This album has been added to the data base:
+	  Artist: The Ventures
+	  Album name: Wanted The Ventures
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5348748-460x460/wanted-the-ventures.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-a-man-and-his-music-the-essential-ray-barretto-download-4961368.html, (10) 
+	New Artist Ray Barretto added to data base!
+	This album has been added to the data base:
+	  Artist: Ray Barretto
+	  Album name: A Man And His Music: The Essential Ray Barretto
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4961368-460x460/a-man-and-his-music-the-essential-ray-barretto.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-blockbuster-music-download-5935517.html, (11) 
+	New Artist The Magic Movie Orchestra added to data base!
+	This album has been added to the data base:
+	  Artist: The Magic Movie Orchestra
+	  Album name: Blockbuster Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5935517-460x460/blockbuster-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-best-songs-le-piu-belle-colonne-sonore-download-5343963.html, (12) 
+	New Artist Soundtrack Orchestra added to data base!
+	This album has been added to the data base:
+	  Artist: Soundtrack Orchestra
+	  Album name: 007 Best Songs : Le più belle colonne sonore
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5343963-460x460/007-best-songs-le-piu-belle-colonne-sonore.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-james-bond-themes-download-5855600.html, (13) 
+	New Artist Highlight Orchestra and Singers added to data base!
+	This album has been added to the data base:
+	  Artist: Highlight Orchestra and Singers
+	  Album name: 007 James Bond Themes
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5855600-460x460/007-james-bond-themes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-james-bond-007-ultimate-collection-vol-2-download-5422557.html, (14) 
+	Artist High School Music Band retrieved from data base!
+	This album has been added to the data base:
+	  Artist: High School Music Band
+	  Album name: James Bond 007 Ultimate Collection, Vol. 2
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5422557-460x460/james-bond-007-ultimate-collection-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-the-music-of-james-bond-download-5184697.html, (15) 
+	New Artist The Original Movies Orchestra added to data base!
+	This album has been added to the data base:
+	  Artist: The Original Movies Orchestra
+	  Album name: 007 The Music Of James Bond
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5184697-460x460/007-the-music-of-james-bond.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-james-bond-classics-skyfall-50-years-edition-download-5451728.html, (16) 
+	New Artist 007 Collective added to data base!
+	This album has been added to the data base:
+	  Artist: 007 Collective
+	  Album name: 007 - James Bond Classics - Skyfall ' 50 years Edition '
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5451728-460x460/007-james-bond-classics-skyfall-50-years-edition.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-james-bond-50-years-download-5443165.html, (17) 
+	New Artist London Symphony Orchestra added to data base!
+	This album has been added to the data base:
+	  Artist: London Symphony Orchestra
+	  Album name: 007 James Bond 50 Years
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5443165-460x460/007-james-bond-50-years.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-tribute-to-the-greatest-theme-songs-of-james-bond-007-download-5451524.html, (18) 
+	New Artist The Hollywood Symphony Orchestra & Guests added to data base!
+	This album has been added to the data base:
+	  Artist: The Hollywood Symphony Orchestra & Guests
+	  Album name: Tribute to the Greatest Theme Songs of JAMES BOND 007......
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5451524-460x460/tribute-to-the-greatest-theme-songs-of-james-bond-007.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-best-soundtrack-james-bond-007-download-7995489.html, (19) 
+	New Artist Hanny Williams added to data base!
+	This album has been added to the data base:
+	  Artist: Hanny Williams
+	  Album name: Best Soundtrack James Bond 007
+	  Year: 2015
+	  Cover: http://tut-audio.su/alb-mus/7995489-460x460/best-soundtrack-james-bond-007.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-007-le-piu-belle-colonne-sonore-download-5356334.html, (20) 
+	New Artist Magic Film Orchestra added to data base!
+	This album has been added to the data base:
+	  Artist: Magic Film Orchestra
+	  Album name: 007: Le più belle colonne sonore
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5356334-460x460/007-le-piu-belle-colonne-sonore.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-cinemagic-27-download-5868980.html, (21) 
+	New Artist Marc Reift added to data base!
+	This album has been added to the data base:
+	  Artist: Marc Reift
+	  Album name: Cinemagic 27
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5868980-460x460/cinemagic-27.jpg
+-------------------------------------------------------------------------------------------
+ Try No. 2
+ Try No. 3
+ Try No. 4
+ Try No. 5
+ Try No. 6
+ Try No. 7
+ Try No. 8
+ Try No. 9
+-------------------------------------------------------------------------------------------
+Added 21 Albums to the database of 007-man
+-------------------------------------------------------------------------------------------

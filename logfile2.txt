@@ -1,0 +1,3341 @@
+Started at: Sat, 03 Feb 2018 01:02:38 +0000/nCategory 0800 has music!
+ Try No. 1
+	Found: /mp3-album-sangen-till-livet-download-5046822.html, (1) 
+	New Artist Christina Lindbergs added to data base!
+	This album has been added to the data base:
+	  Artist: Christina Lindbergs
+	  Album name: Sången Till Livet
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5046822-460x460/sangen-till-livet.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-jahre-dresdner-kreuzchor-download-8938100.html, (2) 
+	New Artist Dresdner Kreuzchor & Peter Kopp added to data base!
+	This album has been added to the data base:
+	  Artist: Dresdner Kreuzchor & Peter Kopp
+	  Album name: 800 Jahre Dresdner Kreuzchor
+	  Year: 2016
+	  Cover: http://tut-audio.su/alb-mus/8938100-460x460/800-jahre-dresdner-kreuzchor.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-call-jesus-download-7441096.html, (3) 
+	New Artist Band of Angels added to data base!
+	This album has been added to the data base:
+	  Artist: Band of Angels
+	  Album name: Call Jesus
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/7441096-460x460/call-jesus.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-squawk-download-6377063.html, (4) 
+	New Artist Asylum added to data base!
+	This album has been added to the data base:
+	  Artist: Asylum
+	  Album name: 1-800-Squawk
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6377063-460x460/1-800-squawk.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-evacuation-routes-download-6070586.html, (5) 
+	New Artist Andreas Braunlich added to data base!
+	This album has been added to the data base:
+	  Artist: Andreas Braunlich
+	  Album name: Evacuation Routes
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/6070586-460x460/evacuation-routes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rock-n-roll-download-5364101.html, (6) 
+	New Artist 0800 added to data base!
+	This album has been added to the data base:
+	  Artist: 0800
+	  Album name: Rock'n'roll
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5364101-460x460/rock-n-roll.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-piment-rouge-3-download-5360849.html, (7) 
+	New Artist Trepann added to data base!
+	This album has been added to the data base:
+	  Artist: Trepann
+	  Album name: Piment Rouge 3
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5360849-460x460/piment-rouge-3.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-273-8255-tribute-to-logic-and-alessia-cara-and-khalid-download-9249519.html, (8) 
+	New Artist 2017 Billboard Masters added to data base!
+	This album has been added to the data base:
+	  Artist: 2017 Billboard Masters
+	  Album name: 1-800-273-8255 - Tribute to Logic and Alessia Cara and Khalid
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9249519-460x460/1-800-273-8255-tribute-to-logic-and-alessia-cara-and-khalid.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-600-700-800-napoletano-download-5866427.html, (9) 
+	New Artist Pino De Maio added to data base!
+	This album has been added to the data base:
+	  Artist: Pino De Maio
+	  Album name: '600 '700 '800 napoletano
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5866427-460x460/600-700-800-napoletano.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-thomanerchor-leipzig-800-jahre-download-9598345.html, (10) 
+	New Artist Thomanerchor Leipzig & Hans Joachim Rotzsch added to data base!
+	This album has been added to the data base:
+	  Artist: Thomanerchor Leipzig & Hans Joachim Rotzsch
+	  Album name: Thomanerchor Leipzig, 800 Jahre
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/9598345-460x460/thomanerchor-leipzig-800-jahre.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-thomanerchor-leipzig-800-jahre-download-6139024.html, (11) 
+	New Artist Thomanerchor Leipzig added to data base!
+	This album has been added to the data base:
+	  Artist: Thomanerchor Leipzig
+	  Album name: Thomanerchor Leipzig, 800 Jahre
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6139024-460x460/thomanerchor-leipzig-800-jahre.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-band-download-6460686.html, (12) 
+	New Artist 1-800-Band added to data base!
+	This album has been added to the data base:
+	  Artist: 1-800-Band
+	  Album name: 1-800-Band
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6460686-460x460/1-800-band.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-a-state-of-trance-800-download-8908858.html, (13) 
+	New Artist Estiva added to data base!
+	This album has been added to the data base:
+	  Artist: Estiva
+	  Album name: A State Of Trance 800
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/8908858-460x460/a-state-of-trance-800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-vindication-download-4846326.html, (14) 
+	New Artist Illdisposed added to data base!
+	This album has been added to the data base:
+	  Artist: Illdisposed
+	  Album name: 1-800 Vindication
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/4846326-460x460/1-800-vindication.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-weirdos-vol-1-everybody-s-a-weirdo-download-6065156.html, (15) 
+	New Artist Jeremy X. & You added to data base!
+	This album has been added to the data base:
+	  Artist: Jeremy X. & You
+	  Album name: 1-800-Weirdos, Vol. 1 - Everybody's A Weirdo
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6065156-460x460/1-800-weirdos-vol-1-everybody-s-a-weirdo.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-download-6479117.html, (16) 
+	New Artist 1-800 added to data base!
+	This album has been added to the data base:
+	  Artist: 1-800
+	  Album name: 1-800
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6479117-460x460/1-800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-live-at-800-east-download-4890189.html, (17) 
+	New Artist Jeremy Aggers And The Tamers added to data base!
+	This album has been added to the data base:
+	  Artist: Jeremy Aggers And The Tamers
+	  Album name: Live at 800 East
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4890189-460x460/live-at-800-east.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-very-best-of-sawyer-brown-download-5793430.html, (18) 
+	New Artist The Very Best of Sawyer Brown added to data base!
+	This album has been added to the data base:
+	  Artist: The Very Best of Sawyer Brown
+	  Album name: The Very Best of Sawyer Brown
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5793430-460x460/the-very-best-of-sawyer-brown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-million-download-6087724.html, (19) 
+	New Artist Giftshop added to data base!
+	This album has been added to the data base:
+	  Artist: Giftshop
+	  Album name: 800 Million
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6087724-460x460/800-million.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-suoni-dell-800-900-nel-2000-download-5591915.html, (20) 
+	New Artist Anna Merolla added to data base!
+	This album has been added to the data base:
+	  Artist: Anna Merolla
+	  Album name: I suoni dell' 800-900 nel 2000
+	  Year: 2000
+	  Cover: http://tut-audio.su/alb-mus/5591915-460x460/i-suoni-dell-800-900-nel-2000.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hammer-nail-download-5806850.html, (21) 
+	New Artist Paul Thorn added to data base!
+	This album has been added to the data base:
+	  Artist: Paul Thorn
+	  Album name: Hammer & Nail
+	  Year: 2000
+	  Cover: http://tut-audio.su/alb-mus/5806850-460x460/hammer-nail.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-lieder-vol-2-download-6547820.html, (22) 
+	New Artist Dietrich Fischer-Dieskau added to data base!
+	This album has been added to the data base:
+	  Artist: Dietrich Fischer-Dieskau
+	  Album name: Lieder, Vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6547820-460x460/lieder-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-va-para-ti-malverde-con-respeto-download-6066567.html, (23) 
+	New Artist Dueto Voces Del Malverde added to data base!
+	This album has been added to the data base:
+	  Artist: Dueto Voces Del Malverde
+	  Album name: Va Para Ti Malverde Con Respeto
+	  Year: 2000
+	  Cover: http://tut-audio.su/alb-mus/6066567-460x460/va-para-ti-malverde-con-respeto.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-club-traxx-download-6518053.html, (24) 
+	New Artist Elena Ultrasa added to data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: Great Club Traxx
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6518053-460x460/great-club-traxx.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-romantico-download-5732550.html, (25) 
+	New Artist 800 Cherries added to data base!
+	This album has been added to the data base:
+	  Artist: 800 Cherries
+	  Album name: Romantico
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/5732550-460x460/romantico.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-karaoke-hits-sawyer-brown-download-6035120.html, (26) 
+	New Artist Karaoke Hits Sawyer Brown added to data base!
+	This album has been added to the data base:
+	  Artist: Karaoke Hits Sawyer Brown
+	  Album name: Karaoke Hits Sawyer Brown
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6035120-460x460/karaoke-hits-sawyer-brown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-l-800-e-il-pianoforte-download-5865232.html, (27) 
+	New Artist Fausta Cianti added to data base!
+	This album has been added to the data base:
+	  Artist: Fausta Cianti
+	  Album name: L'800 e il pianoforte
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5865232-460x460/l-800-e-il-pianoforte.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-still-drama-geo-2-download-6351148.html, (28) 
+	New Artist Urg7 Presents : G-Avanni added to data base!
+	This album has been added to the data base:
+	  Artist: Urg7 Presents : G-Avanni
+	  Album name: Still Drama (Geo 2)
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/6351148-460x460/still-drama-geo-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-only-n-colorado-download-5195131.html, (29) 
+	New Artist 800 The Jewell added to data base!
+	This album has been added to the data base:
+	  Artist: 800 The Jewell
+	  Album name: Only N'Colorado
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5195131-460x460/only-n-colorado.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-five-download-6480891.html, (30) 
+	New Artist Third Wheel Neil added to data base!
+	This album has been added to the data base:
+	  Artist: Third Wheel Neil
+	  Album name: 1-800-FIVE
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6480891-460x460/1-800-five.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-the-70-s-vol-1-download-6546579.html, (31) 
+	New Artist Eriss Roberto added to data base!
+	This album has been added to the data base:
+	  Artist: Eriss Roberto
+	  Album name: I Want the 70's, Vol. 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6546579-460x460/i-want-the-70-s-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-return-download-5576054.html, (32) 
+	New Artist 800 Octane added to data base!
+	This album has been added to the data base:
+	  Artist: 800 Octane
+	  Album name: The Return
+	  Year: 2002
+	  Cover: http://tut-audio.su/alb-mus/5576054-460x460/the-return.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-agony-n-pain-download-6419196.html, (33) 
+	New Artist 1 800 Dis N Dat added to data base!
+	This album has been added to the data base:
+	  Artist: 1 800 Dis N Dat
+	  Album name: Agony N Pain
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6419196-460x460/agony-n-pain.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-dance-hits-from-the-jersey-shore-download-6578246.html, (34) 
+	New Artist Olivia Madelein added to data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Great Dance Hits from the Jersey Shore
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6578246-460x460/great-dance-hits-from-the-jersey-shore.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-golgotha-800-zoblazo-download-5434170.html, (35) 
+	New Artist Meiway added to data base!
+	This album has been added to the data base:
+	  Artist: Meiway
+	  Album name: Golgotha 800% Zoblazo
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5434170-460x460/golgotha-800-zoblazo.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-king-of-the-mountain-street-mix-download-6147245.html, (36) 
+	New Artist FOE added to data base!
+	This album has been added to the data base:
+	  Artist: FOE
+	  Album name: King of the Mountain: Street Mix
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/6147245-460x460/king-of-the-mountain-street-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-button-phone-download-6074283.html, (37) 
+	New Artist tama.st added to data base!
+	This album has been added to the data base:
+	  Artist: tama.st
+	  Album name: Button Phone
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/6074283-460x460/button-phone.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/1
+	Found: /mp3-album-rhythm-sessions-download-5405915.html, (38) 
+	New Artist Lee Ritenour added to data base!
+	This album has been added to the data base:
+	  Artist: Lee Ritenour
+	  Album name: Rhythm Sessions
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5405915-460x460/rhythm-sessions.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-vincenzo-download-5082336.html, (39) 
+	New Artist Vincenzo added to data base!
+	This album has been added to the data base:
+	  Artist: Vincenzo
+	  Album name: 1-800-Vincenzo
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/5082336-460x460/1-800-vincenzo.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-kick-shift-betty-download-5949730.html, (40) 
+	New Artist Kick Shift Betty added to data base!
+	This album has been added to the data base:
+	  Artist: Kick Shift Betty
+	  Album name: Kick Shift Betty
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5949730-460x460/kick-shift-betty.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-0800-celebrity-download-5140386.html, (41) 
+	New Artist Cult Of Celebrity added to data base!
+	This album has been added to the data base:
+	  Artist: Cult Of Celebrity
+	  Album name: 0800-Celebrity
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/5140386-460x460/0800-celebrity.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-eric-is-always-8up-download-6214338.html, (42) 
+	New Artist Eric May added to data base!
+	This album has been added to the data base:
+	  Artist: Eric May
+	  Album name: Eric Is Always 8up
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6214338-460x460/eric-is-always-8up.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-chicanoville-comedy-de-errors-download-6497906.html, (43) 
+	New Artist 800-Villynz added to data base!
+	This album has been added to the data base:
+	  Artist: 800-Villynz
+	  Album name: Chicanoville (Comedy De Errors)
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6497906-460x460/chicanoville-comedy-de-errors.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-classic-dance-tracks-download-6587350.html, (44) 
+	New Artist Samantha Perrie added to data base!
+	This album has been added to the data base:
+	  Artist: Samantha Perrie
+	  Album name: Classic Dance Tracks
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6587350-460x460/classic-dance-tracks.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rise-again-download-5594898.html, (45) 
+	Artist 800 Octane retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Octane
+	  Album name: Rise Again
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5594898-460x460/rise-again.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-a-great-90-s-throwback-download-6648627.html, (46) 
+	New Artist Yo Cappa added to data base!
+	This album has been added to the data base:
+	  Artist: Yo Cappa
+	  Album name: A Great 90's Throwback
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6648627-460x460/a-great-90-s-throwback.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-million-heartbeats-download-6370468.html, (47) 
+	New Artist NZTrio added to data base!
+	This album has been added to the data base:
+	  Artist: NZTrio
+	  Album name: 800 Million Heartbeats
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6370468-460x460/800-million-heartbeats.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-barack-o-karma-street-politics-download-6462017.html, (48) 
+	New Artist Karma added to data base!
+	This album has been added to the data base:
+	  Artist: Karma
+	  Album name: Barack O'Karma "Street Politics"
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6462017-460x460/barack-o-karma-street-politics.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-la-musica-russa-tra-800-e-900-download-5769940.html, (49) 
+	New Artist Paola Bruni added to data base!
+	This album has been added to the data base:
+	  Artist: Paola Bruni
+	  Album name: La musica Russa tra '800 e '900
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5769940-460x460/la-musica-russa-tra-800-e-900.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-edm-festival-traxx-download-6591999.html, (50) 
+	New Artist Aurina Melany added to data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Great EDM Festival Traxx
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6591999-460x460/great-edm-festival-traxx.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-party-mix-download-6620329.html, (51) 
+	New Artist Keith Orlando added to data base!
+	This album has been added to the data base:
+	  Artist: Keith Orlando
+	  Album name: The Party Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6620329-460x460/the-party-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-pound-jesus-download-6701471.html, (52) 
+	New Artist Mega Tracks Karaoke Band added to data base!
+	This album has been added to the data base:
+	  Artist: Mega Tracks Karaoke Band
+	  Album name: 800 Pound Jesus
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6701471-460x460/800-pound-jesus.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-from-roots-to-wings-download-5743536.html, (53) 
+	New Artist Receptor added to data base!
+	This album has been added to the data base:
+	  Artist: Receptor
+	  Album name: From Roots to Wings
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5743536-460x460/from-roots-to-wings.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ancient-tones-download-6220224.html, (54) 
+	New Artist 800 Mile Monday added to data base!
+	This album has been added to the data base:
+	  Artist: 800 Mile Monday
+	  Album name: Ancient Tones
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6220224-460x460/ancient-tones.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-jerky-boys-vol-3-download-4830222.html, (55) 
+	New Artist The Jerky Boys added to data base!
+	This album has been added to the data base:
+	  Artist: The Jerky Boys
+	  Album name: The Jerky Boys Vol.3
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/4830222-460x460/the-jerky-boys-vol-3.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-karaoke-channel-the-best-of-country-vol-151-download-5052903.html, (56) 
+	New Artist The Karaoke Channel - The Best Of Country Vol. - 151 added to data base!
+	This album has been added to the data base:
+	  Artist: The Karaoke Channel - The Best Of Country Vol. - 151
+	  Album name: The Karaoke Channel - The Best Of Country Vol. - 151
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5052903-460x460/the-karaoke-channel-the-best-of-country-vol-151.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rockin-mob-wives-download-6671820.html, (57) 
+	New Artist Musosis added to data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: Rockin' Mob Wives
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6671820-460x460/rockin-mob-wives.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-live-in-motown-download-5177366.html, (58) 
+	New Artist Hank Shizzoe & The Directors added to data base!
+	This album has been added to the data base:
+	  Artist: Hank Shizzoe & The Directors
+	  Album name: Live In Motown
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5177366-460x460/live-in-motown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-comin-back-to-new-orleans-download-6157986.html, (59) 
+	New Artist William "Doc" Belisle added to data base!
+	This album has been added to the data base:
+	  Artist: William "Doc" Belisle
+	  Album name: Comin back to New Orleans
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6157986-460x460/comin-back-to-new-orleans.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-real-nigga-4-life-download-7863321.html, (60) 
+	New Artist Kurt Diggler added to data base!
+	This album has been added to the data base:
+	  Artist: Kurt Diggler
+	  Album name: Real Nigga 4 Life
+	  Year: 2015
+	  Cover: http://tut-audio.su/alb-mus/7863321-460x460/real-nigga-4-life.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-pound-links-download-6846081.html, (61) 
+	New Artist Jef Agaev Plus 800 & Sergey Friedburg added to data base!
+	This album has been added to the data base:
+	  Artist: Jef Agaev Plus 800 & Sergey Friedburg
+	  Album name: Pound Links
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6846081-460x460/pound-links.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/2
+	Found: /mp3-album-da-gator-ghoul-download-6202366.html, (62) 
+	New Artist Julox added to data base!
+	This album has been added to the data base:
+	  Artist: Julox
+	  Album name: Da Gator Ghoul
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6202366-460x460/da-gator-ghoul.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-legend-of-sean-fury-so-let-it-be-written-download-6294659.html, (63) 
+	New Artist Sean Fury added to data base!
+	This album has been added to the data base:
+	  Artist: Sean Fury
+	  Album name: The Legend Of Sean Fury So Let It Be Written
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6294659-460x460/the-legend-of-sean-fury-so-let-it-be-written.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-inventions-partita-download-6546291.html, (64) 
+	New Artist Janine Jansen added to data base!
+	This album has been added to the data base:
+	  Artist: Janine Jansen
+	  Album name: Bach: Inventions & Partita
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6546291-460x460/bach-inventions-partita.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-kickin-90-s-music-download-6889250.html, (65) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: Kickin' 90's Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6889250-460x460/kickin-90-s-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-saga-love-800-jus-de-tendresse-download-6892255.html, (66) 
+	New Artist Frederick Caracas added to data base!
+	This album has been added to the data base:
+	  Artist: Frederick Caracas
+	  Album name: Saga Love - 800% Jus de tendresse
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6892255-460x460/saga-love-800-jus-de-tendresse.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-requiem-download-5580900.html, (67) 
+	Artist 800 Octane retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Octane
+	  Album name: Requiem
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5580900-460x460/requiem.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-chemical-sounds-download-6293524.html, (68) 
+	New Artist Ron Hawkins added to data base!
+	This album has been added to the data base:
+	  Artist: Ron Hawkins
+	  Album name: Chemical Sounds
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6293524-460x460/chemical-sounds.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bonaparte-download-6796616.html, (69) 
+	New Artist Bonaparte added to data base!
+	This album has been added to the data base:
+	  Artist: Bonaparte
+	  Album name: BONAPARTE
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6796616-460x460/bonaparte.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-estampida-de-trombones-download-5666422.html, (70) 
+	New Artist Viaje a 800 added to data base!
+	This album has been added to the data base:
+	  Artist: Viaje a 800
+	  Album name: Estampida de Trombones
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5666422-460x460/estampida-de-trombones.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-purcell-sonatas-of-three-parts-nos-7-12-download-6629314.html, (71) 
+	New Artist Neville Marriner added to data base!
+	This album has been added to the data base:
+	  Artist: Neville Marriner
+	  Album name: Purcell: Sonatas of Three Parts Nos. 7 - 12
+	  Year: 1958
+	  Cover: http://tut-audio.su/alb-mus/6629314-460x460/purcell-sonatas-of-three-parts-nos-7-12.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ebba-gron-1978-1982-download-5022537.html, (72) 
+	New Artist Ebba Grön added to data base!
+	This album has been added to the data base:
+	  Artist: Ebba Grön
+	  Album name: Ebba Grön 1978 - 1982
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5022537-460x460/ebba-gron-1978-1982.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-building-burning-bridges-download-6228103.html, (73) 
+	New Artist Marc English 800 added to data base!
+	This album has been added to the data base:
+	  Artist: Marc English 800
+	  Album name: Building Burning Bridges
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6228103-460x460/building-burning-bridges.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rumba-del-barrio-download-5505862.html, (74) 
+	New Artist Luisito Rosario added to data base!
+	This album has been added to the data base:
+	  Artist: Luisito Rosario
+	  Album name: Rumba Del Barrio
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5505862-460x460/rumba-del-barrio.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-15-inventions-bwv-772-786-prelude-fugue-in-a-minor-bwv-894-15-sinfonias-bwv-787-801-fugue-in-b-minor-bwv-951-download-5407302.html, (75) 
+	New Artist Daniel Fuchs added to data base!
+	This album has been added to the data base:
+	  Artist: Daniel Fuchs
+	  Album name: Bach: 15 Inventions, BWV 772-786 – Prelude & Fugue in A Minor, BWV 894 – 15 Sinfonias, BWV 787-801 – Fugue in B Minor, BWV 951
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5407302-460x460/bach-15-inventions-bwv-772-786-prelude-fugue-in-a-minor-bwv-894-15-sinfonias-bwv-787-801-fugue-in-b-minor-bwv-951.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-kelvis-download-5194953.html, (76) 
+	Artist 800 Octane retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Octane
+	  Album name: The Kelvis
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/5194953-460x460/the-kelvis.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-romanze-dell-800-download-5008247.html, (77) 
+	New Artist Claudio Villa added to data base!
+	This album has been added to the data base:
+	  Artist: Claudio Villa
+	  Album name: Romanze dell'800
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5008247-460x460/romanze-dell-800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-cardio-workout-music-download-6823610.html, (78) 
+	Artist Eriss Roberto retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Eriss Roberto
+	  Album name: Great Cardio Workout Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6823610-460x460/great-cardio-workout-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-90-s-dance-explosion-download-6952810.html, (79) 
+	New Artist Demeter Metis added to data base!
+	This album has been added to the data base:
+	  Artist: Demeter Metis
+	  Album name: 90's Dance Explosion
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6952810-460x460/90-s-dance-explosion.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-confess-download-6341224.html, (80) 
+	New Artist Mike Delaney added to data base!
+	This album has been added to the data base:
+	  Artist: Mike Delaney
+	  Album name: 1-800-CONFESS
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6341224-460x460/1-800-confess.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-everything-will-be-again-download-7127414.html, (81) 
+	New Artist Plus 800 added to data base!
+	This album has been added to the data base:
+	  Artist: Plus 800
+	  Album name: Everything Will Be Again
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7127414-460x460/everything-will-be-again.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-glorias-del-tango-francisco-canaro-vol-2-download-5155160.html, (82) 
+	New Artist Fransisco Canaro added to data base!
+	This album has been added to the data base:
+	  Artist: Fransisco Canaro
+	  Album name: Glorias Del Tango: Francisco Canaro Vol. 2
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/5155160-460x460/glorias-del-tango-francisco-canaro-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-get-fit-with-disco-music-download-6814682.html, (83) 
+	New Artist Zipity Zak added to data base!
+	This album has been added to the data base:
+	  Artist: Zipity Zak
+	  Album name: Get Fit with Disco Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6814682-460x460/get-fit-with-disco-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-cycling-workout-music-download-6823612.html, (84) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Great Cycling Workout Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6823612-460x460/great-cycling-workout-music.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/3
+	Found: /mp3-album-edm-mania-download-7153702.html, (85) 
+	New Artist Avaechme added to data base!
+	This album has been added to the data base:
+	  Artist: Avaechme
+	  Album name: EDM Mania
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7153702-460x460/edm-mania.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-paketes-download-6911411.html, (86) 
+	New Artist Los 4 Grandes Del Norte added to data base!
+	This album has been added to the data base:
+	  Artist: Los 4 Grandes Del Norte
+	  Album name: 800 Paketes
+	  Year: 1994
+	  Cover: http://tut-audio.su/alb-mus/6911411-460x460/800-paketes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-addicted-to-dance-download-7088265.html, (87) 
+	Artist Olivia Madelein retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Addicted to Dance
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7088265-460x460/addicted-to-dance.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-0800-download-5367545.html, (88) 
+	Artist 0800 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 0800
+	  Album name: 0800
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5367545-460x460/0800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-voices-download-5170704.html, (89) 
+	New Artist Danny Ellis added to data base!
+	This album has been added to the data base:
+	  Artist: Danny Ellis
+	  Album name: 800 Voices
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5170704-460x460/800-voices.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-candombe-for-export-vol-2-download-8493920.html, (90) 
+	New Artist Dogliotti added to data base!
+	This album has been added to the data base:
+	  Artist: Dogliotti
+	  Album name: Candombe For Export Vol.2
+	  Year: 2016
+	  Cover: http://tut-audio.su/alb-mus/8493920-460x460/candombe-for-export-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-teologia-download-6126828.html, (91) 
+	New Artist La Muneca de Sal added to data base!
+	This album has been added to the data base:
+	  Artist: La Muneca de Sal
+	  Album name: Teologia
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6126828-460x460/teologia.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-diablo-roto-de-download-5717825.html, (92) 
+	Artist Viaje a 800 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Viaje a 800
+	  Album name: Diablo Roto dË...
+	  Year: 2001
+	  Cover: http://tut-audio.su/alb-mus/5717825-460x460/diablo-roto-de.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hi-teknology-volume-2-download-5035694.html, (93) 
+	New Artist Hi-Tek added to data base!
+	This album has been added to the data base:
+	  Artist: Hi-Tek
+	  Album name: Hi-teknology - Volume 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5035694-460x460/hi-teknology-volume-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-kids-fitness-playlist-vol-1-download-6862977.html, (94) 
+	New Artist Jacqueline Vanderbilt added to data base!
+	This album has been added to the data base:
+	  Artist: Jacqueline Vanderbilt
+	  Album name: Kids Fitness Playlist, Vol. 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6862977-460x460/kids-fitness-playlist-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-full-moon-on-main-street-download-5699970.html, (95) 
+	New Artist Freddie & the Screamers added to data base!
+	This album has been added to the data base:
+	  Artist: Freddie & the Screamers
+	  Album name: Full Moon On Main Street
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5699970-460x460/full-moon-on-main-street.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-piano-performances-1925-1957-download-5031014.html, (96) 
+	New Artist Иоганн Себастьян Бах added to data base!
+	This album has been added to the data base:
+	  Artist: Иоганн Себастьян Бах
+	  Album name: Piano Performances 1925-1957
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5031014-460x460/piano-performances-1925-1957.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-90-s-music-fever-download-6704435.html, (97) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: 90's Music Fever
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6704435-460x460/90-s-music-fever.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-hot-download-6116751.html, (98) 
+	New Artist Johnny Rock Cee added to data base!
+	This album has been added to the data base:
+	  Artist: Johnny Rock Cee
+	  Album name: 1-800-HOT
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6116751-460x460/1-800-hot.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-techno-sunshine-v-a-02-download-5274098.html, (99) 
+	New Artist Dani Sbert added to data base!
+	This album has been added to the data base:
+	  Artist: Dani Sbert
+	  Album name: Techno Sunshine V.A 02
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5274098-460x460/techno-sunshine-v-a-02.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-first-one-free-download-6215783.html, (100) 
+	New Artist Mark Bilyeu added to data base!
+	This album has been added to the data base:
+	  Artist: Mark Bilyeu
+	  Album name: First One Free
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/6215783-460x460/first-one-free.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-diablo-roto-de-download-8507964.html, (101) 
+	Artist Viaje a 800 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Viaje a 800
+	  Album name: Diablo Roto Dë…
+	  Year: 2001
+	  Cover: http://tut-audio.su/alb-mus/8507964-460x460/diablo-roto-de.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+	Found: /mp3-album-great-workout-for-kids-download-6573692.html, (102) 
+	Artist Samantha Perrie retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Samantha Perrie
+	  Album name: Great Workout for Kids
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6573692-460x460/great-workout-for-kids.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-new-golden-era-download-5270605.html, (103) 
+	New Artist The B.A.M. added to data base!
+	This album has been added to the data base:
+	  Artist: The B.A.M.
+	  Album name: The New Golden Era
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5270605-460x460/the-new-golden-era.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-instrumental-country-the-best-of-the-boys-vol-3-download-5888384.html, (104) 
+	New Artist Hit Co. Masters added to data base!
+	This album has been added to the data base:
+	  Artist: Hit Co. Masters
+	  Album name: Instrumental Country: The Best of the Boys, Vol. 3
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5888384-460x460/instrumental-country-the-best-of-the-boys-vol-3.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-j-s-bach-piano-music-shortworks-download-6049159.html, (105) 
+	New Artist Ingrid Blatter added to data base!
+	This album has been added to the data base:
+	  Artist: Ingrid Blatter
+	  Album name: J. S. Bach - Piano Music Shortworks
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6049159-460x460/j-s-bach-piano-music-shortworks.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-era-3-download-6121407.html, (106) 
+	New Artist The Fezz added to data base!
+	This album has been added to the data base:
+	  Artist: The Fezz
+	  Album name: Era 3
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6121407-460x460/era-3.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-we-run-this-vol-9-download-6150820.html, (107) 
+	New Artist T.I. added to data base!
+	This album has been added to the data base:
+	  Artist: T.I.
+	  Album name: We Run This Vol. 9
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6150820-460x460/we-run-this-vol-9.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-hamptons-hit-mix-download-6807157.html, (108) 
+	New Artist 800 Projekt added to data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: The Hamptons Hit Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6807157-460x460/the-hamptons-hit-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-chumps-download-6076927.html, (109) 
+	New Artist Chumps added to data base!
+	This album has been added to the data base:
+	  Artist: Chumps
+	  Album name: Chumps
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6076927-460x460/chumps.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-lb-gorilla-download-6479100.html, (110) 
+	New Artist 800 Lb. Gorilla added to data base!
+	This album has been added to the data base:
+	  Artist: 800 Lb. Gorilla
+	  Album name: 800 Lb. Gorilla
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6479100-460x460/800-lb-gorilla.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-simply-me-download-6198968.html, (111) 
+	New Artist Big G added to data base!
+	This album has been added to the data base:
+	  Artist: Big G
+	  Album name: Simply Me
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6198968-460x460/simply-me.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-comin-back-to-new-orleans-too-download-6236519.html, (112) 
+	New Artist DOC added to data base!
+	This album has been added to the data base:
+	  Artist: DOC
+	  Album name: Comin Back to New Orleans Too
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6236519-460x460/comin-back-to-new-orleans-too.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-past-perfect-download-5991301.html, (113) 
+	New Artist National Carpet added to data base!
+	This album has been added to the data base:
+	  Artist: National Carpet
+	  Album name: Past Perfect
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5991301-460x460/past-perfect.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-saliva-download-5236378.html, (114) 
+	New Artist Saliva added to data base!
+	This album has been added to the data base:
+	  Artist: Saliva
+	  Album name: Saliva
+	  Year: 1997
+	  Cover: http://tut-audio.su/alb-mus/5236378-460x460/saliva.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-pierce-plays-bach-download-6459035.html, (115) 
+	New Artist Benjamin Pierce added to data base!
+	This album has been added to the data base:
+	  Artist: Benjamin Pierce
+	  Album name: Pierce Plays Bach
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6459035-460x460/pierce-plays-bach.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-an-800-original-trife-life-download-5507434.html, (116) 
+	New Artist Young G Money added to data base!
+	This album has been added to the data base:
+	  Artist: Young G Money
+	  Album name: An 800 Original, Trife Life
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5507434-460x460/an-800-original-trife-life.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-dansbandsnatt-download-4938561.html, (117) 
+	New Artist Torgny Melins added to data base!
+	This album has been added to the data base:
+	  Artist: Torgny Melins
+	  Album name: Dansbandsnatt
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4938561-460x460/dansbandsnatt.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bullets-for-the-faithful-download-6193122.html, (118) 
+	New Artist JACKVIPER added to data base!
+	This album has been added to the data base:
+	  Artist: JACKVIPER
+	  Album name: Bullets For the Faithful
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6193122-460x460/bullets-for-the-faithful.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/5
+	Found: /mp3-album-serie-de-oro-fransisco-canaro-download-5140175.html, (119) 
+	Artist Fransisco Canaro retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Fransisco Canaro
+	  Album name: Serie De Oro: Fransisco Canaro
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/5140175-460x460/serie-de-oro-fransisco-canaro.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-dance-club-music-download-6515144.html, (120) 
+	Artist Avaechme retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Avaechme
+	  Album name: Great Dance Club Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6515144-460x460/great-dance-club-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-club-bangers-download-7029171.html, (121) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: Great Club Bangers
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7029171-460x460/great-club-bangers.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-90-s-dance-music-download-6515150.html, (122) 
+	Artist Avaechme retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Avaechme
+	  Album name: Great 90's Dance Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6515150-460x460/great-90-s-dance-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-great-erotic-zombie-shakedown-download-6254418.html, (123) 
+	New Artist The Spectres added to data base!
+	This album has been added to the data base:
+	  Artist: The Spectres
+	  Album name: The Great Erotic Zombie Shakedown
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/6254418-460x460/the-great-erotic-zombie-shakedown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-las-revistas-musicales-vol-1-download-8304570.html, (124) 
+	New Artist Celia Gamez added to data base!
+	This album has been added to the data base:
+	  Artist: Celia Gamez
+	  Album name: Las Revistas Musicales Vol. 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/8304570-460x460/las-revistas-musicales-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-j-s-bach-2-part-inventions-3-part-sinfonias-italian-concerto-2-toccatas-download-6057601.html, (125) 
+	New Artist Anthony Newman added to data base!
+	This album has been added to the data base:
+	  Artist: Anthony Newman
+	  Album name: J.S. Bach: 2-Part Inventions, 3-Part Sinfonias, Italian Concerto, 2 Toccatas
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6057601-460x460/j-s-bach-2-part-inventions-3-part-sinfonias-italian-concerto-2-toccatas.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-homongously-yours-download-5210123.html, (126) 
+	New Artist Cutting Edge added to data base!
+	This album has been added to the data base:
+	  Artist: Cutting Edge
+	  Album name: Homongously Yours
+	  Year: 2001
+	  Cover: http://tut-audio.su/alb-mus/5210123-460x460/homongously-yours.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-redtail-volume-2-download-5694435.html, (127) 
+	New Artist Johnson Meninick Jr. added to data base!
+	This album has been added to the data base:
+	  Artist: Johnson Meninick Jr.
+	  Album name: Redtail Volume 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5694435-460x460/redtail-volume-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-my-past-is-your-future-download-4997814.html, (128) 
+	New Artist JR Writer added to data base!
+	This album has been added to the data base:
+	  Artist: JR Writer
+	  Album name: My Past Is Your Future
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/4997814-460x460/my-past-is-your-future.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-album-reformasi-download-7247327.html, (129) 
+	New Artist Doel Sumbang added to data base!
+	This album has been added to the data base:
+	  Artist: Doel Sumbang
+	  Album name: Album Reformasi
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/7247327-460x460/album-reformasi.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-2014-sports-anthems-the-dance-songs-download-6905905.html, (130) 
+	New Artist Mega 24 added to data base!
+	This album has been added to the data base:
+	  Artist: Mega 24
+	  Album name: 2014 Sports Anthems: The Dance Songs
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6905905-460x460/2014-sports-anthems-the-dance-songs.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-jersey-shore-hit-mix-download-6700804.html, (131) 
+	New Artist EDMonster added to data base!
+	This album has been added to the data base:
+	  Artist: EDMonster
+	  Album name: The Jersey Shore Hit Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6700804-460x460/the-jersey-shore-hit-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-disco-download-6536698.html, (132) 
+	Artist Zipity Zak retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Zipity Zak
+	  Album name: I Want Disco
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6536698-460x460/i-want-disco.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/6
+	Found: /mp3-album-y-siguen-siendo-grandes-solo-corridos-download-6965874.html, (133) 
+	Artist Los 4 Grandes Del Norte retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Los 4 Grandes Del Norte
+	  Album name: Y Siguen Siendo Grandes (Solo Corridos)
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/6965874-460x460/y-siguen-siendo-grandes-solo-corridos.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-masterpieces-of-the-baroque-download-8365545.html, (134) 
+	New Artist Louis de Froment added to data base!
+	This album has been added to the data base:
+	  Artist: Louis de Froment
+	  Album name: Masterpieces of the Baroque
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/8365545-460x460/masterpieces-of-the-baroque.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-live-in-japan-the-soundtrack-download-5612677.html, (135) 
+	New Artist Spanky Loco added to data base!
+	This album has been added to the data base:
+	  Artist: Spanky Loco
+	  Album name: Live In Japan - the Soundtrack
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5612677-460x460/live-in-japan-the-soundtrack.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-punany-download-6618032.html, (136) 
+	Artist 1 800 Dis N Dat retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 1 800 Dis N Dat
+	  Album name: Punany
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6618032-460x460/punany.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-my-lovely-legend-download-7074748.html, (137) 
+	New Artist Ruth Chen added to data base!
+	This album has been added to the data base:
+	  Artist: Ruth Chen
+	  Album name: My Lovely Legend
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7074748-460x460/my-lovely-legend.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-karaoke-hits-sawyer-brown-download-6885991.html, (138) 
+	New Artist Nice Vibe added to data base!
+	This album has been added to the data base:
+	  Artist: Nice Vibe
+	  Album name: Karaoke Hits - Sawyer Brown
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6885991-460x460/karaoke-hits-sawyer-brown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-doin-da-thang-download-6675252.html, (139) 
+	New Artist Big Snake added to data base!
+	This album has been added to the data base:
+	  Artist: Big Snake
+	  Album name: Doin "Da" Thang
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/6675252-460x460/doin-da-thang.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-abominable-showman-download-6496923.html, (140) 
+	New Artist Dizasterpiece added to data base!
+	This album has been added to the data base:
+	  Artist: Dizasterpiece
+	  Album name: The Abominable Showman
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6496923-460x460/the-abominable-showman.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-sentimental-journey-one-download-5211805.html, (141) 
+	New Artist Rodney Allen Mead added to data base!
+	This album has been added to the data base:
+	  Artist: Rodney Allen Mead
+	  Album name: Sentimental Journey One
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/5211805-460x460/sentimental-journey-one.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-miami-hit-mix-download-6807158.html, (142) 
+	Artist 800 Projekt retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: The Miami Hit Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6807158-460x460/the-miami-hit-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-swing-line-download-5203585.html, (143) 
+	New Artist J-Swing added to data base!
+	This album has been added to the data base:
+	  Artist: J-Swing
+	  Album name: 800-Swing-Line
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/5203585-460x460/800-swing-line.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-audio-line-up-test-tones-calibration-reference-check-download-6785929.html, (144) 
+	New Artist Audio Check added to data base!
+	This album has been added to the data base:
+	  Artist: Audio Check
+	  Album name: Audio Line-Up Test Tones (Calibration Reference Check)
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6785929-460x460/audio-line-up-test-tones-calibration-reference-check.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-orgasm-download-6605013.html, (145) 
+	Artist 1 800 Dis N Dat retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 1 800 Dis N Dat
+	  Album name: Orgasm
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6605013-460x460/orgasm.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-spring-break-party-hits-download-6700809.html, (146) 
+	Artist Mega 24 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Mega 24
+	  Album name: Great Spring Break Party Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6700809-460x460/great-spring-break-party-hits.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/7
+	Found: /mp3-album-800-pound-gorilla-download-9213691.html, (147) 
+	New Artist Kyle Robert Spear added to data base!
+	This album has been added to the data base:
+	  Artist: Kyle Robert Spear
+	  Album name: 800 Pound Gorilla
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9213691-460x460/800-pound-gorilla.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-lake-june-in-winter-download-6316666.html, (148) 
+	New Artist Lisa Firestone added to data base!
+	This album has been added to the data base:
+	  Artist: Lisa Firestone
+	  Album name: Lake June in Winter
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6316666-460x460/lake-june-in-winter.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-inventions-sinfonias-download-6220601.html, (149) 
+	New Artist Cécile Bogaerts added to data base!
+	This album has been added to the data base:
+	  Artist: Cécile Bogaerts
+	  Album name: Inventions & Sinfonias
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6220601-460x460/inventions-sinfonias.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-tatiana-nikolaeva-j-s-bach-invenrions-and-sinfonias-download-4953720.html, (150) 
+	New Artist Tatiana Nikolaeva added to data base!
+	This album has been added to the data base:
+	  Artist: Tatiana Nikolaeva
+	  Album name: Tatiana Nikolaeva. J.S.Bach. Invenrions and Sinfonias
+	  Year: 2001
+	  Cover: http://tut-audio.su/alb-mus/4953720-460x460/tatiana-nikolaeva-j-s-bach-invenrions-and-sinfonias.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-baila-latino-vol-2-download-6689641.html, (151) 
+	New Artist Havana Mambo added to data base!
+	This album has been added to the data base:
+	  Artist: Havana Mambo
+	  Album name: Baila Latino vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6689641-460x460/baila-latino-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-crossing-the-blvd-strangers-neighbors-aliens-in-a-new-america-download-6124080.html, (152) 
+	New Artist Scott Johnson added to data base!
+	This album has been added to the data base:
+	  Artist: Scott Johnson
+	  Album name: Crossing the Blvd: Strangers, Neighbors, Aliens In A New America
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6124080-460x460/crossing-the-blvd-strangers-neighbors-aliens-in-a-new-america.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-inventions-sinfonias-bwv-772-801-download-5737269.html, (153) 
+	New Artist Peter Watchorn added to data base!
+	This album has been added to the data base:
+	  Artist: Peter Watchorn
+	  Album name: Inventions & Sinfonias BWV 772-801
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5737269-460x460/inventions-sinfonias-bwv-772-801.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-from-the-beginning-download-6242190.html, (154) 
+	New Artist Aubrey Hobson added to data base!
+	This album has been added to the data base:
+	  Artist: Aubrey Hobson
+	  Album name: From the Beginning
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6242190-460x460/from-the-beginning.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-living-in-harmony-download-6497500.html, (155) 
+	New Artist Clean Guns added to data base!
+	This album has been added to the data base:
+	  Artist: Clean Guns
+	  Album name: Living In Harmony
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6497500-460x460/living-in-harmony.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/8
+	Found: /mp3-album-rugged-raw-lp-download-6485577.html, (156) 
+	New Artist Rugged and Raw added to data base!
+	This album has been added to the data base:
+	  Artist: Rugged and Raw
+	  Album name: Rugged & Raw LP
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6485577-460x460/rugged-raw-lp.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-summertime-party-hits-download-6807155.html, (157) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: Summertime Party Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6807155-460x460/summertime-party-hits.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-dance-music-90-s-style-download-6577760.html, (158) 
+	Artist Olivia Madelein retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Dance Music 90's Style
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6577760-460x460/dance-music-90-s-style.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ruta-800-download-7021545.html, (159) 
+	New Artist Molo added to data base!
+	This album has been added to the data base:
+	  Artist: Molo
+	  Album name: Ruta 800
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/7021545-460x460/ruta-800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-il-verso-dell-uomo-download-5977689.html, (160) 
+	New Artist SlideA added to data base!
+	This album has been added to the data base:
+	  Artist: SlideA
+	  Album name: Il verso dell'uomo
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5977689-460x460/il-verso-dell-uomo.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-blossoms-blood-download-5916040.html, (161) 
+	New Artist Deadly Avenger added to data base!
+	This album has been added to the data base:
+	  Artist: Deadly Avenger
+	  Album name: Blossoms & Blood
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5916040-460x460/blossoms-blood.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-proudly-south-african-psa-download-9525803.html, (162) 
+	New Artist Aewon Wolf added to data base!
+	This album has been added to the data base:
+	  Artist: Aewon Wolf
+	  Album name: Proudly South African (Psa)
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9525803-460x460/proudly-south-african-psa.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-8-00-download-5495932.html, (163) 
+	New Artist Mono & Log added to data base!
+	This album has been added to the data base:
+	  Artist: Mono & Log
+	  Album name: 8-00
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5495932-460x460/8-00.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-super-dance-anthems-download-7146372.html, (164) 
+	Artist Olivia Madelein retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Super Dance Anthems
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7146372-460x460/super-dance-anthems.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/9
+	Found: /mp3-album-skreamizm-vol-2-download-6792220.html, (165) 
+	New Artist Skream added to data base!
+	This album has been added to the data base:
+	  Artist: Skream
+	  Album name: Skreamizm, Vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6792220-460x460/skreamizm-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-masterworks-download-6516561.html, (166) 
+	New Artist Trevor Pinnock added to data base!
+	This album has been added to the data base:
+	  Artist: Trevor Pinnock
+	  Album name: Bach Masterworks
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6516561-460x460/bach-masterworks.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-dance-vol-1-download-6539162.html, (167) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: I Want Dance, Vol. 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6539162-460x460/i-want-dance-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-punk-off-volume-one-download-5610719.html, (168) 
+	New Artist 7-10 Split added to data base!
+	This album has been added to the data base:
+	  Artist: 7-10 Split
+	  Album name: Punk Off! - Volume One
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5610719-460x460/punk-off-volume-one.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-neon-lights-carve-shadows-download-5109172.html, (169) 
+	New Artist Kju added to data base!
+	This album has been added to the data base:
+	  Artist: Kju
+	  Album name: Neon Lights Carve Shadows
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5109172-460x460/neon-lights-carve-shadows.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-pure-country-vol-15-download-5592443.html, (170) 
+	New Artist Pure Country, Vol. 15 added to data base!
+	This album has been added to the data base:
+	  Artist: Pure Country, Vol. 15
+	  Album name: Pure Country, Vol. 15
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5592443-460x460/pure-country-vol-15.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-lost-koast-kollective-download-5207341.html, (171) 
+	New Artist Potluck added to data base!
+	This album has been added to the data base:
+	  Artist: Potluck
+	  Album name: The Lost Koast Kollective
+	  Year: 2002
+	  Cover: http://tut-audio.su/alb-mus/5207341-460x460/the-lost-koast-kollective.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-singles-first-download-6043628.html, (172) 
+	Artist DOC retrieved from data base!
+	This album has been added to the data base:
+	  Artist: DOC
+	  Album name: Singles First
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6043628-460x460/singles-first.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-b-s-o-premios-goya-download-6938211.html, (173) 
+	New Artist Abigail added to data base!
+	This album has been added to the data base:
+	  Artist: Abigail
+	  Album name: B.S.O Premios Goya
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6938211-460x460/b-s-o-premios-goya.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-sound-that-rocks-your-stash-download-6330463.html, (174) 
+	New Artist Mama Brew added to data base!
+	This album has been added to the data base:
+	  Artist: Mama Brew
+	  Album name: The Sound That Rocks Your Stash
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/6330463-460x460/the-sound-that-rocks-your-stash.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-katsnelson-plays-bach-download-5729737.html, (175) 
+	New Artist Jacob Katsnelson added to data base!
+	This album has been added to the data base:
+	  Artist: Jacob Katsnelson
+	  Album name: Bach: Katsnelson Plays Bach
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5729737-460x460/bach-katsnelson-plays-bach.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1990-sick-download-5235520.html, (176) 
+	New Artist SPICE 1 added to data base!
+	This album has been added to the data base:
+	  Artist: SPICE 1
+	  Album name: 1990 - Sick
+	  Year: 1995
+	  Cover: http://tut-audio.su/alb-mus/5235520-460x460/1990-sick.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-handjob-community-download-5654140.html, (177) 
+	New Artist Love of Everything added to data base!
+	This album has been added to the data base:
+	  Artist: Love of Everything
+	  Album name: Handjob Community
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5654140-460x460/handjob-community.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/10
+	Found: /mp3-album-j-s-bach-inventions-preludes-symphonies-download-6060556.html, (178) 
+	New Artist Ivo Janssen added to data base!
+	This album has been added to the data base:
+	  Artist: Ivo Janssen
+	  Album name: J.S. Bach Inventions Preludes Symphonies
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/6060556-460x460/j-s-bach-inventions-preludes-symphonies.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-get-fit-with-party-music-download-6814841.html, (179) 
+	New Artist Christopher Crius added to data base!
+	This album has been added to the data base:
+	  Artist: Christopher Crius
+	  Album name: Get Fit with Party Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6814841-460x460/get-fit-with-party-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-balearic-clubbing-season-warm-up-2014-download-6842437.html, (180) 
+	New Artist Mennie & Diavlo added to data base!
+	This album has been added to the data base:
+	  Artist: Mennie & Diavlo
+	  Album name: Balearic Clubbing - Season Warm Up 2014
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6842437-460x460/balearic-clubbing-season-warm-up-2014.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-radio-hits-the-1990-s-download-6515157.html, (181) 
+	Artist Demeter Metis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Demeter Metis
+	  Album name: Great Radio Hits: The 1990's
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6515157-460x460/great-radio-hits-the-1990-s.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-22c-download-7291670.html, (182) 
+	New Artist D.watt added to data base!
+	This album has been added to the data base:
+	  Artist: D.watt
+	  Album name: 22c
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/7291670-460x460/22c.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-8oo-mg-ep-download-6845153.html, (183) 
+	New Artist Audio Habitat added to data base!
+	This album has been added to the data base:
+	  Artist: Audio Habitat
+	  Album name: 8OO Mg EP
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6845153-460x460/8oo-mg-ep.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-some-assembly-required-download-6854313.html, (184) 
+	New Artist Norman Lankford added to data base!
+	This album has been added to the data base:
+	  Artist: Norman Lankford
+	  Album name: Some Assembly Required
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6854313-460x460/some-assembly-required.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-musicians-great-music-wanda-landowska-performs-bach-and-fischer-download-5837134.html, (185) 
+	New Artist Wanda Landowska added to data base!
+	This album has been added to the data base:
+	  Artist: Wanda Landowska
+	  Album name: Great Musicians, Great Music: Wanda Landowska Performs Bach and Fischer
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5837134-460x460/great-musicians-great-music-wanda-landowska-performs-bach-and-fischer.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-party-party-party-kids-mega-party-mix-download-7084804.html, (186) 
+	Artist Olivia Madelein retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Party! Party! Party! Kids Mega Party Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7084804-460x460/party-party-party-kids-mega-party-mix.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-dance-vol-2-download-6547621.html, (187) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: I Want Dance, Vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6547621-460x460/i-want-dance-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-king-kong-download-6102186.html, (188) 
+	New Artist Haven added to data base!
+	This album has been added to the data base:
+	  Artist: Haven
+	  Album name: King Kong
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6102186-460x460/king-kong.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-pony-related-extended-download-6201995.html, (189) 
+	New Artist Chain Algorithm added to data base!
+	This album has been added to the data base:
+	  Artist: Chain Algorithm
+	  Album name: Pony Related (Extended)
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6201995-460x460/pony-related-extended.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/11
+	Found: /mp3-album-live-at-the-zmf-download-6518740.html, (190) 
+	New Artist Fast Beat Inc. added to data base!
+	This album has been added to the data base:
+	  Artist: Fast Beat Inc.
+	  Album name: Live At the Zmf
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6518740-460x460/live-at-the-zmf.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-15-sinfonias-bwv-787-801-download-6532974.html, (191) 
+	New Artist Lukas Foss added to data base!
+	This album has been added to the data base:
+	  Artist: Lukas Foss
+	  Album name: Bach: 15 Sinfonias, BWV 787-801
+	  Year: 1956
+	  Cover: http://tut-audio.su/alb-mus/6532974-460x460/bach-15-sinfonias-bwv-787-801.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-conac-oxigenado-download-5669764.html, (192) 
+	Artist Viaje a 800 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Viaje a 800
+	  Album name: Coñac Oxigenado
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5669764-460x460/conac-oxigenado.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-legacy-brothers-download-6345407.html, (193) 
+	New Artist The Legacy Brothers added to data base!
+	This album has been added to the data base:
+	  Artist: The Legacy Brothers
+	  Album name: The Legacy Brothers
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6345407-460x460/the-legacy-brothers.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-best-for-country-musicians-vol-27-download-5422000.html, (194) 
+	New Artist The Best for Country Musicians, Vol. 27 added to data base!
+	This album has been added to the data base:
+	  Artist: The Best for Country Musicians, Vol. 27
+	  Album name: The Best for Country Musicians, Vol. 27
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5422000-460x460/the-best-for-country-musicians-vol-27.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-273-8255-download-9272877.html, (195) 
+	New Artist Karaoke Station added to data base!
+	This album has been added to the data base:
+	  Artist: Karaoke Station
+	  Album name: 1-800-273-8255
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9272877-460x460/1-800-273-8255.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-narco-bachata-download-5560722.html, (196) 
+	New Artist Filiberto Benavidez added to data base!
+	This album has been added to the data base:
+	  Artist: Filiberto Benavidez
+	  Album name: Narco Bachata
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5560722-460x460/narco-bachata.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-j-s-bach-invenzioni-sinfonie-e-sei-piccoli-preludi-download-6342851.html, (197) 
+	New Artist Cipriana Smarandescu added to data base!
+	This album has been added to the data base:
+	  Artist: Cipriana Smarandescu
+	  Album name: J.S. Bach - Invenzioni, sinfonie e sei piccoli preludi
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6342851-460x460/j-s-bach-invenzioni-sinfonie-e-sei-piccoli-preludi.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-destabilize-the-established-syntax-download-5153925.html, (198) 
+	New Artist The Jan-Michael Vincent Car Crash added to data base!
+	This album has been added to the data base:
+	  Artist: The Jan-Michael Vincent Car Crash
+	  Album name: Destabilize the Established Syntax
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5153925-460x460/destabilize-the-established-syntax.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-fitness-latin-workout-music-download-6573711.html, (199) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Great Fitness: Latin Workout Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6573711-460x460/great-fitness-latin-workout-music.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/12
+	Found: /mp3-album-y-siguen-siendo-grandes-solo-corridos-download-8576764.html, (200) 
+	Artist Los 4 Grandes Del Norte retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Los 4 Grandes Del Norte
+	  Album name: Y Siguen Siendo Grandes (Solo Corridos)
+	  Year: 2016
+	  Cover: http://tut-audio.su/alb-mus/8576764-460x460/y-siguen-siendo-grandes-solo-corridos.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ultra-great-edm-tracks-download-6591996.html, (201) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: Ultra Great EDM Tracks
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6591996-460x460/ultra-great-edm-tracks.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-best-of-armin-only-download-9208044.html, (202) 
+	New Artist Hilight Tribe added to data base!
+	This album has been added to the data base:
+	  Artist: Hilight Tribe
+	  Album name: The Best Of Armin Only
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9208044-460x460/the-best-of-armin-only.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-get-fit-with-electronic-music-download-6814683.html, (203) 
+	Artist Zipity Zak retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Zipity Zak
+	  Album name: Get Fit with Electronic Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6814683-460x460/get-fit-with-electronic-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-every-dog-download-6246932.html, (204) 
+	New Artist Fran Swinn Trio added to data base!
+	This album has been added to the data base:
+	  Artist: Fran Swinn Trio
+	  Album name: Every Dog
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/6246932-460x460/every-dog.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-m-not-made-of-stone-download-6198929.html, (205) 
+	New Artist Dave Duncan added to data base!
+	This album has been added to the data base:
+	  Artist: Dave Duncan
+	  Album name: I'm Not Made of Stone
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6198929-460x460/i-m-not-made-of-stone.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-cups-saucers-dinner-at-8-00-download-5964740.html, (206) 
+	New Artist Verse added to data base!
+	This album has been added to the data base:
+	  Artist: Verse
+	  Album name: Cups & Saucers (Dinner at 8:00)
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5964740-460x460/cups-saucers-dinner-at-8-00.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-800-download-4966980.html, (207) 
+	New Artist Mercan Dede added to data base!
+	This album has been added to the data base:
+	  Artist: Mercan Dede
+	  Album name: 800
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/4966980-460x460/800.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-girl-talk-download-5643175.html, (208) 
+	New Artist La' Keisha added to data base!
+	This album has been added to the data base:
+	  Artist: La' Keisha
+	  Album name: Girl Talk
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5643175-460x460/girl-talk.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/13
+	Found: /mp3-album-the-great-90-s-download-6586646.html, (209) 
+	New Artist Gold-E-Lox added to data base!
+	This album has been added to the data base:
+	  Artist: Gold-E-Lox
+	  Album name: The Great 90's
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6586646-460x460/the-great-90-s.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-with-pluck-vol-ii-download-5690148.html, (210) 
+	New Artist Elaine Comparone & Dusan Bogdanovic added to data base!
+	This album has been added to the data base:
+	  Artist: Elaine Comparone & Dusan Bogdanovic
+	  Album name: Bach With Pluck, Vol. II
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5690148-460x460/bach-with-pluck-vol-ii.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-static-waves-download-5451520.html, (211) 
+	New Artist The Spiracles added to data base!
+	This album has been added to the data base:
+	  Artist: The Spiracles
+	  Album name: Static Waves
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5451520-460x460/static-waves.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-como-veneno-download-6852789.html, (212) 
+	New Artist Los del Tere added to data base!
+	This album has been added to the data base:
+	  Artist: Los del Tere
+	  Album name: Como Veneno
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6852789-460x460/como-veneno.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-30-exitos-historia-musical-download-6952300.html, (213) 
+	Artist Los 4 Grandes Del Norte retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Los 4 Grandes Del Norte
+	  Album name: 30 Exitos "Historia Musical"
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6952300-460x460/30-exitos-historia-musical.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-8-download-6403103.html, (214) 
+	New Artist Chau Pak Ho added to data base!
+	This album has been added to the data base:
+	  Artist: Chau Pak Ho
+	  Album name: 8
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6403103-460x460/8.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-international-rock-stars-tour-de-force-download-6217802.html, (215) 
+	New Artist The Punk Group added to data base!
+	This album has been added to the data base:
+	  Artist: The Punk Group
+	  Album name: International Rock Stars/Tour de Force
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/6217802-460x460/international-rock-stars-tour-de-force.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/14
+	Found: /mp3-album-back-in-the-day-dance-party-download-7084803.html, (216) 
+	Artist Elena Ultrasa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Elena Ultrasa
+	  Album name: Back in the Day Dance Party
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7084803-460x460/back-in-the-day-dance-party.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-inventions-sinfonias-download-4931944.html, (217) 
+	New Artist Gustav Leonhardt added to data base!
+	This album has been added to the data base:
+	  Artist: Gustav Leonhardt
+	  Album name: Bach : Inventions & Sinfonias
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/4931944-460x460/bach-inventions-sinfonias.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-son-of-a-lad-from-spain-download-4852975.html, (218) 
+	New Artist El Vez added to data base!
+	This album has been added to the data base:
+	  Artist: El Vez
+	  Album name: Son Of A Lad From Spain?
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/4852975-460x460/son-of-a-lad-from-spain.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-15-exitos-de-pura-candela-download-5613309.html, (219) 
+	New Artist Zona Roja added to data base!
+	This album has been added to the data base:
+	  Artist: Zona Roja
+	  Album name: 15 Exitos De Pura Candela
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5613309-460x460/15-exitos-de-pura-candela.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-viki-hair-police-split-ep-download-5646601.html, (220) 
+	New Artist Viki added to data base!
+	This album has been added to the data base:
+	  Artist: Viki
+	  Album name: Viki, Hair Police Split: EP
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5646601-460x460/viki-hair-police-split-ep.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-langram-road-download-6364601.html, (221) 
+	New Artist Pat Dailey added to data base!
+	This album has been added to the data base:
+	  Artist: Pat Dailey
+	  Album name: Langram Road
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6364601-460x460/langram-road.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/15
+	Found: /mp3-album-have-mic-will-travel-download-6301499.html, (222) 
+	New Artist Levi Stress added to data base!
+	This album has been added to the data base:
+	  Artist: Levi Stress
+	  Album name: Have Mic, Will Travel
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6301499-460x460/have-mic-will-travel.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-latin-dance-music-download-6862975.html, (223) 
+	Artist Eriss Roberto retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Eriss Roberto
+	  Album name: Great Latin Dance Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6862975-460x460/great-latin-dance-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-a-state-of-trance-top-20-march-2017-download-9000066.html, (224) 
+	New Artist Andy Moor added to data base!
+	This album has been added to the data base:
+	  Artist: Andy Moor
+	  Album name: A State Of Trance Top 20 - March 2017
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9000066-460x460/a-state-of-trance-top-20-march-2017.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-crabe-download-5829459.html, (225) 
+	New Artist Palaniuk Opera added to data base!
+	This album has been added to the data base:
+	  Artist: Palaniuk Opera
+	  Album name: Crabe
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5829459-460x460/crabe.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-coleccion-aniversario-download-5014548.html, (226) 
+	New Artist Francisco Canaro Y Su Orquesta Tipica added to data base!
+	This album has been added to the data base:
+	  Artist: Francisco Canaro Y Su Orquesta Tipica
+	  Album name: Coleccion Aniversario
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/5014548-460x460/coleccion-aniversario.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-changes-download-5034133.html, (227) 
+	New Artist Derrick Hoh added to data base!
+	This album has been added to the data base:
+	  Artist: Derrick Hoh
+	  Album name: Changes
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5034133-460x460/changes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-abstract-avenue-download-7065794.html, (228) 
+	New Artist Cryptik added to data base!
+	This album has been added to the data base:
+	  Artist: Cryptik
+	  Album name: Abstract Avenue
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/7065794-460x460/abstract-avenue.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-memory-like-mine-download-5211960.html, (229) 
+	New Artist Pistol River added to data base!
+	This album has been added to the data base:
+	  Artist: Pistol River
+	  Album name: Memory Like Mine
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/5211960-460x460/memory-like-mine.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hitpool-karaoke-hits-country-vol-3-download-6575238.html, (230) 
+	New Artist Herman Brothers added to data base!
+	This album has been added to the data base:
+	  Artist: Herman Brothers
+	  Album name: Hitpool Karaoke Hits: Country, Vol. 3
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6575238-460x460/hitpool-karaoke-hits-country-vol-3.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/16
+	Found: /mp3-album-woman-cars-fire-arms-download-5624013.html, (231) 
+	New Artist Doja Click added to data base!
+	This album has been added to the data base:
+	  Artist: Doja Click
+	  Album name: Woman, Cars & Fire Arms
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5624013-460x460/woman-cars-fire-arms.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-birth-download-5004650.html, (232) 
+	New Artist Young Deenay added to data base!
+	This album has been added to the data base:
+	  Artist: Young Deenay
+	  Album name: Birth
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/5004650-460x460/birth.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-and-apples-for-dessert-download-6488186.html, (233) 
+	New Artist Ryan M Barnes added to data base!
+	This album has been added to the data base:
+	  Artist: Ryan M Barnes
+	  Album name: And Apples for Dessert
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6488186-460x460/and-apples-for-dessert.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-only-got-eyes-4-u-download-5808392.html, (234) 
+	New Artist Ricko Baird added to data base!
+	This album has been added to the data base:
+	  Artist: Ricko Baird
+	  Album name: Only Got Eyes 4 U
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5808392-460x460/only-got-eyes-4-u.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-concepts-download-5510805.html, (235) 
+	New Artist Malice added to data base!
+	This album has been added to the data base:
+	  Artist: Malice
+	  Album name: Concepts
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5510805-460x460/concepts.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-truth-against-the-world-download-6028146.html, (236) 
+	New Artist Angela Luna added to data base!
+	This album has been added to the data base:
+	  Artist: Angela Luna
+	  Album name: The Truth Against The World
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6028146-460x460/the-truth-against-the-world.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ultimate-kids-tv-movie-themes-download-6953495.html, (237) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: Ultimate Kids TV & Movie Themes
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6953495-460x460/ultimate-kids-tv-movie-themes.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rush-hour-download-6681454.html, (238) 
+	New Artist Luca Viani added to data base!
+	This album has been added to the data base:
+	  Artist: Luca Viani
+	  Album name: Rush Hour
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6681454-460x460/rush-hour.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-easy-bay-house-disco-boogie-other-oddities-download-8589565.html, (239) 
+	New Artist Buscrates 16-Bit Ensemble added to data base!
+	This album has been added to the data base:
+	  Artist: Buscrates 16-Bit Ensemble
+	  Album name: Easy Bay: House, Disco, Boogie, & Other Oddities
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/8589565-460x460/easy-bay-house-disco-boogie-other-oddities.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-adrenaline-download-6972089.html, (240) 
+	New Artist Dan Morrissey added to data base!
+	This album has been added to the data base:
+	  Artist: Dan Morrissey
+	  Album name: Adrenaline
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6972089-460x460/adrenaline.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/17
+	Found: /mp3-album-heading-west-download-6071330.html, (241) 
+	New Artist Pitchfork Motorway added to data base!
+	This album has been added to the data base:
+	  Artist: Pitchfork Motorway
+	  Album name: Heading West
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6071330-460x460/heading-west.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-insomnia-download-5052547.html, (242) 
+	New Artist Superterz added to data base!
+	This album has been added to the data base:
+	  Artist: Superterz
+	  Album name: Insomnia
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5052547-460x460/insomnia.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-sing-the-hits-of-sawyer-brown-download-5785432.html, (243) 
+	New Artist All Star Tribute Band added to data base!
+	This album has been added to the data base:
+	  Artist: All Star Tribute Band
+	  Album name: Sing the Hits of Sawyer Brown
+	  Year: 2011
+	  Cover: http://tut-audio.su/alb-mus/5785432-460x460/sing-the-hits-of-sawyer-brown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-code-source-download-6772279.html, (244) 
+	New Artist Deux Point Zero added to data base!
+	This album has been added to the data base:
+	  Artist: Deux Point Zero
+	  Album name: Code source
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6772279-460x460/code-source.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-best-of-francis-m-download-4937446.html, (245) 
+	New Artist FrancisM added to data base!
+	This album has been added to the data base:
+	  Artist: FrancisM
+	  Album name: Best Of Francis M
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/4937446-460x460/best-of-francis-m.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hits-of-the-90-s-download-6589373.html, (246) 
+	Artist Yo Cappa retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Yo Cappa
+	  Album name: Hits of the 90's
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6589373-460x460/hits-of-the-90-s.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/18
+	Found: /mp3-album-head-bang-boing-download-5063646.html, (247) 
+	New Artist J.B.O. added to data base!
+	This album has been added to the data base:
+	  Artist: J.B.O.
+	  Album name: Head Bang Boing
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5063646-460x460/head-bang-boing.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-dance-vol-3-download-6549479.html, (248) 
+	New Artist Vikki Igleas added to data base!
+	This album has been added to the data base:
+	  Artist: Vikki Igleas
+	  Album name: I Want Dance, Vol. 3
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6549479-460x460/i-want-dance-vol-3.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-fight-or-flight-download-4933432.html, (249) 
+	New Artist Emily Osment added to data base!
+	This album has been added to the data base:
+	  Artist: Emily Osment
+	  Album name: Fight Or Flight
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4933432-460x460/fight-or-flight.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-live-at-800-east-download-7020482.html, (250) 
+	New Artist Michael Feinberg's Humblebrag added to data base!
+	This album has been added to the data base:
+	  Artist: Michael Feinberg's Humblebrag
+	  Album name: Live at 800 East
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/7020482-460x460/live-at-800-east.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-90-s-giant-hits-download-6953491.html, (251) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: 90's Giant Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6953491-460x460/90-s-giant-hits.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-inventions-sinfonia-duets-bwv-772-805-download-6903176.html, (252) 
+	New Artist Roberto Giordano added to data base!
+	This album has been added to the data base:
+	  Artist: Roberto Giordano
+	  Album name: Bach: Inventions, Sinfonia & Duets, BWV 772 - 805
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6903176-460x460/bach-inventions-sinfonia-duets-bwv-772-805.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/19
+	Found: /mp3-album-dysfunctional-family-christmas-download-6539517.html, (253) 
+	New Artist Pinto Bennett And The Famous Motel Cowboys added to data base!
+	This album has been added to the data base:
+	  Artist: Pinto Bennett And The Famous Motel Cowboys
+	  Album name: Dysfunctional Family Christmas
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6539517-460x460/dysfunctional-family-christmas.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-energy-workout-download-6659793.html, (254) 
+	Artist 800 Projekt retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: Great Energy Workout
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6659793-460x460/great-energy-workout.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-best-of-goa-trance-vol-5-download-5087040.html, (255) 
+	New Artist DJ Alex added to data base!
+	This album has been added to the data base:
+	  Artist: DJ Alex
+	  Album name: The Best Of Goa Trance, vol. 5
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5087040-460x460/the-best-of-goa-trance-vol-5.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-atak004-download-5687054.html, (256) 
+	New Artist Steinbruchel added to data base!
+	This album has been added to the data base:
+	  Artist: Steinbruchel
+	  Album name: ATAK004
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5687054-460x460/atak004.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-nashville-stars-vol-47-download-5472263.html, (257) 
+	New Artist Nashville Stars, Vol. 47 added to data base!
+	This album has been added to the data base:
+	  Artist: Nashville Stars, Vol. 47
+	  Album name: Nashville Stars, Vol. 47
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5472263-460x460/nashville-stars-vol-47.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-slick-nik-download-5937317.html, (258) 
+	New Artist Robert Blake added to data base!
+	This album has been added to the data base:
+	  Artist: Robert Blake
+	  Album name: Slick Nik
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/5937317-460x460/slick-nik.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/20
+	Found: /mp3-album-summertime-kid-download-6210672.html, (259) 
+	New Artist Jeff Ronay added to data base!
+	This album has been added to the data base:
+	  Artist: Jeff Ronay
+	  Album name: SummerTime Kid
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6210672-460x460/summertime-kid.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-1-800-vincenzo-download-5338721.html, (260) 
+	Artist Vincenzo retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Vincenzo
+	  Album name: 1-800-Vincenzo
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/5338721-460x460/1-800-vincenzo.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-tomorrowland-2017-amicorum-spectaculum-download-9344794.html, (261) 
+	New Artist Armin van Buuren added to data base!
+	This album has been added to the data base:
+	  Artist: Armin van Buuren
+	  Album name: Tomorrowland 2017: Amicorum Spectaculum
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/9344794-460x460/tomorrowland-2017-amicorum-spectaculum.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-recognition-download-5543867.html, (262) 
+	New Artist Nsanity added to data base!
+	This album has been added to the data base:
+	  Artist: Nsanity
+	  Album name: Recognition
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5543867-460x460/recognition.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-musical-environments-download-7136794.html, (263) 
+	New Artist The Mercators added to data base!
+	This album has been added to the data base:
+	  Artist: The Mercators
+	  Album name: Musical Environments
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7136794-460x460/musical-environments.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/21
+	Found: /mp3-album-the-house2garage-experience-volume-1-download-5278066.html, (264) 
+	New Artist Sandy StarBurst added to data base!
+	This album has been added to the data base:
+	  Artist: Sandy StarBurst
+	  Album name: The House2Garage Experience Volume 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5278066-460x460/the-house2garage-experience-volume-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-piment-rouge-2-download-5366592.html, (265) 
+	New Artist F'rnky added to data base!
+	This album has been added to the data base:
+	  Artist: F'rnky
+	  Album name: Piment Rouge 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5366592-460x460/piment-rouge-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-90-s-music-collection-download-6604602.html, (266) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: 90's Music Collection
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6604602-460x460/90-s-music-collection.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-fruit-of-his-own-thinking-download-5712222.html, (267) 
+	New Artist Shake Da Mayor added to data base!
+	This album has been added to the data base:
+	  Artist: Shake Da Mayor
+	  Album name: The Fruit Of His Own Thinking
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5712222-460x460/the-fruit-of-his-own-thinking.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-after-hours-download-5631644.html, (268) 
+	New Artist DoublePark added to data base!
+	This album has been added to the data base:
+	  Artist: DoublePark
+	  Album name: After Hours
+	  Year: 2003
+	  Cover: http://tut-audio.su/alb-mus/5631644-460x460/after-hours.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/22
+	Found: /mp3-album-perfect-world-sing-the-hits-of-sawyer-brown-download-6867565.html, (269) 
+	New Artist Hit Tunes Karaoke added to data base!
+	This album has been added to the data base:
+	  Artist: Hit Tunes Karaoke
+	  Album name: Perfect World (Sing the Hits of Sawyer Brown)
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6867565-460x460/perfect-world-sing-the-hits-of-sawyer-brown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-one-download-6106556.html, (270) 
+	New Artist Robert Miles added to data base!
+	This album has been added to the data base:
+	  Artist: Robert Miles
+	  Album name: One
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6106556-460x460/one.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-instrumentals-vol-4-download-5664542.html, (271) 
+	New Artist Tom Caruana added to data base!
+	This album has been added to the data base:
+	  Artist: Tom Caruana
+	  Album name: Instrumentals Vol. 4
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5664542-460x460/instrumentals-vol-4.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-kemosabe-download-6347107.html, (272) 
+	New Artist Ape Up! added to data base!
+	This album has been added to the data base:
+	  Artist: Ape Up!
+	  Album name: Kemosabe
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6347107-460x460/kemosabe.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-springfit-salsa-download-5132218.html, (273) 
+	New Artist Libre added to data base!
+	This album has been added to the data base:
+	  Artist: Libre
+	  Album name: SpringFit: Salsa
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5132218-460x460/springfit-salsa.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-viva-la-rasta-download-6887956.html, (274) 
+	New Artist Alyana Brouwer added to data base!
+	This album has been added to the data base:
+	  Artist: Alyana Brouwer
+	  Album name: Viva la Rasta
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6887956-460x460/viva-la-rasta.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-playmachine-download-4915559.html, (275) 
+	New Artist Wibutee added to data base!
+	This album has been added to the data base:
+	  Artist: Wibutee
+	  Album name: Playmachine
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/4915559-460x460/playmachine.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/23
+	Found: /mp3-album-shadows-of-liberty-download-6642312.html, (276) 
+	New Artist Tandis Jenhudson added to data base!
+	This album has been added to the data base:
+	  Artist: Tandis Jenhudson
+	  Album name: Shadows of Liberty
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6642312-460x460/shadows-of-liberty.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-el-toque-de-tu-amor-download-5721997.html, (277) 
+	New Artist Héctor Perucho added to data base!
+	This album has been added to the data base:
+	  Artist: Héctor Perucho
+	  Album name: El Toque De Tu Amor
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5721997-460x460/el-toque-de-tu-amor.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-sheffield-a2tb-test-disc-my-disc-download-4975863.html, (278) 
+	New Artist Sheffield Lab added to data base!
+	This album has been added to the data base:
+	  Artist: Sheffield Lab
+	  Album name: The Sheffield / A2TB Test Disc - "My Disc"
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/4975863-460x460/the-sheffield-a2tb-test-disc-my-disc.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-non-stop-party-download-7092150.html, (279) 
+	New Artist Eric Vegas added to data base!
+	This album has been added to the data base:
+	  Artist: Eric Vegas
+	  Album name: Non Stop Party
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7092150-460x460/non-stop-party.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/24
+	Found: /mp3-album-24h-ep-download-5108314.html, (280) 
+	New Artist Dj Mark Morris added to data base!
+	This album has been added to the data base:
+	  Artist: Dj Mark Morris
+	  Album name: 24h Ep
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5108314-460x460/24h-ep.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-los-mejores-2006-download-4974564.html, (281) 
+	New Artist Hierro added to data base!
+	This album has been added to the data base:
+	  Artist: Hierro
+	  Album name: Los Mejores 2006
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/4974564-460x460/los-mejores-2006.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hitpool-karaoke-hits-charts-party-vol-39-download-6568899.html, (282) 
+	Artist Herman Brothers retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Herman Brothers
+	  Album name: Hitpool Karaoke Hits: Charts Party, Vol. 39
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6568899-460x460/hitpool-karaoke-hits-charts-party-vol-39.jpg
+-------------------------------------------------------------------------------------------
+ Try No. 2
+  /music-file/0800/1
+	Found: /mp3-album-expendable-download-4963057.html, (283) 
+	New Artist Marquis added to data base!
+	This album has been added to the data base:
+	  Artist: Marquis
+	  Album name: Expendable
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/4963057-460x460/expendable.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-skaship-download-5781691.html, (284) 
+	Artist Fast Beat Inc. retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Fast Beat Inc.
+	  Album name: Skaship
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/5781691-460x460/skaship.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-shiggar-fraggar-show-vol-2-download-5720747.html, (285) 
+	New Artist Invisbl Skratch Piklz added to data base!
+	This album has been added to the data base:
+	  Artist: Invisbl Skratch Piklz
+	  Album name: The Shiggar Fraggar Show Vol. 2
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5720747-460x460/the-shiggar-fraggar-show-vol-2.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/2
+	Found: /mp3-album-look-at-me-download-6061294.html, (286) 
+	New Artist Will Chase added to data base!
+	This album has been added to the data base:
+	  Artist: Will Chase
+	  Album name: Look At Me
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6061294-460x460/look-at-me.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-dog-police-download-5705474.html, (287) 
+	New Artist Dog Police added to data base!
+	This album has been added to the data base:
+	  Artist: Dog Police
+	  Album name: Dog Police
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5705474-460x460/dog-police.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/3
+	Found: /mp3-album-21st-century-pirates-download-5074387.html, (288) 
+	New Artist Private Line added to data base!
+	This album has been added to the data base:
+	  Artist: Private Line
+	  Album name: 21st Century Pirates
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5074387-460x460/21st-century-pirates.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-la-raza-knockout-hits-download-5676588.html, (289) 
+	New Artist Slow Pain added to data base!
+	This album has been added to the data base:
+	  Artist: Slow Pain
+	  Album name: La Raza Knockout Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5676588-460x460/la-raza-knockout-hits.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-the-90-s-vol-4-download-6549457.html, (290) 
+	Artist Vikki Igleas retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Vikki Igleas
+	  Album name: I Want the 90's, Vol. 4
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6549457-460x460/i-want-the-90-s-vol-4.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+	Found: /mp3-album-el-trailer-de-la-muerte-download-6906112.html, (291) 
+	New Artist Banda La Noria added to data base!
+	This album has been added to the data base:
+	  Artist: Banda La Noria
+	  Album name: El Trailer de la Muerte
+	  Year: 1997
+	  Cover: http://tut-audio.su/alb-mus/6906112-460x460/el-trailer-de-la-muerte.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-therapeutic-download-6258475.html, (292) 
+	New Artist Devious added to data base!
+	This album has been added to the data base:
+	  Artist: Devious
+	  Album name: Therapeutic
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6258475-460x460/therapeutic.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/5
+	Found: /mp3-album-maniac-1980-download-6715505.html, (293) 
+	New Artist Cluster Buster added to data base!
+	This album has been added to the data base:
+	  Artist: Cluster Buster
+	  Album name: Maniac 1980
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6715505-460x460/maniac-1980.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-everybody-download-9189488.html, (294) 
+	New Artist Logic added to data base!
+	This album has been added to the data base:
+	  Artist: Logic
+	  Album name: Everybody
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9189488-460x460/everybody.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-johann-sebastian-bach-inventionen-und-sinfonien-franzosische-suite-v-download-5060523.html, (295) 
+	New Artist Till Fellner added to data base!
+	This album has been added to the data base:
+	  Artist: Till Fellner
+	  Album name: Johann Sebastian Bach: Inventionen und Sinfonien / Französische Suite V
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5060523-460x460/johann-sebastian-bach-inventionen-und-sinfonien-franzosische-suite-v.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-get-fit-with-dance-music-download-6814839.html, (296) 
+	Artist 800 Projekt retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: Get Fit with Dance Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6814839-460x460/get-fit-with-dance-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-big-dog-little-dog-download-6087837.html, (297) 
+	New Artist Sammy Naquin and the Zydeco Whips added to data base!
+	This album has been added to the data base:
+	  Artist: Sammy Naquin and the Zydeco Whips
+	  Album name: Big Dog Little Dog
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6087837-460x460/big-dog-little-dog.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-dj-playlist-download-6659803.html, (298) 
+	Artist Christopher Crius retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Christopher Crius
+	  Album name: Great DJ Playlist
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6659803-460x460/great-dj-playlist.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-15-corridos-pesados-vol-1-download-6898356.html, (299) 
+	Artist Los 4 Grandes Del Norte retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Los 4 Grandes Del Norte
+	  Album name: 15 Corridos Pesados, Vol. 1
+	  Year: 1996
+	  Cover: http://tut-audio.su/alb-mus/6898356-460x460/15-corridos-pesados-vol-1.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/6
+	Found: /mp3-album-ya-huele-a-feria-las-mejores-sevillanas-download-4947996.html, (300) 
+	New Artist Sevillana added to data base!
+	This album has been added to the data base:
+	  Artist: Sevillana
+	  Album name: Ya Huele a Feria, Las mejores sevillanas
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/4947996-460x460/ya-huele-a-feria-las-mejores-sevillanas.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-marasmus-download-5523603.html, (301) 
+	New Artist Leng Tch'e added to data base!
+	This album has been added to the data base:
+	  Artist: Leng Tch'e
+	  Album name: Marasmus
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5523603-460x460/marasmus.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/7
+	Found: /mp3-album-16-lovesongs-for-the-spice-girls-download-5016837.html, (302) 
+	New Artist Dr. Walker added to data base!
+	This album has been added to the data base:
+	  Artist: Dr. Walker
+	  Album name: 16 Lovesongs For The Spice Girls
+	  Year: 1998
+	  Cover: http://tut-audio.su/alb-mus/5016837-460x460/16-lovesongs-for-the-spice-girls.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-slum-village-download-5504867.html, (303) 
+	New Artist Slum Village added to data base!
+	This album has been added to the data base:
+	  Artist: Slum Village
+	  Album name: Slum Village
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5504867-460x460/slum-village.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-the-90-s-vol-2-download-6547598.html, (304) 
+	New Artist Tainted Flavor added to data base!
+	This album has been added to the data base:
+	  Artist: Tainted Flavor
+	  Album name: I Want the 90's, Vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6547598-460x460/i-want-the-90-s-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-el-bocon-download-6682203.html, (305) 
+	New Artist Peligro Norteño added to data base!
+	This album has been added to the data base:
+	  Artist: Peligro Norteño
+	  Album name: El Bocon
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6682203-460x460/el-bocon.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-padre-download-4992924.html, (306) 
+	New Artist Rene & Rene added to data base!
+	This album has been added to the data base:
+	  Artist: Rene & Rene
+	  Album name: Padre
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/4992924-460x460/padre.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-leise-flehen-meine-lieder-download-5638543.html, (307) 
+	New Artist Karl Erb added to data base!
+	This album has been added to the data base:
+	  Artist: Karl Erb
+	  Album name: Leise flehen meine Lieder
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5638543-460x460/leise-flehen-meine-lieder.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-stay-asleep-download-4949185.html, (308) 
+	New Artist Big Wig added to data base!
+	This album has been added to the data base:
+	  Artist: Big Wig
+	  Album name: Stay Asleep
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/4949185-460x460/stay-asleep.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/8
+	Found: /mp3-album-double-dose-download-6682343.html, (309) 
+	New Artist Heavenly Scent added to data base!
+	This album has been added to the data base:
+	  Artist: Heavenly Scent
+	  Album name: Double-Dose
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6682343-460x460/double-dose.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-chopin-et-george-sand-une-passion-flamboyante-download-4985731.html, (310) 
+	New Artist Alain Duault, Marie-Christine Barrault & Yves Henry added to data base!
+	This album has been added to the data base:
+	  Artist: Alain Duault, Marie-Christine Barrault & Yves Henry
+	  Album name: Chopin et George Sand, une passion flamboyante
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4985731-460x460/chopin-et-george-sand-une-passion-flamboyante.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-phase-two-download-6513510.html, (311) 
+	New Artist O.T.C. added to data base!
+	This album has been added to the data base:
+	  Artist: O.T.C.
+	  Album name: Phase Two
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6513510-460x460/phase-two.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-cinema-music-download-6889252.html, (312) 
+	Artist 800 Projekt retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: Great Cinema Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6889252-460x460/great-cinema-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rage-mode-rare-action-download-8429038.html, (313) 
+	New Artist PHARAOH added to data base!
+	This album has been added to the data base:
+	  Artist: PHARAOH
+	  Album name: Rage Mode (Rare Action)
+	  Year: 2015
+	  Cover: http://tut-audio.su/alb-mus/8429038-460x460/rage-mode-rare-action.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/9
+	Found: /mp3-album-copulation-download-6709054.html, (314) 
+	New Artist MALCOLM'S BEFORE MECCA added to data base!
+	This album has been added to the data base:
+	  Artist: MALCOLM'S BEFORE MECCA
+	  Album name: Copulation
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/6709054-460x460/copulation.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/10
+	Found: /mp3-album-beware-of-giants-download-6041206.html, (315) 
+	New Artist Circus Of The Sun added to data base!
+	This album has been added to the data base:
+	  Artist: Circus Of The Sun
+	  Album name: Beware Of Giants
+	  Year: 1999
+	  Cover: http://tut-audio.su/alb-mus/6041206-460x460/beware-of-giants.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-classical-music-essentials-download-6231927.html, (316) 
+	New Artist Cousteau added to data base!
+	This album has been added to the data base:
+	  Artist: Cousteau
+	  Album name: Classical Music Essentials
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6231927-460x460/classical-music-essentials.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/11
+	Found: /mp3-album-young-fresh-new-download-6460482.html, (317) 
+	New Artist Zo added to data base!
+	This album has been added to the data base:
+	  Artist: Zo
+	  Album name: Young Fresh & New
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6460482-460x460/young-fresh-new.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-party-music-90-s-hits-download-6599975.html, (318) 
+	Artist Olivia Madelein retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Olivia Madelein
+	  Album name: Great Party Music: 90's Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6599975-460x460/great-party-music-90-s-hits.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/12
+  /music-file/0800/13
+	Found: /mp3-album-seven-download-6369999.html, (319) 
+	New Artist Home Again added to data base!
+	This album has been added to the data base:
+	  Artist: Home Again
+	  Album name: Seven
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6369999-460x460/seven.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-avenue-x-download-7051118.html, (320) 
+	New Artist The Turbo A.C.'s added to data base!
+	This album has been added to the data base:
+	  Artist: The Turbo A.C.'s
+	  Album name: Avenue X
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/7051118-460x460/avenue-x.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-i-want-r-b-vol-4-download-6549411.html, (321) 
+	Artist Samantha Perrie retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Samantha Perrie
+	  Album name: I Want R&B, Vol. 4
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6549411-460x460/i-want-r-b-vol-4.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-rock-stile-download-6841400.html, (322) 
+	New Artist Jef Agaev & Sergey Friedburg added to data base!
+	This album has been added to the data base:
+	  Artist: Jef Agaev & Sergey Friedburg
+	  Album name: Rock Stile
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6841400-460x460/rock-stile.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/14
+	Found: /mp3-album-take-a-joke-america-download-4851452.html, (323) 
+	New Artist Carlos Mencia added to data base!
+	This album has been added to the data base:
+	  Artist: Carlos Mencia
+	  Album name: Take A Joke America
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/4851452-460x460/take-a-joke-america.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-christopher-download-6003250.html, (324) 
+	New Artist Mahogany added to data base!
+	This album has been added to the data base:
+	  Artist: Mahogany
+	  Album name: Christopher
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6003250-460x460/christopher.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-great-kids-sports-music-download-6599989.html, (325) 
+	Artist Mega 24 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Mega 24
+	  Album name: Great Kids Sports Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6599989-460x460/great-kids-sports-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-seven-mix-download-6899730.html, (326) 
+	New Artist Z.A.S. added to data base!
+	This album has been added to the data base:
+	  Artist: Z.A.S.
+	  Album name: Seven Mix
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6899730-460x460/seven-mix.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/15
+	Found: /mp3-album-freedomuvspeech-download-6047371.html, (327) 
+	New Artist The Revolutionary Eseibio The Automatic added to data base!
+	This album has been added to the data base:
+	  Artist: The Revolutionary Eseibio The Automatic
+	  Album name: Freedomuvspeech
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6047371-460x460/freedomuvspeech.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/16
+	Found: /mp3-album-america-in-harms-way-cd-music-downloads-download-6305065.html, (328) 
+	New Artist Ca$h in the Bank Mob added to data base!
+	This album has been added to the data base:
+	  Artist: Ca$h in the Bank Mob
+	  Album name: AMERICA IN HARMS WAY 'cd music downloads'
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6305065-460x460/america-in-harms-way-cd-music-downloads.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/17
+	Found: /mp3-album-kentucky-breakdown-download-5732708.html, (329) 
+	New Artist Nine Pound Hammer added to data base!
+	This album has been added to the data base:
+	  Artist: Nine Pound Hammer
+	  Album name: Kentucky Breakdown
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/5732708-460x460/kentucky-breakdown.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-best-of-spring-2012-download-5352056.html, (330) 
+	New Artist Marco Raineri added to data base!
+	This album has been added to the data base:
+	  Artist: Marco Raineri
+	  Album name: Best of Spring 2012
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5352056-460x460/best-of-spring-2012.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/18
+	Found: /mp3-album-blues-for-the-red-sun-download-4875507.html, (331) 
+	New Artist Kyuss added to data base!
+	This album has been added to the data base:
+	  Artist: Kyuss
+	  Album name: Blues For The Red Sun
+	  Year: 1992
+	  Cover: http://tut-audio.su/alb-mus/4875507-460x460/blues-for-the-red-sun.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-dance-like-a-diva-download-6710352.html, (332) 
+	Artist Avaechme retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Avaechme
+	  Album name: Dance Like a Diva!
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6710352-460x460/dance-like-a-diva.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-christian-country-songs-download-6193485.html, (333) 
+	New Artist Andybob's Country Music added to data base!
+	This album has been added to the data base:
+	  Artist: Andybob's Country Music
+	  Album name: Christian Country Songs
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6193485-460x460/christian-country-songs.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-inventions-sinfonias-bwv-772-801-download-6595035.html, (334) 
+	New Artist Simone Dinnerstein added to data base!
+	This album has been added to the data base:
+	  Artist: Simone Dinnerstein
+	  Album name: Bach: Inventions & Sinfonias BWV 772-801
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6595035-460x460/bach-inventions-sinfonias-bwv-772-801.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/19
+	Found: /mp3-album-schubert-songs-download-6345460.html, (335) 
+	New Artist Thomas Meglioranza and Reiko Uchida added to data base!
+	This album has been added to the data base:
+	  Artist: Thomas Meglioranza and Reiko Uchida
+	  Album name: Schubert Songs
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6345460-460x460/schubert-songs.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-tasteninstrumente-johann-sebastian-bachs-download-5422821.html, (336) 
+	New Artist Christine Schornsheim added to data base!
+	This album has been added to the data base:
+	  Artist: Christine Schornsheim
+	  Album name: Tasteninstrumente : Johann Sebastian Bachs
+	  Year: 2000
+	  Cover: http://tut-audio.su/alb-mus/5422821-460x460/tasteninstrumente-johann-sebastian-bachs.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/20
+	Found: /mp3-album-heavy-haul-country-download-6159986.html, (337) 
+	New Artist Al Read added to data base!
+	This album has been added to the data base:
+	  Artist: Al Read
+	  Album name: Heavy Haul Country
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6159986-460x460/heavy-haul-country.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-bach-j-s-two-and-three-part-inventions-download-6554422.html, (338) 
+	New Artist András Schiff added to data base!
+	This album has been added to the data base:
+	  Artist: András Schiff
+	  Album name: Bach, J.S.: Two and Three Part Inventions
+	  Year: 2000
+	  Cover: http://tut-audio.su/alb-mus/6554422-460x460/bach-j-s-two-and-three-part-inventions.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-hot-fitness-workout-download-6671823.html, (339) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Hot Fitness Workout
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6671823-460x460/hot-fitness-workout.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ibiza-s-afterhours-download-5657034.html, (340) 
+	New Artist Babayaga added to data base!
+	This album has been added to the data base:
+	  Artist: Babayaga
+	  Album name: Ibiza's Afterhours
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/5657034-460x460/ibiza-s-afterhours.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-moves-like-jagger-download-6864530.html, (341) 
+	Artist 800 Projekt retrieved from data base!
+	This album has been added to the data base:
+	  Artist: 800 Projekt
+	  Album name: Moves Like Jagger
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6864530-460x460/moves-like-jagger.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-ma-conscience-download-5340427.html, (342) 
+	New Artist Dany Dan added to data base!
+	This album has been added to the data base:
+	  Artist: Dany Dan
+	  Album name: Ma conscience
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5340427-460x460/ma-conscience.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/21
+	Found: /mp3-album-murali-800-the-king-of-spin-download-6470778.html, (343) 
+	New Artist Joey Lewis added to data base!
+	This album has been added to the data base:
+	  Artist: Joey Lewis
+	  Album name: 'Murali 800' the King of Spin
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6470778-460x460/murali-800-the-king-of-spin.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-lieder-vol-2-schubert-wolf-download-5021542.html, (344) 
+	New Artist Brigitte Fassbaender added to data base!
+	This album has been added to the data base:
+	  Artist: Brigitte Fassbaender
+	  Album name: Lieder Vol.2 (Schubert & Wolf)
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5021542-460x460/lieder-vol-2-schubert-wolf.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/22
+	Found: /mp3-album-greatest-70-s-hits-download-7028984.html, (345) 
+	Artist Tainted Flavor retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Tainted Flavor
+	  Album name: Greatest 70's Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7028984-460x460/greatest-70-s-hits.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/23
+	Found: /mp3-album-i-want-the-90-s-vol-1-download-6546582.html, (346) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: I Want the 90's, Vol. 1
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6546582-460x460/i-want-the-90-s-vol-1.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-weird-wacky-songs-for-kids-download-5160941.html, (347) 
+	New Artist Bob King added to data base!
+	This album has been added to the data base:
+	  Artist: Bob King
+	  Album name: Weird & Wacky Songs for Kids
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5160941-460x460/weird-wacky-songs-for-kids.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-modo-ficcion-download-5095085.html, (348) 
+	New Artist Daniela Haverbeck added to data base!
+	This album has been added to the data base:
+	  Artist: Daniela Haverbeck
+	  Album name: Modo Ficcion
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/5095085-460x460/modo-ficcion.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/24
+	Found: /mp3-album-johann-sebastian-bach-i-quaderni-invenzioni-a-2-e-3-voci-download-5467305.html, (349) 
+	New Artist Riccardo Centazzo added to data base!
+	This album has been added to the data base:
+	  Artist: Riccardo Centazzo
+	  Album name: Johann Sebastian Bach: I quaderni / Invenzioni a 2 e 3 voci
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5467305-460x460/johann-sebastian-bach-i-quaderni-invenzioni-a-2-e-3-voci.jpg
+-------------------------------------------------------------------------------------------
+ Try No. 3
+  /music-file/0800/1
+	Found: /mp3-album-rather-be-demented-download-6514672.html, (350) 
+	New Artist Nicolaj added to data base!
+	This album has been added to the data base:
+	  Artist: Nicolaj
+	  Album name: Rather Be Demented
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6514672-460x460/rather-be-demented.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/2
+  /music-file/0800/3
+	Found: /mp3-album-82-chance-of-rain-download-5634428.html, (351) 
+	New Artist Andrew Oliver Sextet added to data base!
+	This album has been added to the data base:
+	  Artist: Andrew Oliver Sextet
+	  Album name: 82% Chance of Rain
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5634428-460x460/82-chance-of-rain.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-jag-har-forsokt-forklara-download-4914811.html, (352) 
+	New Artist Ludwig Bell added to data base!
+	This album has been added to the data base:
+	  Artist: Ludwig Bell
+	  Album name: Jag har försökt förklara
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/4914811-460x460/jag-har-forsokt-forklara.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+	Found: /mp3-album-country-karaoke-hits-vol-189-download-5810924.html, (353) 
+	New Artist Country Karaoke Hits, Vol. 189 added to data base!
+	This album has been added to the data base:
+	  Artist: Country Karaoke Hits, Vol. 189
+	  Album name: Country Karaoke Hits, Vol. 189
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5810924-460x460/country-karaoke-hits-vol-189.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/5
+	Found: /mp3-album-sports-songs-for-kids-download-7146371.html, (354) 
+	New Artist MC Scorpios added to data base!
+	This album has been added to the data base:
+	  Artist: MC Scorpios
+	  Album name: Sports Songs for Kids
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7146371-460x460/sports-songs-for-kids.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/6
+	Found: /mp3-album-i-want-2-look-at-u-download-5727921.html, (355) 
+	New Artist Jonny U. added to data base!
+	This album has been added to the data base:
+	  Artist: Jonny U.
+	  Album name: I Want 2 Look At U.
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5727921-460x460/i-want-2-look-at-u.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/7
+	Found: /mp3-album-walk-to-jo-burg-download-6393699.html, (356) 
+	New Artist Makhona Zonke Band added to data base!
+	This album has been added to the data base:
+	  Artist: Makhona Zonke Band
+	  Album name: Walk to Jo'burg
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6393699-460x460/walk-to-jo-burg.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/8
+  /music-file/0800/9
+	Found: /mp3-album-great-baby-lullabies-vol-2-download-6704431.html, (357) 
+	Artist Musosis retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Musosis
+	  Album name: Great Baby Lullabies, Vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6704431-460x460/great-baby-lullabies-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-get-fit-with-latin-music-download-6814680.html, (358) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Get Fit with Latin Music
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6814680-460x460/get-fit-with-latin-music.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-the-man-from-planet-x-download-6875243.html, (359) 
+	New Artist Raven Hunter added to data base!
+	This album has been added to the data base:
+	  Artist: Raven Hunter
+	  Album name: The Man from Planet X
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6875243-460x460/the-man-from-planet-x.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-a-state-of-trance-year-mix-2017-download-9724878.html, (360) 
+	Artist Armin van Buuren retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Armin van Buuren
+	  Album name: A State Of Trance Year Mix 2017
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/9724878-460x460/a-state-of-trance-year-mix-2017.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/10
+	Found: /mp3-album-finals-download-6127127.html, (361) 
+	New Artist Highlight Bomb added to data base!
+	This album has been added to the data base:
+	  Artist: Highlight Bomb
+	  Album name: Finals
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6127127-460x460/finals.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/11
+	Found: /mp3-album-post-script-download-5678706.html, (362) 
+	New Artist Practical Stylists added to data base!
+	This album has been added to the data base:
+	  Artist: Practical Stylists
+	  Album name: Post Script
+	  Year: 1983
+	  Cover: http://tut-audio.su/alb-mus/5678706-460x460/post-script.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/12
+	Found: /mp3-album-dance-party-throwback-download-6587356.html, (363) 
+	Artist Aurina Melany retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Aurina Melany
+	  Album name: Dance Party Throwback
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6587356-460x460/dance-party-throwback.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/13
+  /music-file/0800/14
+	Found: /mp3-album-aufrichtige-anleitung-honest-guidance-download-4964712.html, (364) 
+	New Artist Craig Sheppard added to data base!
+	This album has been added to the data base:
+	  Artist: Craig Sheppard
+	  Album name: Aufrichtige Anleitung (Honest Guidance)
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/4964712-460x460/aufrichtige-anleitung-honest-guidance.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/15
+	Found: /mp3-album-wanna-hang-out-i-ll-hang-out-download-6312044.html, (365) 
+	New Artist Fat Greggy featuring the Panda added to data base!
+	This album has been added to the data base:
+	  Artist: Fat Greggy featuring the Panda
+	  Album name: Wanna Hang Out.....I'll Hang Out
+	  Year: 2007
+	  Cover: http://tut-audio.su/alb-mus/6312044-460x460/wanna-hang-out-i-ll-hang-out.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/16
+	Found: /mp3-album-edm-explosion-download-6935095.html, (366) 
+	Artist Mega 24 retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Mega 24
+	  Album name: EDM Explosion
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6935095-460x460/edm-explosion.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/17
+	Found: /mp3-album-lieder-of-schubert-schumann-strauss-recordings-1948-1954-download-5683205.html, (367) 
+	New Artist Gerald Moore added to data base!
+	This album has been added to the data base:
+	  Artist: Gerald Moore
+	  Album name: Lieder of Schubert, Schumann & Strauss, Recordings 1948-1954
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/5683205-460x460/lieder-of-schubert-schumann-strauss-recordings-1948-1954.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/18
+	Found: /mp3-album-eternal-flow-download-6872052.html, (368) 
+	New Artist Arapahoe Trues added to data base!
+	This album has been added to the data base:
+	  Artist: Arapahoe Trues
+	  Album name: Eternal Flow
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6872052-460x460/eternal-flow.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+	Found: /mp3-album-jenny-james-download-6453894.html, (369) 
+	New Artist Jenny James added to data base!
+	This album has been added to the data base:
+	  Artist: Jenny James
+	  Album name: Jenny James
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/6453894-460x460/jenny-james.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/22
+  /music-file/0800/23
+	Found: /mp3-album-con-tanto-cache-download-5613305.html, (370) 
+	Artist Zona Roja retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Zona Roja
+	  Album name: Con Tanto Cache
+	  Year: 2008
+	  Cover: http://tut-audio.su/alb-mus/5613305-460x460/con-tanto-cache.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/24
+ Try No. 4
+  /music-file/0800/1
+	Found: /mp3-album-1-800-273-8255-download-9462962.html, (371) 
+	New Artist K. Masterpieces added to data base!
+	This album has been added to the data base:
+	  Artist: K. Masterpieces
+	  Album name: 1-800-273-8255
+	  Year: 2017
+	  Cover: http://tut-audio.su/alb-mus/9462962-460x460/1-800-273-8255.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/2
+	Found: /mp3-album-f-ck-u-download-6682200.html, (372) 
+	New Artist Viper added to data base!
+	This album has been added to the data base:
+	  Artist: Viper
+	  Album name: F*ck U
+	  Year: 2014
+	  Cover: http://tut-audio.su/alb-mus/6682200-460x460/f-ck-u.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/3
+	Found: /mp3-album-whiskey-trip-download-6058692.html, (373) 
+	New Artist Bobby Chitwood added to data base!
+	This album has been added to the data base:
+	  Artist: Bobby Chitwood
+	  Album name: Whiskey Trip
+	  Year: 2006
+	  Cover: http://tut-audio.su/alb-mus/6058692-460x460/whiskey-trip.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+  /music-file/0800/5
+  /music-file/0800/6
+	Found: /mp3-album-orange-alert-download-6354189.html, (374) 
+	New Artist Pete Carney added to data base!
+	This album has been added to the data base:
+	  Artist: Pete Carney
+	  Album name: Orange Alert
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/6354189-460x460/orange-alert.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/7
+  /music-file/0800/8
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+	Found: /mp3-album-j-s-bach-inventions-and-sinfonias-download-4956253.html, (375) 
+	New Artist Tatiana Nikolayeva (piano) added to data base!
+	This album has been added to the data base:
+	  Artist: Tatiana Nikolayeva (piano)
+	  Album name: J.S.Bach: Inventions and Sinfonias
+	  Year: 2004
+	  Cover: http://tut-audio.su/alb-mus/4956253-460x460/j-s-bach-inventions-and-sinfonias.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/13
+  /music-file/0800/14
+  /music-file/0800/15
+	Found: /mp3-album-eat-with-me-or-eat-a-box-of-bullets-download-8471929.html, (376) 
+	New Artist Hell Rell added to data base!
+	This album has been added to the data base:
+	  Artist: Hell Rell
+	  Album name: Eat With Me or Eat a Box of Bullets
+	  Year: 2016
+	  Cover: http://tut-audio.su/alb-mus/8471929-460x460/eat-with-me-or-eat-a-box-of-bullets.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/16
+  /music-file/0800/17
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+  /music-file/0800/22
+  /music-file/0800/23
+	Found: /mp3-album-highway-humor-download-7033996.html, (377) 
+	New Artist Jeff Capri added to data base!
+	This album has been added to the data base:
+	  Artist: Jeff Capri
+	  Album name: Highway Humor
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/7033996-460x460/highway-humor.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/24
+ Try No. 5
+  /music-file/0800/1
+  /music-file/0800/2
+	Found: /mp3-album-sue-everybody-download-6026882.html, (378) 
+	New Artist Keith and The Girl added to data base!
+	This album has been added to the data base:
+	  Artist: Keith and The Girl
+	  Album name: Sue Everybody
+	  Year: 2009
+	  Cover: http://tut-audio.su/alb-mus/6026882-460x460/sue-everybody.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-baila-latino-vol-2-download-6700018.html, (379) 
+	New Artist Cheo Diaz added to data base!
+	This album has been added to the data base:
+	  Artist: Cheo Diaz
+	  Album name: Baila latino vol. 2
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6700018-460x460/baila-latino-vol-2.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-aarp-go-the-weasels-download-6153897.html, (380) 
+	New Artist The Weasels added to data base!
+	This album has been added to the data base:
+	  Artist: The Weasels
+	  Album name: Aarp Go the Weasels
+	  Year: 2013
+	  Cover: http://tut-audio.su/alb-mus/6153897-460x460/aarp-go-the-weasels.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/3
+	Found: /mp3-album-serenity-for-the-soul-music-of-j-s-bach-for-piano-download-6225875.html, (381) 
+	New Artist Alexander Sung added to data base!
+	This album has been added to the data base:
+	  Artist: Alexander Sung
+	  Album name: Serenity for the Soul: Music of J.S. Bach for Piano
+	  Year: 2010
+	  Cover: http://tut-audio.su/alb-mus/6225875-460x460/serenity-for-the-soul-music-of-j-s-bach-for-piano.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+  /music-file/0800/5
+  /music-file/0800/6
+  /music-file/0800/7
+  /music-file/0800/8
+	Found: /mp3-album-amazing-90-s-party-download-6710133.html, (382) 
+	Artist Eriss Roberto retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Eriss Roberto
+	  Album name: Amazing 90's Party
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6710133-460x460/amazing-90-s-party.jpg
+-------------------------------------------------------------------------------------------
+	Found: /mp3-album-sucka-free-classics-download-5630993.html, (383) 
+	New Artist JT The Bigga Figga added to data base!
+	This album has been added to the data base:
+	  Artist: JT The Bigga Figga
+	  Album name: Sucka Free Classics
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/5630993-460x460/sucka-free-classics.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+  /music-file/0800/13
+	Found: /mp3-album-gyemantfater-download-8475913.html, (384) 
+	New Artist Busa Pista added to data base!
+	This album has been added to the data base:
+	  Artist: Busa Pista
+	  Album name: Gyémántfater
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/8475913-460x460/gyemantfater.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/14
+  /music-file/0800/15
+  /music-file/0800/16
+  /music-file/0800/17
+	Found: /mp3-album-plastic-fruit-popcorn-download-6471705.html, (385) 
+	New Artist The Hutchinsons added to data base!
+	This album has been added to the data base:
+	  Artist: The Hutchinsons
+	  Album name: Plastic Fruit & Popcorn
+	  Year: 1997
+	  Cover: http://tut-audio.su/alb-mus/6471705-460x460/plastic-fruit-popcorn.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+	Found: /mp3-album-the-springfield-chronicles-download-6029058.html, (386) 
+	New Artist Supe & the Sandwiches added to data base!
+	This album has been added to the data base:
+	  Artist: Supe & the Sandwiches
+	  Album name: the Springfield Chronicles
+	  Year: 1997
+	  Cover: http://tut-audio.su/alb-mus/6029058-460x460/the-springfield-chronicles.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/22
+	Found: /mp3-album-great-party-music-70-s-hits-download-6599974.html, (387) 
+	Artist Zipity Zak retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Zipity Zak
+	  Album name: Great Party Music: 70's Hits
+	  Year: 
+	  Cover: http://tut-audio.su/alb-mus/6599974-460x460/great-party-music-70-s-hits.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/23
+  /music-file/0800/24
+ Try No. 6
+  /music-file/0800/1
+  /music-file/0800/2
+  /music-file/0800/3
+	Found: /mp3-album-diving-duck-download-6893018.html, (388) 
+	New Artist Lou Ann Barton added to data base!
+	This album has been added to the data base:
+	  Artist: Lou Ann Barton
+	  Album name: Diving Duck
+	  Year: 2012
+	  Cover: http://tut-audio.su/alb-mus/6893018-460x460/diving-duck.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/4
+  /music-file/0800/5
+	Found: /mp3-album-slum-village-download-5575490.html, (389) 
+	Artist Slum Village retrieved from data base!
+	This album has been added to the data base:
+	  Artist: Slum Village
+	  Album name: Slum Village
+	  Year: 2005
+	  Cover: http://tut-audio.su/alb-mus/5575490-460x460/slum-village.jpg
+-------------------------------------------------------------------------------------------
+  /music-file/0800/6
+  /music-file/0800/7
+  /music-file/0800/8
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+  /music-file/0800/13
+  /music-file/0800/14
+  /music-file/0800/15
+  /music-file/0800/16
+  /music-file/0800/17
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+  /music-file/0800/22
+  /music-file/0800/23
+  /music-file/0800/24
+ Try No. 7
+  /music-file/0800/1
+  /music-file/0800/2
+  /music-file/0800/3
+  /music-file/0800/4
+  /music-file/0800/5
+  /music-file/0800/6
+  /music-file/0800/7
+  /music-file/0800/8
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+  /music-file/0800/13
+  /music-file/0800/14
+  /music-file/0800/15
+  /music-file/0800/16
+  /music-file/0800/17
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+  /music-file/0800/22
+  /music-file/0800/23
+  /music-file/0800/24
+ Try No. 8
+  /music-file/0800/1
+  /music-file/0800/2
+  /music-file/0800/3
+  /music-file/0800/4
+  /music-file/0800/5
+  /music-file/0800/6
+  /music-file/0800/7
+  /music-file/0800/8
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+  /music-file/0800/13
+  /music-file/0800/14
+  /music-file/0800/15
+  /music-file/0800/16
+  /music-file/0800/17
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+  /music-file/0800/22
+  /music-file/0800/23
+  /music-file/0800/24
+ Try No. 9
+  /music-file/0800/1
+  /music-file/0800/2
+  /music-file/0800/3
+  /music-file/0800/4
+  /music-file/0800/5
+  /music-file/0800/6
+  /music-file/0800/7
+  /music-file/0800/8
+  /music-file/0800/9
+  /music-file/0800/10
+  /music-file/0800/11
+  /music-file/0800/12
+  /music-file/0800/13
+  /music-file/0800/14
+  /music-file/0800/15
+  /music-file/0800/16
+  /music-file/0800/17
+  /music-file/0800/18
+  /music-file/0800/19
+  /music-file/0800/20
+  /music-file/0800/21
+  /music-file/0800/22
+  /music-file/0800/23
+  /music-file/0800/24
+-------------------------------------------------------------------------------------------
+Added 389 Albums to the database of 0800
+-------------------------------------------------------------------------------------------
